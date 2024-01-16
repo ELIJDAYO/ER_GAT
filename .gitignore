@@ -1,0 +1,4 @@
+*.ipynb_checkpoints
+*.txt
+.idea
+emotion_classifier.py
