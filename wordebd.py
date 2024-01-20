@@ -13,8 +13,7 @@ class WORDEBD(nn.Module):
 
         self.vocab_size, self.embedding_dim = vocab.vectors.size()
         # if specific_vocab_size != None: self.vocab_size = specific_vocab_size
-        self.embedding_layer = nn.Embedding(
-                self.vocab_size, self.embedding_dim)
+        self.embedding_layer = nn.Embedding(self.vocab_size, self.embedding_dim)
         self.embedding_layer.weight.data = vocab.vectors
 
         self.finetune_ebd = finetune_ebd
