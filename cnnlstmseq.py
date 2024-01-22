@@ -104,7 +104,8 @@ class CNNLSTMseq(nn.Module):
         ref = tuple(data['Utterance'].size())
         shape = (ref[0], ref[1], ( len(self.args.cnn_filter_sizes) * self.args.cnn_num_filters))
         output = torch.randn(shape).to(device)
-        
+#         print("Print output before convolution")
+#         print(output)
         if weights is None:
             for i in range(ebd.size(0)):
                 out = self._conv_max_pool(ebd, conv_filter=self.convs)
@@ -114,5 +115,6 @@ class CNNLSTMseq(nn.Module):
                 for j in range(ebd.size(1)):
                     out = self._conv_max_pool(ebd[j], weights=weights)
                     output[j] = out
-        
+#         print("Print output after convolution")
+#         print(output.shape)        
         return output
