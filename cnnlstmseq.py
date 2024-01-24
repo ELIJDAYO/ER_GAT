@@ -53,6 +53,7 @@ class CNNLSTMseq(nn.Module):
             x:      batch_size, max_doc_len, embedding_dim
         Output:     batch_size, num_filters_total
         '''
+#         print("Size of x before assertion:", x.size())
         assert(len(x.size()) == 3)
 
         x = x.permute(0, 2, 1)  # batch_size, embedding_dim, doc_len
@@ -94,24 +95,26 @@ class CNNLSTMseq(nn.Module):
             @return output: batch_size * embedding_dim
         '''
 
-        device = data['text'].device
+        device = data["Utterance"].device
         
         # Apply the word embedding, result:  batch_size, doc_len, embedding_dim
-        ebd = self.ebd(data, weights)
-        
+        ebd = self.ebd(data["Utterance"], weights)
+#         print(type(ebd))
         # apply 1d conv + max pool, result:  batch_size, num_filters_total        
-        ref = tuple(data['text'].size())
+        ref = tuple(data['Utterance'].size())
         shape = (ref[0], ref[1], ( len(self.args.cnn_filter_sizes) * self.args.cnn_num_filters))
         output = torch.randn(shape).to(device)
-        
+#         print("Print output before convolution")
+#         print(output)
         if weights is None:
             for i in range(ebd.size(0)):
-                out = self._conv_max_pool(ebd[i], conv_filter=self.convs)
-                output[i] = out
+                out = self._conv_max_pool(ebd, conv_filter=self.convs)
+                output = out
         else:
             for i in range(ebd.size(0)):
                 for j in range(ebd.size(1)):
-                    out = self._conv_max_pool(ebd[i][j], weights=weights)
-                    output[i][j] = out
-        
+                    out = self._conv_max_pool(ebd[j], weights=weights)
+                    output[j] = out
+#         print("Print output after convolution")
+#         print(output.shape)        
         return output
