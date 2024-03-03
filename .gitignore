@@ -1,4 +1,7 @@
 *.ipynb_checkpoints
-*.txt
-.idea
+*300d.txt
+*.idea
 emotion_classifier.py
+*.vec
+*.vec.pt
+*.pt
