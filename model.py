@@ -1265,3 +1265,17 @@ class DialogueGCN_DailyModel(nn.Module):
                                   self.avec)
 
         return log_prob, edge_index, edge_norm, edge_type, edge_index_lengths
+    
+    
+class FCClassifier(nn.Module):
+    def __init__(self, input_dim, hidden_dim, output_dim, dropout_prob):
+        super(FCClassifier, self).__init__()
+        self.linear1 = nn.Linear(input_dim, hidden_dim)
+        self.dropout = nn.Dropout(dropout_prob)
+        self.linear2 = nn.Linear(hidden_dim, output_dim)
+
+    def forward(self, x):
+        x = F.relu(self.linear1(x))
+        x = self.dropout(x)
+        x = self.linear2(x)
+        return x

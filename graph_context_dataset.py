@@ -26,3 +26,17 @@ class GraphContextDataset(Dataset):
             self.umask[idx],
             self.seq_lengths[idx]
         )
+
+class FeatureEngineeredDataset(Dataset):
+    def __init__(self, trainList, testList, valList):
+        self.trainList = trainList
+        self.testList = testList
+        self.valList = valList
+
+    def __len__(self):
+        return len(self.trainList)  # Use rangeSet for length
+
+    def __getitem__(self, idx):
+        return (
+            self.trainList[idx], self.testList[idx], self.valList[idx]
+        )
