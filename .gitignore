@@ -5,3 +5,6 @@ emotion_classifier.py
 *.vec
 *.vec.pt
 *.pt
+trainList.pkl
+testList.pkl
+valList.pkl

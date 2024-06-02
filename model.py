@@ -6,7 +6,8 @@ from torch.nn.utils.rnn import pad_sequence
 from torch_geometric.nn import RGCNConv, GraphConv, GATConv, GATv2Conv, RGATConv
 import numpy as np, itertools, random, copy, math
 from torch_geometric.utils import add_self_loops
-
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense, Dropout
 # For methods and models related to DialogueGCN jump to line 516
 
 class MaskedNLLLoss(nn.Module):
@@ -1279,3 +1280,4 @@ class FCClassifier(nn.Module):
         x = self.dropout(x)
         x = self.linear2(x)
         return x
+    
