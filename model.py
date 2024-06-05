@@ -713,7 +713,7 @@ def batch_graphify(features, qmask, lengths, window_past, window_future, edge_ty
                     edge_type.append(edge_type_mapping[str(speaker0) + str(speaker1) + '1'])
             except IndexError as e:
                 print(f"IndexError at item1: {item1}, j: {j}")
-                print(f"qmask.shape: {qmask.shape}")
+                print(f"qmask.shape: {qmask.shape}, {item1[0]} vs {item1[1]}")
                 print(f"qmask[item1[0], j, :]: {qmask[item1[0], j, :]}")
                 print(f"qmask[item1[1], j, :]: {qmask[item1[1], j, :]}")
                 raise e
@@ -1281,3 +1281,6 @@ class FCClassifier(nn.Module):
         x = self.linear2(x)
         return x
     
+# DATASET_PATH = "dataset_original"
+DATASET_PATH = "dataset_drop_noise"
+# DATASET_PATH = "dataset_smote"    
