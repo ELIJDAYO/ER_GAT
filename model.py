@@ -1281,6 +1281,6 @@ class FCClassifier(nn.Module):
         x = self.linear2(x)
         return x
     
-# DATASET_PATH = "dataset_original"
-DATASET_PATH = "dataset_drop_noise"
+DATASET_PATH = "dataset_original"
+# DATASET_PATH = "dataset_drop_noise"
 # DATASET_PATH = "dataset_smote"    
