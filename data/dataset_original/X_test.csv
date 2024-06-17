@@ -1,0 +1,3401 @@
+,Utterance,Speaker,Emotion,Sentiment,Dialogue_ID,Utterance_ID
+0,re coffee mug number bottom,Mark,6,positive,0,0
+1,s monica can track way if one missing can s number,Rachel,0,negative,0,1
+2,,Rachel,4,neutral,0,2
+3,okay,Ross,4,neutral,1,0
+4,ross say elevator,Rachel,4,neutral,1,1
+5,uhh yes i okay,Ross,5,negative,1,2
+6,okay left left left,Ross,6,negative,1,3
+7,okay left left,Rachel,0,negative,1,4
+8,okay lift straight head,Ross,0,negative,1,5
+9,straight head,Ross,0,negative,1,6
+10,can,Ross,3,positive,1,7
+11,can,Ross,3,positive,1,8
+12,okay,Ross,4,neutral,1,9
+13,got,Ross,4,neutral,1,10
+14,okay i,Steve,4,neutral,2,0
+15,wait i sorry i,Ross,2,negative,2,1
+16,howard,Steve,4,neutral,2,2
+17,yes man,Ross,4,neutral,2,3
+18,okay fine whatever welcome building,Steve,0,negative,2,4
+19,ugh can guy,Ross,1,negative,2,5
+20,ugh can guy,Ross,1,negative,3,0
+21,yeah i glass,Phoebe,4,neutral,3,1
+22,ohh,Phoebe,6,positive,4,0
+23,,Monica,4,neutral,4,1
+24,kicked i baby kicked,Phoebe,6,positive,4,2
+25,god,Monica,6,positive,4,3
+26,wait elastic underwear busted,Phoebe,4,neutral,4,4
+27,wait elastic underwear busted,Phoebe,4,neutral,5,0
+28,god i overslept i supposed half hour ago i got ta out,Joey,2,negative,5,1
+29,i i asleep i could shower i don t time,Joey,0,negative,5,2
+30,re ten block away if i i can,Joey,4,neutral,5,3
+31,god i overslept i supposed half hour ago i got ta out,Joey,2,negative,6,0
+32,wait joey can t stink,Monica,1,negative,6,1
+33,i i asleep i could shower i don t time,Joey,0,negative,6,2
+34,re ten block away if i i can,Joey,4,neutral,6,3
+35,re coming entire room i m chandler,Chandler,0,negative,7,0
+36,hi,Chandler,4,neutral,7,1
+37,hi,Marjorie,4,neutral,7,2
+38,mind if i,Chandler,4,neutral,7,3
+39,please,Marjorie,4,neutral,7,4
+40,,Chandler,4,neutral,7,5
+41,i sleep,Marjorie,4,neutral,7,6
+42,coincidence i listen sleep,Chandler,4,neutral,7,7
+43,re coming entire room i m chandler,Chandler,0,negative,8,0
+44,hi,Chandler,4,neutral,8,1
+45,coincidence i listen sleep,Chandler,4,neutral,8,2
+46,don t number,Joey,4,neutral,8,3
+47,previously friend,Joey,4,neutral,9,0
+48,i don t exactly s sorta wrestling,Monica,4,neutral,9,1
+49,i don t exactly s sorta wrestling,Monica,4,neutral,10,0
+50,,Phoebe,6,negative,10,1
+51,yeah costume,Monica,4,neutral,11,0
+52,,Phoebe,4,neutral,11,1
+53,,Phoebe,4,neutral,12,0
+54,s fake s totally brutal,Joey,4,neutral,12,1
+55,s fake s totally brutal,Joey,4,neutral,13,0
+56,yeah s two guy ring rule re,Chandler,4,neutral,13,1
+57,yeah s two guy ring rule re,Chandler,4,neutral,14,0
+58,can bite people s hair stuff,Monica,6,negative,14,1
+59,can bite people s hair stuff,Monica,6,negative,15,0
+60,yeah anything go eye gouging fish hooking,Ross,4,neutral,15,1
+61,s fish hooking,Monica,6,negative,15,2
+62,huh s fish hooking thanks man would hard describe taste,Ross,4,neutral,15,3
+63,huh s fish hooking thanks man would hard describe taste,Ross,4,neutral,16,0
+64,hand totally clean i gave duck bath,Joey,4,neutral,16,1
+65,bob nothing compared i bite lip screaming name,Jade,5,negative,17,0
+66,make good,Chandler,3,positive,17,1
+67,awkward bumpy,Jade,4,neutral,17,2
+68,maybe kind new cool style familiar,Chandler,4,neutral,17,3
+69,maybe used,Chandler,4,neutral,17,4
+70,time used i,Jade,3,positive,17,5
+71,awkward bumpy,Jade,4,neutral,18,0
+72,bumpy,Ross,6,negative,18,1
+73,bumpy,Ross,6,negative,19,0
+74,maybe kind new cool style familiar,Chandler,4,neutral,19,1
+75,maybe used,Chandler,4,neutral,19,2
+76,coming coming hello hi right coming,Phoebe,2,negative,20,0
+77,s bad,Monica,4,neutral,20,1
+78,s bad,Monica,4,neutral,21,0
+79,yeah damage pretty mostly contained bedroom,Fireman #1,5,negative,21,1
+80,excuse,Fireman #1,6,positive,21,2
+81,joey s working would,Monica,0,negative,21,3
+82,yeah damage pretty mostly contained bedroom,Fireman #1,5,negative,22,0
+83,,Phoebe,6,negative,22,1
+84,,Phoebe,6,negative,23,0
+85,god,Rachel,6,negative,23,1
+86,god,Rachel,6,negative,24,0
+87,hey buddy i can borrow uniform thursday,Joey,4,neutral,24,1
+88,hey buddy i can borrow uniform thursday,Joey,4,neutral,25,0
+89,excuse,Fireman #1,6,positive,25,1
+90,joey s working would,Monica,0,negative,26,0
+91,bad,Joey,5,negative,26,1
+92,bad,Joey,5,negative,27,0
+93,s bad s bad thing isn t burned as i,Phoebe,5,negative,27,1
+94,s bad s bad thing isn t burned as i,Phoebe,5,negative,28,0
+95,s room rach,Chandler,4,neutral,28,1
+96,s room rach,Chandler,4,neutral,29,0
+97,everything s ruined bed clothes favorite blue sweater,Rachel,5,negative,29,1
+98,everything s ruined bed clothes favorite blue sweater,Rachel,5,negative,30,0
+99,isn t mine,Monica,4,neutral,30,1
+100,fine i m sorry loss,Rachel,0,negative,30,2
+101,wow pal i,Rachel,3,positive,30,3
+102,yes can u,Monica,4,neutral,30,4
+103,fine i m sorry loss,Rachel,0,negative,31,0
+104,re gon na able while lady place,Fireman #1,4,neutral,31,1
+105,wow pal i,Rachel,3,positive,31,2
+106,yes can u,Monica,4,neutral,32,0
+107,figured out started fire fireman,Chandler,4,neutral,32,1
+108,s pressure,Joey,0,negative,33,0
+109,i offense guy different,Joey,4,neutral,33,1
+110,i don t if d,Joey,4,neutral,33,2
+111,yeah none u deal pressure job,Ross,4,neutral,33,3
+112,phoebe got ta something,Rachel,5,negative,34,0
+113,i s way joey s gon na time,Rachel,2,negative,34,1
+114,i m gon na hotel if s wedding going,Rachel,4,neutral,34,2
+115,okay don t monica s pregnant because frown,Phoebe,4,neutral,34,3
+116,okay,Rachel,4,neutral,34,4
+117,s guy fighting room i silly,Ross,0,negative,35,0
+118,ross can handle,Monica,4,neutral,35,1
+119,apparently i can t two people i care hurt something silly,Ross,5,negative,35,2
+120,i enough silliness,Ross,0,negative,35,3
+121,,Ross,0,negative,35,4
+122,two good point i ve known long time i ve seen happy ve since ve got together,Ross,5,negative,35,5
+123,throw away room,Ross,5,negative,35,6
+124,silly,Ross,3,positive,35,7
+125,important silliness,Ross,4,neutral,35,8
+126,mon wan na chandler don t ya,Ross,4,neutral,35,9
+127,yes,Monica,4,neutral,35,10
+128,good verbal contract binding state new york,Ross,3,positive,35,11
+129,apparently i can t two people i care hurt something silly,Ross,5,negative,36,0
+130,i enough silliness,Ross,0,negative,36,1
+131,don t silly,Chandler,0,negative,36,2
+132,,Ross,0,negative,36,3
+133,two good point i ve known long time i ve seen happy ve since ve got together,Ross,5,negative,36,4
+134,throw away room,Ross,5,negative,36,5
+135,silly,Ross,3,positive,36,6
+136,important silliness,Ross,4,neutral,36,7
+137,fond silliness soft spot,Chandler,4,neutral,36,8
+138,i don t,Chandler,4,neutral,36,9
+139,okay right chandler wan na monica right,Ross,4,neutral,36,10
+140,yeah i,Chandler,4,neutral,36,11
+141,mon wan na chandler don t ya,Ross,4,neutral,36,12
+142,fond silliness soft spot,Chandler,4,neutral,37,0
+143,best medicine,Monica,3,positive,37,1
+144,s laughter,Chandler,3,positive,37,2
+145,,Monica,4,neutral,37,3
+146,i don t,Chandler,4,neutral,37,4
+147,,Roger,4,neutral,38,0
+148,i phoebe,Phoebe,4,neutral,38,1
+149,i i surprised way,Roger,4,neutral,38,2
+150,great,Phoebe,6,positive,38,3
+151,actually typical behaviour kind dysfunctional group dynamic,Roger,4,neutral,38,4
+152,kind emotionally stunted sitting stupid coffee house stupid big cup i sorry might nipple define,Roger,0,negative,38,5
+153,define,Roger,0,negative,38,6
+154,i,Roger,0,negative,38,7
+155,done,Phoebe,6,positive,39,0
+156,yeah,Joey,3,positive,39,1
+157,yeah,Joey,3,positive,39,2
+158,yeah,Joey,3,positive,39,3
+159,big big swing,Joey,4,neutral,39,4
+160,don t back,Joey,4,neutral,39,5
+161,hey,Phoebe,3,positive,39,6
+162,,Joey,3,positive,39,7
+163,yeah,Joey,3,positive,40,0
+164,yeah,Joey,3,positive,40,1
+165,yeah,Joey,3,positive,40,2
+166,big big swing,Joey,4,neutral,40,3
+167,don t back,Joey,4,neutral,40,4
+168,,Joey,3,positive,40,5
+169,,Chandler,4,neutral,40,6
+170,,Chandler,4,neutral,41,0
+171,re celebrating joey got health insurance back,Phoebe,3,positive,41,1
+172,right,Chandler,4,neutral,41,2
+173,yeah sure yep if i heard shot right i throw body,Phoebe,3,positive,42,0
+174,yeah maybe i should bad neighborhood,Gary,3,positive,42,1
+175,okay,Phoebe,3,positive,42,2
+176,bye,Phoebe,4,neutral,42,3
+177,okay,Phoebe,3,positive,43,0
+178,bye,Phoebe,4,neutral,43,1
+179,bye,Joey,4,neutral,43,2
+180,out ross i hate save life kick as day,Joey,0,negative,43,3
+181,hey joey could cheese,Monica,4,neutral,44,0
+182,listen i d prefer if didn t joey,Joey,4,neutral,44,1
+183,since i don t anyone i thought d cool out cool nickname,Joey,4,neutral,44,2
+184,could waiter gather tonight s special,Monica,4,neutral,44,3
+185,okay first chilean sea bass prepared mango relish nobody writing down,Monica,4,neutral,44,4
+186,listen i d prefer if didn t joey,Joey,4,neutral,45,0
+187,since i don t anyone i thought d cool out cool nickname,Joey,4,neutral,45,1
+188,hey dragon s tip monday tuesday,A Waiter,4,neutral,45,2
+189,s s buck one,Joey,6,negative,45,3
+190,listen i d prefer if didn t joey,Joey,4,neutral,46,0
+191,since i don t anyone i thought d cool out cool nickname,Joey,4,neutral,46,1
+192,s s buck one,Joey,6,negative,46,2
+193,yeah people pretty generous holiday hurt wear tight trouser,The Waiter,4,neutral,46,3
+194,yeah people pretty generous holiday hurt wear tight trouser,The Waiter,4,neutral,47,0
+195,could waiter gather tonight s special,Monica,4,neutral,47,1
+196,okay first chilean sea bass prepared mango relish nobody writing down,Monica,4,neutral,47,2
+197,because can,The Waiter,4,neutral,47,3
+198,because gon na fake special cook night,Monica,0,negative,47,4
+199,hey guy kid played,Ross,4,neutral,48,0
+200,i joanne,Monica,4,neutral,48,1
+201,i,Monica,0,negative,48,2
+202,four pillow top queen who care divorce baby will,Monica,0,negative,48,3
+203,i m appalled way,Monica,0,negative,48,4
+204,yeah i m gon na doctor who went school,Ross,1,negative,48,5
+205,hey pheebs,Ross,4,neutral,48,6
+206,sweetie i could bigger man i could biggest man i could big huge giant man wouldn t difference i could pick father say,Ross,0,negative,48,7
+207,tiny doctor,Ross,0,negative,48,8
+208,i joanne,Monica,4,neutral,49,0
+209,question egg gellers war cry neighbourhood,Joey,4,neutral,49,1
+210,i,Monica,0,negative,49,2
+211,four pillow top queen who care divorce baby will,Monica,0,negative,49,3
+212,i m appalled way,Monica,0,negative,49,4
+213,question egg gellers war cry neighbourhood,Joey,4,neutral,50,0
+214,ewww s mattress king,Phoebe,1,negative,50,1
+215,i m i m freaking out,Phoebe,2,negative,50,2
+216,monica kinda trusted something shouldn t,Phoebe,2,negative,50,3
+217,right i haven t lived while i something,Phoebe,4,neutral,50,4
+218,monica light bedroom,Phoebe,4,neutral,50,5
+219,ewww s mattress king,Phoebe,1,negative,51,0
+220,don t honey channel channel,Chandler,1,negative,51,1
+221,i m i m freaking out,Phoebe,2,negative,51,2
+222,monica kinda trusted something shouldn t,Phoebe,2,negative,51,3
+223,right i haven t lived while i something,Phoebe,4,neutral,51,4
+224,monica light bedroom,Phoebe,4,neutral,51,5
+225,don t honey channel channel,Chandler,1,negative,52,0
+226,wait wait i wan na i divorce half kingdom gon na mine,Janice,3,positive,52,1
+227,wank,Chandler,0,negative,52,2
+228,i can s using divorce mattress,Janice,0,negative,52,3
+229,i can s using divorce mattress,Janice,0,negative,53,0
+230,i,Monica,0,negative,53,1
+231,four pillow top queen who care divorce baby will,Monica,0,negative,53,2
+232,i m appalled way,Monica,0,negative,53,3
+233,i,Monica,0,negative,54,0
+234,four pillow top queen who care divorce baby will,Monica,0,negative,54,1
+235,i m appalled way,Monica,0,negative,54,2
+236,didn t couldn t alone,Rachel,5,negative,54,3
+237,right s bottom line ross fixable if act fast okay,Rachel,4,neutral,54,4
+238,i ll invite brunch tomorrow can nice,Rachel,4,neutral,54,5
+239,okay gon na okay,Rachel,0,negative,54,6
+240,because i already got mother father who can room together okay i don t wan na separate room,Rachel,0,negative,54,7
+241,didn t couldn t alone,Rachel,5,negative,55,0
+242,four percent okay i tip than s bug food,Ross,1,negative,55,1
+243,ross tonight two getting would chiropractor already,Rachel,0,negative,55,2
+244,yeah i m gon na doctor who went school,Ross,1,negative,55,3
+245,hey pheebs,Ross,4,neutral,55,4
+246,right s bottom line ross fixable if act fast okay,Rachel,4,neutral,55,5
+247,i ll invite brunch tomorrow can nice,Rachel,4,neutral,55,6
+248,honey i tried nice doesn t,Ross,0,negative,55,7
+249,okay ross i realise father difficult s got bigger man,Rachel,4,neutral,55,8
+250,sweetie i could bigger man i could biggest man i could big huge giant man wouldn t difference i could pick father say,Ross,0,negative,55,9
+251,tiny doctor,Ross,0,negative,55,10
+252,okay can t one time ross,Rachel,5,negative,55,11
+253,rachel one brunch gon na solve anything got ta face okay re gon na,Ross,0,negative,55,12
+254,okay gon na okay,Rachel,0,negative,55,13
+255,because i already got mother father who can room together okay i don t wan na separate room,Rachel,0,negative,55,14
+256,okay okay okay i ll bagel,Ross,4,neutral,55,15
+257,yeah i m gon na doctor who went school,Ross,1,negative,56,0
+258,hey pheebs,Ross,4,neutral,56,1
+259,i m i m freaking out,Phoebe,2,negative,56,2
+260,monica kinda trusted something shouldn t,Phoebe,2,negative,56,3
+261,right i haven t lived while i something,Phoebe,4,neutral,56,4
+262,monica light bedroom,Phoebe,4,neutral,56,5
+263,sweetie i could bigger man i could biggest man i could big huge giant man wouldn t difference i could pick father say,Ross,0,negative,56,6
+264,tiny doctor,Ross,0,negative,56,7
+265,i m i m freaking out,Phoebe,2,negative,57,0
+266,monica kinda trusted something shouldn t,Phoebe,2,negative,57,1
+267,right i haven t lived while i something,Phoebe,4,neutral,57,2
+268,monica light bedroom,Phoebe,4,neutral,57,3
+269,yeah,Rachel,4,neutral,57,4
+270,i,Phoebe,4,neutral,57,5
+271,right s bottom line ross fixable if act fast okay,Rachel,4,neutral,57,6
+272,i ll invite brunch tomorrow can nice,Rachel,4,neutral,57,7
+273,okay gon na okay,Rachel,0,negative,57,8
+274,because i already got mother father who can room together okay i don t wan na separate room,Rachel,0,negative,57,9
+275,okay joey since returning stuff right audition gon na wear underwear,Rachel,4,neutral,58,0
+276,right better,Joey,4,neutral,58,1
+277,okay missing something ooh i umm okay,Rachel,4,neutral,58,2
+278,purse shoulder bag,Rachel,0,negative,59,0
+279,look woman purse,Joey,4,neutral,59,1
+280,joey trust men wearing spring catalog,Rachel,4,neutral,59,2
+281,,Joey,4,neutral,59,3
+282,exactly unisex,Rachel,4,neutral,59,4
+283,maybe sex,Joey,4,neutral,59,5
+284,joey,Rachel,3,positive,59,6
+285,i ai gon na say,Joey,4,neutral,59,7
+286,told parent,Phoebe,4,neutral,60,0
+287,ok pretty cool brother straight,Duncan,4,neutral,60,1
+288,,Phoebe,4,neutral,60,2
+289,i one question if figured out sooner i i would one who,Phoebe,4,neutral,60,3
+290,i sorry i answer would better,Phoebe,5,negative,60,4
+291,i phoebe,Duncan,3,positive,60,5
+292,brother straigh huh seriously,Phoebe,6,positive,60,6
+293,hey,Chandler,3,positive,61,0
+294,hi,Monica,4,neutral,61,1
+295,i came drop weekend kinda sucked huh,Chandler,4,neutral,61,2
+296,yeah,Monica,3,positive,61,3
+297,i guess,Chandler,5,negative,61,4
+298,,Monica,4,neutral,61,5
+299,end sometime,Chandler,5,negative,61,6
+300,exactly,Monica,6,negative,61,7
+301,because weekend fight,Chandler,5,negative,61,8
+302,chandler crazy,Monica,6,positive,61,9
+303,if time fight someone anyone longer,Monica,0,negative,61,10
+304,,Chandler,4,neutral,61,11
+305,cute,Monica,3,positive,61,12
+306,,Monica,3,positive,61,13
+307,fight,Monica,4,neutral,61,14
+308,deal,Monica,3,positive,61,15
+309,nothing freak out,Monica,4,neutral,61,16
+310,okay great,Chandler,3,positive,61,17
+311,ohh welcome adult relationship,Monica,3,positive,61,18
+312,relationship,Chandler,6,negative,61,19
+313,i afraid,Monica,4,neutral,61,20
+314,okay,Chandler,4,neutral,61,21
+315,hi,Rachel,3,positive,62,0
+316,short hair better,Danny,4,neutral,62,1
+317,danny,Rachel,4,neutral,62,2
+318,can i little secret,Phoebe,4,neutral,63,0
+319,yeah,Rachel,3,positive,63,1
+320,i one,Phoebe,4,neutral,63,2
+321,ohh i gon na news,Rachel,3,positive,63,3
+322,honey,Monica,4,neutral,64,0
+323,i side hurt crashed yesterday,Rachel,4,neutral,64,1
+324,god i m sorry,Monica,5,negative,64,2
+325,i,Rachel,4,neutral,64,3
+326,ow,Rachel,0,negative,64,4
+327,god,Monica,6,negative,64,5
+328,i suit making point,Rachel,4,neutral,64,6
+329,re re re free stupid,Rachel,0,negative,64,7
+330,absolutely i than i colonel sander ross ross i m kidding,Monica,4,neutral,64,8
+331,yeah,Rachel,4,neutral,64,9
+332,gon na u,Monica,4,neutral,64,10
+333,yeah invented cotton gin,Rachel,4,neutral,64,11
+334,god,Monica,6,negative,65,0
+335,hey guy guess,Ross,3,positive,65,1
+336,right,Ross,4,neutral,65,2
+337,absolutely i than i colonel sander ross ross i m kidding,Monica,4,neutral,65,3
+338,i,Rachel,4,neutral,66,0
+339,ow,Rachel,0,negative,66,1
+340,hey guy guess,Ross,3,positive,66,2
+341,got job river boat,Rachel,4,neutral,66,3
+342,i didn t wear suit year because hated guess re girlfriend anymore,Ross,0,negative,66,4
+343,i suit making point,Rachel,4,neutral,66,5
+344,re re re free stupid,Rachel,0,negative,66,6
+345,right,Ross,4,neutral,66,7
+346,yeah invented cotton gin,Rachel,4,neutral,66,8
+347,okay good bye,Ross,0,negative,66,9
+348,hi,Man,3,positive,67,0
+349,hi,Phoebe,4,neutral,67,1
+350,down,Man,4,neutral,68,0
+351,down please hate ball buster can i,Phoebe,3,positive,68,1
+352,could press please,Man,4,neutral,68,2
+353,sure i bad i broke leg,Phoebe,5,negative,68,3
+354,yeah d,Man,4,neutral,68,4
+355,s long story,Phoebe,4,neutral,68,5
+356,s kind embarrassing,Phoebe,4,neutral,68,6
+357,s say typographical error sex manual,Phoebe,3,positive,68,7
+358,,Phoebe,4,neutral,68,8
+359,car accident,Man,5,negative,68,9
+360,guess idiot cell phone wasn t paying attention,Man,4,neutral,68,10
+361,yeah hey s hey i re visiting someone,Man,4,neutral,68,11
+362,yeah,Phoebe,4,neutral,68,12
+363,umm if sometime y maybe might visit someone else,Man,4,neutral,68,13
+364,yeah would,Phoebe,3,positive,68,14
+365,wait elevator,Phoebe,0,negative,68,15
+366,s long story,Phoebe,4,neutral,69,0
+367,s kind embarrassing,Phoebe,4,neutral,69,1
+368,s say typographical error sex manual,Phoebe,3,positive,69,2
+369,,Phoebe,4,neutral,69,3
+370,yeah would,Phoebe,3,positive,69,4
+371,wait elevator,Phoebe,0,negative,69,5
+372,got ta press button,Joey,4,neutral,69,6
+373,lamp,Chandler,4,neutral,70,0
+374,i factor room tax,Chandler,6,negative,70,1
+375,dude worry i found unattended maid car way ahead game,Ross,4,neutral,70,2
+376,god,Ross,6,positive,70,3
+377,,Chandler,6,positive,70,4
+378,something new bowl,Ross,6,positive,70,5
+379,enough away,Chandler,2,negative,70,6
+380,i i pinecone,Ross,3,positive,70,7
+381,forest right,Chandler,4,neutral,70,8
+382,,Ross,4,neutral,70,9
+383,ok quick,Chandler,2,negative,70,10
+384,thank delightful,Ross,3,positive,70,11
+385,maple candy,Ross,3,positive,70,12
+386,god happened,Rachel,6,negative,71,0
+387,god crazy chandler spun off bed,Janice,3,positive,71,1
+388,wow spinning sound fun,Rachel,3,positive,71,2
+389,i wish trying ross hug roll thing,Janice,3,positive,71,3
+390,ross,Rachel,6,positive,71,4
+391,hug kinda roll away god,Janice,1,negative,71,5
+392,yes yes yes yes s dad s frank yeah i m sorry i m getting flingy,Phoebe,6,positive,72,0
+393,easy if s cooky counter sangria i can sangria,Phoebe Sr,3,positive,72,1
+394,sorry cooky good thanks,Phoebe,4,neutral,72,2
+395,,Phoebe Sr,4,neutral,72,3
+396,umm anyway umm i ve i ve looking father umm heard seen,Phoebe,4,neutral,72,4
+397,m sorry i guess lost track everybody high school,Phoebe Sr,5,negative,72,5
+398,okay everything parent everything,Phoebe,4,neutral,72,6
+399,ohh together fact nickname three u,Phoebe Sr,4,neutral,72,7
+400,,Phoebe,6,positive,72,8
+401,three loser,Phoebe Sr,5,negative,72,9
+402,poor lily,Phoebe Sr,5,negative,72,10
+403,ohh heard happened must terrible losing mother way,Phoebe Sr,5,negative,72,11
+404,yeah great,Phoebe,3,positive,72,12
+405,alright already tried feeding changing burping one,Phoebe,5,negative,73,0
+406,back time listen phoebe,Phoebe,0,negative,73,1
+407,alright s something say holding baby close body swing rapidly side side,Monica,4,neutral,73,2
+408,god i losing mind,Monica,0,negative,73,3
+409,yeah kidding prof good can sex ross,Phoebe,0,negative,73,4
+410,alright s something say holding baby close body swing rapidly side side,Monica,4,neutral,74,0
+411,ok,Rachel,4,neutral,74,1
+412,worked,Monica,6,positive,74,2
+413,stopped throw little bit,Rachel,5,negative,74,3
+414,i gon na hour won t cry,Rachel,5,negative,74,4
+415,umm rach,Monica,4,neutral,74,5
+416,yeah i m sure,Rachel,4,neutral,74,6
+417,god i losing mind,Monica,0,negative,74,7
+418,re,Monica,4,neutral,75,0
+419,s easy i re married sex who,Rachel,1,negative,75,1
+420,yeah i can don t i don t because i i time betcha,Monica,3,positive,75,2
+421,monica ve ve done right,Rachel,6,positive,75,3
+422,course i i m year old virgin,Monica,0,negative,75,4
+423,god re year old virgin,Rachel,6,negative,75,5
+424,say louder i don t guy way back heard,Monica,1,negative,75,6
+425,s i haven t opportunity,Monica,0,negative,75,7
+426,i y i m waiting perfect guy,Monica,4,neutral,75,8
+427,i m seeing guy roger right,Monica,4,neutral,75,9
+428,s perfect umm i maybe i should,Monica,4,neutral,75,10
+429,y flower,Monica,4,neutral,75,11
+430,god honey ve waited,Rachel,6,negative,75,12
+431,y right,Monica,6,positive,75,13
+432,i sex big deal,Rachel,0,negative,75,14
+433,shouldn t rule restriction,Rachel,0,negative,75,15
+434,y people should able sleep who whenever,Rachel,4,neutral,75,16
+435,rachel i m gon na s okay cheat husband,Monica,0,negative,75,17
+436,virgin,Rachel,0,negative,75,18
+437,push push,All,4,neutral,76,0
+438,,Ross,3,positive,76,1
+439,,Ross,3,positive,77,0
+440,,Carol,4,neutral,77,1
+441,long story honey,Ross,4,neutral,77,2
+442,long story honey,Ross,4,neutral,78,0
+443,right carol i pushing i excuse could i,Dr. Franzblau,4,neutral,78,1
+444,,Rachel,4,neutral,79,0
+445,brother back exactly kind crazy thing wo hearing,Monica,0,negative,79,1
+446,i hate,Janice,0,negative,80,0
+447,i i said hate i careful,Joey,4,neutral,80,1
+448,little birdie told something wanting rip arm off throw,Janice,0,negative,80,2
+449,got taking big leap,Joey,2,negative,80,3
+450,right fine fine fine fine fine got something little situation joey,Janice,0,negative,80,4
+451,idea spending quality time together,Janice,4,neutral,80,5
+452,gon na,Joey,0,negative,80,6
+453,chandler,Janice,0,negative,80,7
+454,guess i got audition,Student,3,positive,81,0
+455,awww one student got audition i m proud,Joey,3,positive,81,1
+456,i wondering if would coaching,Student,4,neutral,81,2
+457,bet s part,Joey,3,positive,81,3
+458,s great s role,Student,3,positive,81,4
+459,hi hi hi umm anyone seen chandler,Ross,4,neutral,82,0
+460,i thought,Mr. Geller,4,neutral,82,1
+461,umm re playing little game y hide seek,Ross,4,neutral,82,2
+462,can t u son s cheating,Mr. Geller,4,neutral,82,3
+463,re right thanks keeping honest dad,Ross,4,neutral,82,4
+464,re right thanks keeping honest dad,Ross,4,neutral,83,0
+465,better can t bride wedding dress,Mrs. Geller,4,neutral,83,1
+466,better can t bride wedding dress,Mrs. Geller,4,neutral,84,0
+467,i recall got married i saw groom wedding dress,Mrs. Bing,3,positive,84,1
+468,i recall got married i saw groom wedding dress,Mrs. Bing,3,positive,85,0
+469,wedding s bad luck,Mr. Bing,4,neutral,85,1
+470,honey isn t good luck,Mrs. Bing,4,neutral,85,2
+471,honey isn t good luck,Mrs. Bing,4,neutral,86,0
+472,god monica,Ross,6,positive,86,1
+473,god monica,Ross,6,positive,87,0
+474,i hey s chandler doin,Monica,4,neutral,87,1
+475,great s great don t worry chandler,Ross,4,neutral,87,2
+476,yeah baby,Monica,3,positive,88,0
+477,i m glad guy okay i thinking would two actually hooked,Phoebe,4,neutral,88,1
+478,okay strip club right,Monica,4,neutral,89,0
+479,yeah great thanks hottest cocktail waitress quitting teach third grade,Chandler,0,negative,89,1
+480,yeah great thanks hottest cocktail waitress quitting teach third grade,Chandler,0,negative,90,0
+481,i can t hasn t called,Rachel,0,negative,90,1
+482,i don t,Rachel,1,negative,90,2
+483,right i m gon na sweat back,Chandler,4,neutral,90,3
+484,i can t hasn t called,Rachel,0,negative,91,0
+485,who josh,Phoebe,6,negative,91,1
+486,s joshua,Rachel,0,negative,91,2
+487,,Phoebe,6,negative,91,3
+488,wait,Phoebe,6,negative,91,4
+489,okay y right right,Phoebe,5,negative,91,5
+490,weren t great guy,Phoebe,5,negative,91,6
+491,because re girl,Phoebe,4,neutral,91,7
+492,s joshua,Rachel,0,negative,92,0
+493,doesn t josh,Monica,6,negative,92,1
+494,i don t,Rachel,1,negative,92,2
+495,right i m gon na sweat back,Chandler,4,neutral,93,0
+496,,Phoebe,6,negative,93,1
+497,wait,Phoebe,6,negative,93,2
+498,okay y right right,Phoebe,5,negative,93,3
+499,weren t great guy,Phoebe,5,negative,93,4
+500,because re girl,Phoebe,4,neutral,93,5
+501,thank thanks,Ross,3,positive,94,0
+502,yeah i lost,Ross,5,negative,94,1
+503,y i m gon na anymore would can finish,Ross,4,neutral,94,2
+504,yeah i if i can,Phoebe,6,positive,94,3
+505,yeah i could,Ross,4,neutral,94,4
+506,thank thanks,Ross,3,positive,95,0
+507,yeah i lost,Ross,5,negative,95,1
+508,y i m gon na anymore would can finish,Ross,4,neutral,95,2
+509,yeah i could,Ross,4,neutral,95,3
+510,,Rachel,6,positive,95,4
+511,i played bad purpose guy,Ross,3,positive,95,5
+512,thank thanks,Ross,3,positive,96,0
+513,yeah i lost,Ross,5,negative,96,1
+514,y i m gon na anymore would can finish,Ross,4,neutral,96,2
+515,i played bad purpose guy,Ross,3,positive,96,3
+516,okay trying bad whole time,Monica,6,positive,96,4
+517,last song,Ross,4,neutral,96,5
+518,i thinking people game,Monica,4,neutral,97,0
+519,yeah who s playing,Joey,4,neutral,97,1
+520,player,Monica,4,neutral,97,2
+521,please s relief,Monica,4,neutral,97,3
+522,right pheebs stick out plate,Joey,4,neutral,97,4
+523,player,Monica,4,neutral,98,0
+524,somebody seems missing hostess,Ross,4,neutral,98,1
+525,please s relief,Monica,4,neutral,98,2
+526,right pheebs stick out plate,Joey,4,neutral,99,0
+527,,Phoebe,4,neutral,99,1
+528,whose,Chandler,4,neutral,100,0
+529,i don t say,Rachel,4,neutral,100,1
+530,i don t care whose,Chandler,3,positive,100,2
+531,diane keaton,Rachel,4,neutral,100,3
+532,phoebe s aren t dressed,Monica,0,negative,101,0
+533,i m sorry i wrote best dance song wedding check out,Phoebe,4,neutral,101,1
+534,phoebe i ll if ready i ll wedding,Monica,4,neutral,101,2
+535,,Phoebe,6,positive,101,3
+536,s exciting,Phoebe,3,positive,101,4
+537,thanks mon,Phoebe,3,positive,101,5
+538,mon if touch guitar again i ll pound little bit,Phoebe,0,negative,101,6
+539,fair enough ready,Monica,4,neutral,101,7
+540,i ll everybody else finally can celebrating i m sorry apparently i ve opened door past,Monica,4,neutral,101,8
+541,best shoe good,Leslie,3,positive,102,0
+542,i wear everyday,Leslie,3,positive,102,1
+543,down heel hole toe,Leslie,3,positive,102,2
+544,don t care people say,Leslie,3,positive,102,3
+545,foot s best friend pal end,Leslie,3,positive,102,4
+546,i m one hot chicky,Leslie,3,positive,102,5
+547,though late one night light i,Leslie,4,neutral,102,6
+548,i stepped something icky,Phoebe,3,positive,102,7
+549,i stepped something icky,Phoebe,3,positive,103,0
+550,sticky shoe sticky shoe smile sticky shoe sticky shoe next time i ll avoid pillleeeee,Phoebe and Leslie,3,positive,103,1
+551,god s gon na weird i home re,Joey,5,negative,104,0
+552,joey chan s,Joey,5,negative,104,1
+553,j c s,Joey,5,negative,104,2
+554,wan na joey chandler s,Joey,4,neutral,104,3
+555,can t,Joey,4,neutral,104,4
+556,i m gon na hall can stuff,Chandler,4,neutral,104,5
+557,yeah won t able middle night long talk feeling future,Joey,5,negative,104,6
+558,,Chandler,4,neutral,104,7
+559,hey,Chandler,4,neutral,104,8
+560,hi,Joey,4,neutral,104,9
+561,,Chandler,4,neutral,105,0
+562,hi,Monica,4,neutral,105,1
+563,hey,Chandler,4,neutral,105,2
+564,i i told rachel gon na two u,Monica,4,neutral,105,3
+565,yeah d,Chandler,4,neutral,105,4
+566,yeah surprisingly yeah didn t cry wasn t angry sad,Monica,4,neutral,105,5
+567,god s gon na weird i home re,Joey,5,negative,106,0
+568,joey chan s,Joey,5,negative,106,1
+569,j c s,Joey,5,negative,106,2
+570,wan na joey chandler s,Joey,4,neutral,106,3
+571,can t,Joey,4,neutral,106,4
+572,hi,Joey,4,neutral,106,5
+573,i i told rachel gon na two u,Monica,4,neutral,106,6
+574,okay if vacuum s closet side garbage bag next refrigerator,Monica,4,neutral,107,0
+575,okay okay rachel s gon na can t i stuff,Phoebe,4,neutral,107,1
+576,yeah okay,Monica,4,neutral,107,2
+577,yeah okay,Monica,4,neutral,108,0
+578,right s,Chandler,3,positive,108,1
+579,right s,Chandler,3,positive,109,0
+580,,Joey,3,positive,109,1
+581,,Joey,3,positive,110,0
+582,yeah,Ross,3,positive,110,1
+583,london baby,Joey,3,positive,110,2
+584,hi,Monica,3,positive,111,0
+585,hi,Chandler,3,positive,111,1
+586,i,Monica,4,neutral,111,2
+587,i,Chandler,4,neutral,111,3
+588,hey,Chandler,3,positive,111,4
+589,if went away whole weekend,Chandler,4,neutral,111,5
+590,interruption could naked entire time,Chandler,3,positive,111,6
+591,weekend whole lotta naked,Monica,6,positive,111,7
+592,yeah i can say i conference can say chef thing,Chandler,4,neutral,111,8
+593,ohh i wanted culinary fair jersey,Monica,3,positive,111,9
+594,okay though,Chandler,4,neutral,111,10
+595,wait joey,Monica,4,neutral,111,11
+596,hi,Chandler,3,positive,112,0
+597,monica time,Joey,4,neutral,112,1
+598,uhh,Chandler,4,neutral,112,2
+599,dark out,Joey,4,neutral,112,3
+600,i,Chandler,4,neutral,112,4
+601,hey,Chandler,3,positive,112,5
+602,if went away whole weekend,Chandler,4,neutral,112,6
+603,interruption could naked entire time,Chandler,3,positive,112,7
+604,dark out,Joey,4,neutral,113,0
+605,because sleep noon silly look,Monica,4,neutral,113,1
+606,i guess i washed sunrise,Joey,4,neutral,113,2
+607,i,Monica,4,neutral,113,3
+608,umm s book woman named wendy bagina,Ross,4,neutral,114,0
+609,sound two people enjoying dewey decimal system,Chandler,4,neutral,114,1
+610,sound two people enjoying dewey decimal system,Chandler,4,neutral,115,0
+611,i m sorry,Female Student,2,negative,115,1
+612,didn t,Chandler,4,neutral,115,2
+613,hey,Joey,3,positive,116,0
+614,hi,Rachel,3,positive,116,1
+615,kash liked day said thought charming,Joey,4,neutral,116,2
+616,okay place first,Ross,4,neutral,117,0
+617,tape game time ross re,Joey,1,negative,117,1
+618,if apartment became available,Ross,4,neutral,117,2
+619,re switching apartment,Joey,6,negative,117,3
+620,s s rachel,Ross,4,neutral,117,4
+621,rachel apartment,Joey,4,neutral,117,5
+622,yeah baby come s gon na,Ross,4,neutral,117,6
+623,,Joey,6,negative,117,7
+624,yeah didn t baby,Ross,6,negative,117,8
+625,i guess i didn t,Joey,4,neutral,117,9
+626,ezel hey gunther re ezel,Ross,0,negative,117,10
+627,damnit,Ross,0,negative,117,11
+628,i got i got i got can little people,Monica,6,positive,118,0
+629,little village people,Rachel,4,neutral,118,1
+630,okay one favourite,Monica,3,positive,118,2
+631,sweet,Rachel,3,positive,118,3
+632,i phoebe gon na dressing,Monica,3,positive,118,4
+633,huh phoebe s gon na one get dress,Rachel,4,neutral,118,5
+634,because s gon na baby,Monica,5,negative,118,6
+635,god throwing depressing baby shower,Rachel,5,negative,118,7
+636,wait minute,Monica,6,positive,118,8
+637,unless gift can s done pregnant,Monica,3,positive,118,9
+638,umm regular coffee tequila,Monica,4,neutral,118,10
+639,somebody can leather pant s wanted,Rachel,3,positive,118,11
+640,s gon na,Monica,3,positive,118,12
+641,okay two asking court annulment,Judge,4,neutral,119,0
+642,yes honor form filled out,Rachel,4,neutral,119,1
+643,based petition seeking annulment ground geller mentally unstable,Judge,4,neutral,119,2
+644,would,Rachel,4,neutral,119,3
+645,say lied sexual preference marriage,Judge,4,neutral,119,4
+646,based petition seeking annulment ground geller mentally unstable,Judge,4,neutral,120,0
+647,fine i m mentally unstable,Ross,0,negative,120,1
+648,based fact geller intravenous drug user,Judge,4,neutral,120,2
+649,,Ross,6,negative,120,3
+650,say lied sexual preference marriage,Judge,4,neutral,120,4
+651,,Ross,5,negative,120,5
+652,,Ross,6,negative,121,0
+653,yes heroin crack,Rachel,4,neutral,121,1
+654,crack isn t intravenous drug,Ross,0,negative,121,2
+655,would,Rachel,4,neutral,121,3
+656,,Ross,5,negative,121,4
+657,ross please i found magazine,Rachel,5,negative,121,5
+658,phoebe because i alone doesn t i wan na naked,Rachel,4,neutral,122,0
+659,i alone naked,Rachel,4,neutral,122,1
+660,take long answer door,Phoebe,3,positive,122,2
+661,i i lied i didn t i terrible mother i can t baby,Rachel,5,negative,123,0
+662,sure sure can s s right,Ross,4,neutral,123,1
+663,s beautiful i,Rachel,3,positive,123,2
+664,,Ross,4,neutral,123,3
+665,i don t,Rachel,0,negative,123,4
+666,tiny thing look peanut,Ross,3,positive,123,5
+667,yeah,Rachel,4,neutral,123,6
+668,sweetie s,Ross,3,positive,123,7
+669,s i saw thank,Rachel,3,positive,123,8
+670,re welcome,Ross,4,neutral,123,9
+671,wow i can t s baby,Rachel,6,positive,123,10
+672,yeah s baby,Ross,3,positive,123,11
+673,gin,Monica,4,neutral,124,0
+674,playing gin if couple could game naked,Chandler,3,positive,124,1
+675,will,Monica,3,positive,124,2
+676,okay right,Chandler,4,neutral,124,3
+677,okay right i re great i re sweet re smart i,Monica,3,positive,124,4
+678,will guy who peed,Monica,1,negative,124,5
+679,hey,Chandler,3,positive,125,0
+680,hey,Monica,3,positive,125,1
+681,chick i scored last night wait minute,Chandler,3,positive,125,2
+682,hey check out i m slut,Monica,3,positive,125,3
+683,something tonight,Chandler,4,neutral,125,4
+684,i can t roger coming again,Monica,4,neutral,125,5
+685,,Chandler,4,neutral,125,6
+686,right,Chandler,6,positive,125,7
+687,right,Chandler,6,positive,125,8
+688,because re seeing s good guy,Chandler,5,negative,125,9
+689,i i time,Chandler,5,negative,125,10
+690,okay,Monica,4,neutral,125,11
+691,yeah totally totally,Chandler,3,positive,125,12
+692,great s amazing i last time roger came i,Monica,3,positive,125,13
+693,i bet can,Chandler,4,neutral,125,14
+694,y i don t appointment i sure could physical sure re okay,Monica,4,neutral,125,15
+695,yeah yeah don t worry i ll fine,Chandler,5,negative,125,16
+696,got clothes clean important part,Ross,4,neutral,126,0
+697,i guess everything look jammies,Rachel,4,neutral,126,1
+698,whoa i sorry excuse cart,Rachel,0,negative,126,2
+699,yeah if if reason ca baby,Chandler,2,negative,127,0
+700,chandler monica meant child i sure gon na fine,Janice,4,neutral,127,1
+701,yeah ok thanks,Chandler,3,positive,127,2
+702,i ca i,Chandler,6,positive,127,3
+703,i guess i worried,Chandler,5,negative,127,4
+704,can parking lot taco bell ca doctor office,Janice,0,negative,127,5
+705,wendy,Chandler,0,negative,127,6
+706,zana one rip,Chip,6,positive,128,0
+707,i enjoy talking people who i went high school cause i umm maybe could something else,Monica,1,negative,128,1
+708,i don t,Monica,6,positive,128,2
+709,yeah,Kathy,4,neutral,129,0
+710,yeah i second fight going,Chandler,0,negative,129,1
+711,hey,Phoebe,4,neutral,130,0
+712,hey,Ross,4,neutral,130,1
+713,stole joke stole money,Chandler,0,negative,131,0
+714,i going stick atm i i ll sexy teller i published writer,Ross,4,neutral,131,1
+715,going stole joke,Chandler,0,negative,131,2
+716,going down,Ross,0,negative,131,3
+717,yeah,Chandler,0,negative,131,4
+718,i m going anyway,Ross,4,neutral,131,5
+719,okay,Chandler,4,neutral,131,6
+720,okay,Chandler,4,neutral,132,0
+721,,Gunther,4,neutral,132,1
+722,,Gunther,4,neutral,133,0
+723,gunther i can t right because i m working i ve down luxury payin stuff,Joey,4,neutral,133,1
+724,if can,Gunther,4,neutral,133,2
+725,i don t,Joey,4,neutral,133,3
+726,ya s i regular soap opera y,Joey,4,neutral,133,4
+727,i plus i d wait friend,Joey,5,negative,133,5
+728,okay money s good plus stare rachel,Gunther,4,neutral,133,6
+729,,Joey,6,negative,133,7
+730,flexible hour,Gunther,4,neutral,133,8
+731,maybe i could waiter could i phone,Joey,4,neutral,133,9
+732,i name,Chandler,4,neutral,134,0
+733,right supposed,Phoebe,4,neutral,134,1
+734,okay temporarily can clint,Chandler,4,neutral,134,2
+735,okay name i cool enough off,Chandler,6,negative,134,3
+736,umm gene,Phoebe,4,neutral,134,4
+737,s clint s clint,Chandler,0,negative,134,5
+738,bye gene,Phoebe,4,neutral,134,6
+739,s clint,Chandler,0,negative,134,7
+740,okay temporarily can clint,Chandler,4,neutral,135,0
+741,way cool enough clint,Joey,1,negative,135,1
+742,okay name i cool enough off,Chandler,6,negative,135,2
+743,s clint s clint,Chandler,0,negative,135,3
+744,later gene,Joey,4,neutral,135,4
+745,s clint,Chandler,0,negative,135,5
+746,s gene,Joey,6,negative,135,6
+747,later gene,Joey,4,neutral,136,0
+748,bye gene,Phoebe,4,neutral,136,1
+749,welcome la vega,Flight Attendant,4,neutral,137,0
+750,thank enjoy flight,Flight Attendant,3,positive,137,1
+751,yes i thank excellent,Rachel,3,positive,137,2
+752,hope nice flight,Flight Attendant,4,neutral,137,3
+753,welcome la vega,Flight Attendant,4,neutral,138,0
+754,thank enjoy flight,Flight Attendant,3,positive,138,1
+755,hope nice flight,Flight Attendant,4,neutral,138,2
+756,ohh best,Ross,3,positive,138,3
+757,larry,Monica,4,neutral,139,0
+758,umm health inspector commission,Phoebe,4,neutral,139,1
+759,umm health inspector commission,Phoebe,4,neutral,140,0
+760,bribe,Larry,4,neutral,140,1
+761,okay laugh right,Phoebe,3,positive,140,2
+762,joey,Rachel,0,negative,141,0
+763,rach i told everything i knew last night,Joey,0,negative,141,1
+764,big deal monica chandler,Joey,4,neutral,141,2
+765,i ca would say,Rachel,5,negative,141,3
+766,sorry monica chandler making,Joey,4,neutral,141,4
+767,i,Rachel,0,negative,141,5
+768,i,Joey,4,neutral,141,6
+769,romantic,Rachel,3,positive,141,7
+770,i,Joey,4,neutral,141,8
+771,,Rachel,3,positive,141,9
+772,i,Joey,4,neutral,141,10
+773,anything,Rachel,0,negative,141,11
+774,ohh i one thing,Joey,3,positive,141,12
+775,,Rachel,3,positive,141,13
+776,right couch,Joey,4,neutral,141,14
+777,molly people acting discipline take lot hard,Joey,4,neutral,142,0
+778,study,Molly,4,neutral,142,1
+779,i college,Joey,4,neutral,142,2
+780,study acting,Molly,4,neutral,142,3
+781,molly people study acting,Joey,4,neutral,142,4
+782,leather stick as,Joey,1,negative,142,5
+783,fair,Joey,0,negative,142,6
+784,make i gon na sleep blow off,Joey,0,negative,142,7
+785,huh,Joey,0,negative,142,8
+786,ca guy mind possibility i actally might something real,Joey,0,negative,142,9
+787,truth i felt way anyone since rachel ok,Joey,5,negative,142,10
+788,i i could again,Joey,5,negative,142,11
+789,molly people study acting,Joey,4,neutral,143,0
+790,molly mind giving u minute,Ross,4,neutral,143,1
+791,thanx,Ross,4,neutral,143,2
+792,will stable boy princess,Joey,5,negative,143,3
+793,gon na sex right couch,Ross,1,negative,143,4
+794,leather stick as,Joey,1,negative,143,5
+795,fair,Joey,0,negative,143,6
+796,make i gon na sleep blow off,Joey,0,negative,143,7
+797,huh,Joey,0,negative,143,8
+798,ca guy mind possibility i actally might something real,Joey,0,negative,143,9
+799,truth i felt way anyone since rachel ok,Joey,5,negative,143,10
+800,i i could again,Joey,5,negative,143,11
+801,ok joey i guess problem,Ross,4,neutral,143,12
+802,favorite fairy tale true princess stable boy lesbian,Joey,3,positive,143,13
+803,molly mind giving u minute,Ross,4,neutral,144,0
+804,sure i check emma,Molly,4,neutral,144,1
+805,thanx,Ross,4,neutral,144,2
+806,yeah molly,Ross,4,neutral,144,3
+807,hey guy tabatha i tomorrow,Molly,4,neutral,144,4
+808,ok joey i guess problem,Ross,4,neutral,144,5
+809,leather stick as,Joey,1,negative,145,0
+810,fair,Joey,0,negative,145,1
+811,make i gon na sleep blow off,Joey,0,negative,145,2
+812,huh,Joey,0,negative,145,3
+813,ca guy mind possibility i actally might something real,Joey,0,negative,145,4
+814,truth i felt way anyone since rachel ok,Joey,5,negative,145,5
+815,i i could again,Joey,5,negative,145,6
+816,joe,Ross and Chandler,3,positive,145,7
+817,joe,Ross and Chandler,3,positive,146,0
+818,hi molly,Woman,4,neutral,146,1
+819,hi molly,Woman,4,neutral,147,0
+820,yeah molly,Ross,4,neutral,147,1
+821,s cool character naples right,Joey,3,positive,148,0
+822,yeah,The Director,4,neutral,148,1
+823,whole family s naples,Joey,3,positive,148,2
+824,s great okay i ve heard everything i i leslie,The Director,6,positive,148,3
+825,,Joey,6,positive,148,4
+826,hey right,Joey,6,positive,148,5
+827,problem,Joey,4,neutral,148,6
+828,i totally,Joey,4,neutral,148,7
+829,y sure i don t horrible scar tattoo,Joey,4,neutral,148,8
+830,don t worry i nothing hide,Joey,4,neutral,148,9
+831,s,Joey,4,neutral,148,10
+832,one hundred percent natural,Joey,3,positive,148,11
+833,i ya happened,Joey,2,negative,148,12
+834,s great okay i ve heard everything i i leslie,The Director,6,positive,149,0
+835,joey awkward part,The Casting Director,3,positive,149,1
+836,joey awkward part,The Casting Director,3,positive,150,0
+837,,Joey,6,positive,150,1
+838,hey right,Joey,6,positive,150,2
+839,problem,Joey,4,neutral,150,3
+840,i totally,Joey,4,neutral,150,4
+841,y sure i don t horrible scar tattoo,Joey,4,neutral,150,5
+842,don t worry i nothing hide,Joey,4,neutral,150,6
+843,s,Joey,4,neutral,150,7
+844,one hundred percent natural,Joey,3,positive,150,8
+845,i ya happened,Joey,2,negative,150,9
+846,room s available,Nurse,4,neutral,151,0
+847,okay,Rachel,3,positive,151,1
+848,okay wait,Rachel,0,negative,151,2
+849,listen,Rachel,0,negative,151,3
+850,listen,Rachel,0,negative,151,4
+851,since i waiting four woman s four one higher than number centimeter i dilated gone baby,Rachel,0,negative,151,5
+852,i m next,Rachel,0,negative,151,6
+853,s,Rachel,0,negative,151,7
+854,s fair,Rachel,0,negative,151,8
+855,if one woman baby i m going sue,Rachel,0,negative,151,9
+856,hospital i m going sue,Rachel,0,negative,151,10
+857,husband s lawyer,Rachel,0,negative,151,11
+858,back case honey,Rachel,0,negative,151,12
+859,i don t next patient far,Nurse,4,neutral,151,13
+860,okay,Rachel,4,neutral,151,14
+861,okay,Rachel,3,positive,152,0
+862,okay wait,Rachel,0,negative,152,1
+863,listen,Rachel,0,negative,152,2
+864,listen,Rachel,0,negative,152,3
+865,since i waiting four woman s four one higher than number centimeter i dilated gone baby,Rachel,0,negative,152,4
+866,i m next,Rachel,0,negative,152,5
+867,s,Rachel,0,negative,152,6
+868,s fair,Rachel,0,negative,152,7
+869,if one woman baby i m going sue,Rachel,0,negative,152,8
+870,hospital i m going sue,Rachel,0,negative,152,9
+871,husband s lawyer,Rachel,0,negative,152,10
+872,rach,Ross,4,neutral,152,11
+873,back case honey,Rachel,0,negative,152,12
+874,okay,Rachel,3,positive,153,0
+875,okay wait,Rachel,0,negative,153,1
+876,listen,Rachel,0,negative,153,2
+877,listen,Rachel,0,negative,153,3
+878,since i waiting four woman s four one higher than number centimeter i dilated gone baby,Rachel,0,negative,153,4
+879,i m next,Rachel,0,negative,153,5
+880,s,Rachel,0,negative,153,6
+881,s fair,Rachel,0,negative,153,7
+882,if one woman baby i m going sue,Rachel,0,negative,153,8
+883,hospital i m going sue,Rachel,0,negative,153,9
+884,husband s lawyer,Rachel,0,negative,153,10
+885,okay,Rachel,4,neutral,153,11
+886,,Woman,6,positive,153,12
+887,away guy guy re huge,Joey,2,negative,154,0
+888,don t bigger than,Ross,4,neutral,154,1
+889,maybe s because re closer bigger,Joey,0,negative,154,2
+890,okay i i i ve got red ross y red ross,Ross,0,negative,154,3
+891,i totally don t re talking,Joey,4,neutral,154,4
+892,time waiting line,Ross,0,negative,154,5
+893,maybe s because re closer bigger,Joey,0,negative,155,0
+894,i m going say hi lad right,Emily,4,neutral,155,1
+895,i m going say hi lad right,Emily,4,neutral,156,0
+896,right,Ross,4,neutral,156,1
+897,okay,Emily,4,neutral,156,2
+898,okay,Emily,4,neutral,157,0
+899,hi,Phoebe,4,neutral,157,1
+900,whoa i kinda liked,Phoebe,3,positive,157,2
+901,hi,Phoebe,4,neutral,158,0
+902,whoa i kinda liked,Phoebe,3,positive,158,1
+903,okay i i i ve got red ross y red ross,Ross,0,negative,158,2
+904,guy lot supportive i wanted denim furniture,Phoebe,3,positive,159,0
+905,pheebs listen if ll supportive crazy,Joey,4,neutral,159,1
+906,pheebs listen if ll supportive crazy,Joey,4,neutral,160,0
+907,,Monica,4,neutral,160,1
+908,,Monica,4,neutral,161,0
+909,yeah honey maybe can somebody who s baby mom,Rachel,4,neutral,161,1
+910,yeah honey maybe can somebody who s baby mom,Rachel,4,neutral,162,0
+911,mom gave birth birth mom,Phoebe,4,neutral,162,1
+912,umm thank meeting,Phoebe,4,neutral,163,0
+913,thank right,Frank Sr.,4,neutral,163,1
+914,,Phoebe,4,neutral,163,2
+915,,Phoebe,4,neutral,163,3
+916,,Phoebe,0,negative,163,4
+917,umm righty started i state official record fact frank buffay,Phoebe,4,neutral,163,5
+918,lucky six,Ross,4,neutral,164,0
+919,everybody paolo paolo i friend monica,Rachel,4,neutral,164,1
+920,english,Rachel,4,neutral,164,2
+921,,Rachel,6,positive,164,3
+922,paolo,Ross,4,neutral,164,4
+923,italy i,Rachel,4,neutral,164,5
+924,i tonight building suddenly life,Ross,4,neutral,164,6
+925,cat cat turned out paolo cat,Rachel,4,neutral,164,7
+926,funny rachel keep touching,Ross,4,neutral,164,8
+927,everybody paolo paolo i friend monica,Rachel,4,neutral,165,0
+928,hi,Monica,4,neutral,165,1
+929,joey,Rachel,4,neutral,165,2
+930,hi,Monica,4,neutral,165,3
+931,ross,Rachel,4,neutral,165,4
+932,hi,Monica,4,neutral,165,5
+933,english,Rachel,4,neutral,165,6
+934,,Rachel,6,positive,165,7
+935,funny rachel keep touching,Ross,4,neutral,166,0
+936,alright i looked building i could kitty anywhere,Phoebe,4,neutral,166,1
+937,english,Rachel,4,neutral,167,0
+938,,Rachel,6,positive,167,1
+939,alright i looked building i could kitty anywhere,Phoebe,4,neutral,167,2
+940,i found paolo cat,Rachel,4,neutral,167,3
+941,last again i guessing since nobody told paolo,Phoebe,3,positive,167,4
+942,paolo phoebe,Rachel,4,neutral,167,5
+943,betcha,Phoebe,3,positive,167,6
+944,okay hell,Ross,6,negative,168,0
+945,mom dad drove hospital nose fixed i swam lake fished out,Monica,4,neutral,168,1
+946,cup mine,Ross,0,negative,168,2
+947,s re gon na,Monica,0,negative,168,3
+948,s re gon na,Monica,0,negative,169,0
+949,right dinner,Rachel,5,negative,169,1
+950,,Rachel,5,negative,170,0
+951,because i szechwan dragon,Monica,4,neutral,170,1
+952,sleep honey,Rachel,4,neutral,170,2
+953,i i,Monica,4,neutral,170,3
+954,i i,Monica,4,neutral,171,0
+955,hi,Ross,4,neutral,171,1
+956,guess,Ross,4,neutral,171,2
+957,published paper,Ross,3,positive,171,3
+958,hi,Ross,4,neutral,172,0
+959,hi,Rachel,4,neutral,172,1
+960,guess,Ross,4,neutral,172,2
+961,published paper,Ross,3,positive,172,3
+962,,Rachel,3,positive,172,4
+963,,Rachel,3,positive,173,0
+964,rach hi strong ross skywalker rescue,Phoebe,3,positive,173,1
+965,u getting ready prom,Monica,4,neutral,174,0
+966,,Rachel,4,neutral,174,1
+967,got u evicted,Rachel,0,negative,175,0
+968,i told down,Monica,0,negative,175,1
+969,rachel cry,Monica,0,negative,175,2
+970,s true,Rachel,0,negative,175,3
+971,joey down suck i suck ve sucked,Monica,4,neutral,175,4
+972,i told down,Monica,0,negative,176,0
+973,made rachel cry,Joey,1,negative,176,1
+974,rachel cry,Monica,0,negative,176,2
+975,joey down suck i suck ve sucked,Monica,4,neutral,176,3
+976,right i ll if i can t can chandler i settled,Joey,4,neutral,176,4
+977,right right right,Joey,4,neutral,176,5
+978,i i ll check first i ll ll cool,Joey,4,neutral,176,6
+979,right i ll if i can t can chandler i settled,Joey,4,neutral,177,0
+980,,Rachel,0,negative,177,1
+981,right right right,Joey,4,neutral,177,2
+982,i i ll check first i ll ll cool,Joey,4,neutral,177,3
+983,s nice guy mark doesn t anything exchange helping,Ross,3,positive,178,0
+984,i assume i ll shower s true job,Rachel,4,neutral,178,1
+985,apartment isn t anymore because i drank,Chandler,4,neutral,179,0
+986,d lost opened present,Phoebe,4,neutral,179,1
+987,ow,Chandler,0,negative,179,2
+988,happened,Phoebe,6,negative,179,3
+989,i fooled joey s sister s worst part,Chandler,5,negative,179,4
+990,d lost opened present,Phoebe,4,neutral,180,0
+991,yeah,Ross,4,neutral,180,1
+992,yeah,Ross,4,neutral,181,0
+993,yeah i ended storage room alone,Chandler,4,neutral,181,1
+994,i can t sister,Chandler,5,negative,181,2
+995,men don t men nice men,Ross,0,negative,181,3
+996,yeah i ended storage room alone,Chandler,4,neutral,182,0
+997,woooo hoooo,All,3,positive,182,1
+998,ow,Chandler,0,negative,182,2
+999,i fooled joey s sister s worst part,Chandler,5,negative,183,0
+1000,worse part,Monica,4,neutral,183,1
+1001,i can t sister,Chandler,5,negative,183,2
+1002,s wrong,Chandler,0,negative,184,0
+1003,nothing,Joey,0,negative,184,1
+1004,got blinding pain stomach i lifting weight i passed out haven t able since,Joey,5,negative,184,2
+1005,i don t s anything serious,Joey,4,neutral,185,0
+1006,sound hernia doctor,Chandler,6,negative,185,1
+1007,way,Joey,0,negative,185,2
+1008,kay if i doctor anything s gon na thing sticking out stomach,Joey,0,negative,185,3
+1009,i working out again,Joey,1,negative,185,4
+1010,damn,Joey,0,negative,185,5
+1011,s trifle,Rachel,4,neutral,186,0
+1012,s got layer,Rachel,4,neutral,186,1
+1013,first s layer ladyfinger layer jam custard i made scratch,Rachel,4,neutral,186,2
+1014,joey ross impressed face raspberry ladyfinger beef sautéed pea onion joey ross something s wrong,Rachel,4,neutral,186,3
+1015,little custard banana i whipped cream top,Rachel,4,neutral,186,4
+1016,taste foot,Ross,1,negative,186,5
+1017,taste foot,Ross,1,negative,187,0
+1018,i,Joey,3,positive,187,1
+1019,kidding,Ross,6,negative,187,2
+1020,anyone else david copperfield cute,Chandler,4,neutral,188,0
+1021,told think fox,Monica,4,neutral,188,1
+1022,welcome everybody welcome amazing discovery,Host,3,positive,189,0
+1023,again,Phoebe,3,positive,189,1
+1024,folk happened,Host,4,neutral,189,2
+1025,refrigerator nice glass milk darn carton hard,Host,4,neutral,189,3
+1026,again,Phoebe,3,positive,190,0
+1027,guy can please right,Joey,1,negative,190,1
+1028,guy can please right,Joey,1,negative,191,0
+1029,shhhh,All,0,negative,191,1
+1030,shhhh,All,0,negative,192,0
+1031,folk happened,Host,4,neutral,192,1
+1032,refrigerator nice glass milk darn carton hard,Host,4,neutral,192,2
+1033,folk happened,Host,4,neutral,193,0
+1034,refrigerator nice glass milk darn carton hard,Host,4,neutral,193,1
+1035,said mike aw got better way,Joey,0,negative,193,2
+1036,said mike aw got better way,Joey,0,negative,194,0
+1037,kevin,Mike,4,neutral,194,1
+1038,can please off,Joey,5,negative,194,2
+1039,can please off,Joey,5,negative,195,0
+1040,noo way kevin,Rachel,3,positive,195,1
+1041,noo way kevin,Rachel,3,positive,196,0
+1042,revolutionary new product guarantee milk carton again milk master,Mike,4,neutral,196,1
+1043,revolutionary new product guarantee milk carton again milk master,Mike,4,neutral,197,0
+1044,intrigued,Ross,6,positive,197,1
+1045,intrigued,Ross,6,positive,198,0
+1046,right i,Chandler,3,positive,198,1
+1047,right i,Chandler,3,positive,199,0
+1048,mind used product gon na easy,Mike,4,neutral,199,1
+1049,ahead,Mike,4,neutral,200,0
+1050,work milk carton,Mike,4,neutral,200,1
+1051,wow easy i can milk everyday,Joey,6,positive,200,2
+1052,might sound wife gay,Rachel,4,neutral,201,0
+1053,s gay god,Ross,0,negative,201,1
+1054,good day married people huh,Rachel,6,negative,201,2
+1055,i m sorry husband cheated,Ross,5,negative,201,3
+1056,i m sorry wife gay i guess woman aren t great,Rachel,5,negative,201,4
+1057,telling wife,Ross,5,negative,201,5
+1058,i ca wait,Monica,3,positive,202,0
+1059,i sneak soon ross pick ben,Monica,4,neutral,202,1
+1060,i rachel i gon na laundry couple hour,Monica,4,neutral,202,2
+1061,laundry huh new nickname,Chandler,3,positive,202,3
+1062,awww nickname big,Monica,3,positive,202,4
+1063,i ca wait,Monica,3,positive,203,0
+1064,i sneak soon ross pick ben,Monica,4,neutral,203,1
+1065,i rachel i gon na laundry couple hour,Monica,4,neutral,203,2
+1066,awww nickname big,Monica,3,positive,203,3
+1067,arghh,Rachel,1,negative,203,4
+1068,i can t i m going job,Joey,5,negative,204,0
+1069,i m sorry man anything i can,Chandler,5,negative,204,1
+1070,yeah past security guard,Joey,4,neutral,204,2
+1071,yeah,Joey,4,neutral,204,3
+1072,chandler wayne,Joey,4,neutral,204,4
+1073,wayne chandler,Joey,4,neutral,204,5
+1074,hi ya,Chandler,4,neutral,204,6
+1075,should i,Joey,0,negative,204,7
+1076,reason said,Chandler,4,neutral,204,8
+1077,,Joey,4,neutral,204,9
+1078,yeah past security guard,Joey,4,neutral,205,0
+1079,hey joey i,Wayne,4,neutral,205,1
+1080,yeah,Joey,4,neutral,205,2
+1081,chandler wayne,Joey,4,neutral,205,3
+1082,wayne chandler,Joey,4,neutral,205,4
+1083,joey joey ll job back if out,Wayne,4,neutral,205,5
+1084,should i,Joey,0,negative,205,6
+1085,,Joey,4,neutral,205,7
+1086,saw stage talking beautiful woman y sarah,Wayne,4,neutral,205,8
+1087,hi ya,Chandler,4,neutral,206,0
+1088,joey joey ll job back if out,Wayne,4,neutral,206,1
+1089,,Paul,6,negative,207,0
+1090,i machine,Ross,4,neutral,207,1
+1091,ross guest room,Paul,4,neutral,207,2
+1092,i thought party turn out s party howard sweetest little man,Phoebe,6,positive,208,0
+1093,ya phoebe hey thanks chipping,Guest #1,3,positive,208,1
+1094,yeah,Phoebe,0,negative,208,2
+1095,,Phoebe,4,neutral,208,3
+1096,way i exotic generous stranger,Phoebe,3,positive,208,4
+1097,fun,Phoebe,3,positive,208,5
+1098,i,Phoebe,4,neutral,208,6
+1099,,Phoebe,6,positive,208,7
+1100,if anything i making better,Phoebe,3,positive,208,8
+1101,talking i hit,Phoebe,3,positive,208,9
+1102,ya phoebe hey thanks chipping,Guest #1,3,positive,209,0
+1103,chipped,Ross,6,positive,209,1
+1104,chipped,Ross,6,positive,210,0
+1105,yeah dollar,Phoebe,4,neutral,210,1
+1106,phoebe i ca gave money i thought agreed totally unreasonable asked money,Ross,6,negative,210,2
+1107,yeah,Phoebe,0,negative,210,3
+1108,,Phoebe,4,neutral,210,4
+1109,way i exotic generous stranger,Phoebe,3,positive,210,5
+1110,fun,Phoebe,3,positive,210,6
+1111,yeah making bad,Ross,0,negative,210,7
+1112,i,Phoebe,4,neutral,210,8
+1113,,Phoebe,6,positive,210,9
+1114,if anything i making better,Phoebe,3,positive,210,10
+1115,talking i hit,Phoebe,3,positive,210,11
+1116,yeah,Phoebe,0,negative,211,0
+1117,,Phoebe,4,neutral,211,1
+1118,way i exotic generous stranger,Phoebe,3,positive,211,2
+1119,fun,Phoebe,3,positive,211,3
+1120,i,Phoebe,4,neutral,211,4
+1121,,Phoebe,6,positive,211,5
+1122,if anything i making better,Phoebe,3,positive,211,6
+1123,talking i hit,Phoebe,3,positive,211,7
+1124,hey pheebs,Steve,3,positive,211,8
+1125,hey,Phoebe,3,positive,211,9
+1126,hey ross,Steve,4,neutral,211,10
+1127,umm i thinking maybe two could switch apartment because phoebe kind people,Steve,2,negative,211,11
+1128,something,Steve,4,neutral,211,12
+1129,yeah okay bad,Phoebe,3,positive,211,13
+1130,i borrow moisturizer,Joey,4,neutral,212,0
+1131,,Monica,4,neutral,212,1
+1132,whaddya today big day,Joey,3,positive,212,2
+1133,god okay bathroom whatever,Monica,1,negative,212,3
+1134,thank,Joey,3,positive,212,4
+1135,chandler,Monica,4,neutral,212,5
+1136,old monica remind scrub teflon pan plastic brush i gon na,Monica,4,neutral,212,6
+1137,thank,Joey,3,positive,213,0
+1138,joey mom phone,Chandler,4,neutral,213,1
+1139,would monica,Chandler,4,neutral,213,2
+1140,hey listen i wan na borrow coupla thing aurora spent night i wan na breakfast,Chandler,4,neutral,213,3
+1141,resentment worth,Chandler,4,neutral,213,4
+1142,,Chandler,4,neutral,213,5
+1143,relationship key moment rest life,Chandler,4,neutral,213,6
+1144,second aurora i wasted talking people monica can door,Chandler,4,neutral,213,7
+1145,joey mom phone,Chandler,4,neutral,214,0
+1146,bathroom i wan na,Monica,0,negative,214,1
+1147,roommate eye eye,Chandler,1,negative,214,2
+1148,i warned,Monica,4,neutral,214,3
+1149,would monica,Chandler,4,neutral,214,4
+1150,hey listen i wan na borrow coupla thing aurora spent night i wan na breakfast,Chandler,4,neutral,214,5
+1151,got whole night huh,Monica,6,positive,214,6
+1152,yeah i twenty minute ethan,Chandler,4,neutral,214,7
+1153,resentment worth,Chandler,4,neutral,214,8
+1154,,Chandler,4,neutral,214,9
+1155,relationship key moment rest life,Chandler,4,neutral,214,10
+1156,second aurora i wasted talking people monica can door,Chandler,4,neutral,214,11
+1157,chandler,Monica,4,neutral,214,12
+1158,old monica remind scrub teflon pan plastic brush i gon na,Monica,4,neutral,214,13
+1159,i warned,Monica,4,neutral,215,0
+1160,who loud,Rachel,0,negative,215,1
+1161,chandler,Monica,4,neutral,215,2
+1162,old monica remind scrub teflon pan plastic brush i gon na,Monica,4,neutral,215,3
+1163,who loud,Rachel,0,negative,216,0
+1164,would monica,Chandler,4,neutral,216,1
+1165,hey listen i wan na borrow coupla thing aurora spent night i wan na breakfast,Chandler,4,neutral,216,2
+1166,yeah i twenty minute ethan,Chandler,4,neutral,216,3
+1167,ooh i sense little bit resentment,Rachel,6,negative,216,4
+1168,resentment worth,Chandler,4,neutral,216,5
+1169,,Chandler,4,neutral,216,6
+1170,relationship key moment rest life,Chandler,4,neutral,216,7
+1171,second aurora i wasted talking people monica can door,Chandler,4,neutral,216,8
+1172,hey monica joey,Joey,3,positive,217,0
+1173,hey joey aww remembered though big star,Monica,3,positive,217,1
+1174,aw year i forget,Joey,4,neutral,217,2
+1175,joey movie huh,Monica,4,neutral,217,3
+1176,dressing room,Monica,4,neutral,217,4
+1177,chair name,Monica,4,neutral,217,5
+1178,i got going,Joey,4,neutral,217,6
+1179,yeah listen i sure chandler could wrong,Joey,4,neutral,217,7
+1180,,Joey,2,negative,217,8
+1181,i got ta monica sushi,Joey,4,neutral,217,9
+1182,sorry thanks waitin,Joey,4,neutral,217,10
+1183,everybody smile okay thanks lot enjoy,Joey,3,positive,217,11
+1184,wow cool guy entire city blacked out,Rachel,6,positive,218,0
+1185,mom say manhattan part brooklyn queen idea coming back,Monica,0,negative,218,1
+1186,wow guy big,Rachel,6,positive,218,2
+1187,pant sweater,Monica,0,negative,218,3
+1188,mom,Monica,0,negative,218,4
+1189,who i gon na blackout,Monica,0,negative,218,5
+1190,power company guy,Monica,0,negative,218,6
+1191,eligible looter,Monica,0,negative,218,7
+1192,could later,Monica,0,negative,218,8
+1193,ok,Monica,4,neutral,218,9
+1194,pant sweater,Monica,0,negative,219,0
+1195,mom,Monica,0,negative,219,1
+1196,who i gon na blackout,Monica,0,negative,219,2
+1197,power company guy,Monica,0,negative,219,3
+1198,eligible looter,Monica,0,negative,219,4
+1199,could later,Monica,0,negative,219,5
+1200,ok,Monica,4,neutral,219,6
+1201,can i borrow phone i apartment check grandma number,Phoebe,4,neutral,219,7
+1202,i,Phoebe,4,neutral,219,8
+1203,cha,Joey,4,neutral,220,0
+1204,swim,Chandler,4,neutral,220,1
+1205,chick,Joey,4,neutral,220,2
+1206,chick don t swim,Chandler,4,neutral,220,3
+1207,sure,Joey,4,neutral,220,4
+1208,i don t should,Chandler,4,neutral,220,5
+1209,sure,Joey,4,neutral,220,6
+1210,i told don t swim,Chandler,4,neutral,220,7
+1211,wait minute,Joey,4,neutral,220,8
+1212,noo s okay s okay baby baby baby,Chandler,2,negative,220,9
+1213,hey,Phoebe,3,positive,221,0
+1214,hey,Monica,4,neutral,221,1
+1215,hey mopping ceiling,Phoebe,5,negative,221,2
+1216,s banana,Monica,4,neutral,221,3
+1217,said bald,Rachel,0,negative,222,0
+1218,yeah bald s,Phoebe,4,neutral,222,1
+1219,could hair,Rachel,6,negative,222,2
+1220,i don t i hardly say people,Phoebe,4,neutral,222,3
+1221,ohh perfect,Rachel,0,negative,222,4
+1222,i m sorry i thought said okay,Phoebe,5,negative,222,5
+1223,yeah i said okay i thought weird bald chick i girl hair got,Rachel,0,negative,222,6
+1224,maybe won t out maybe ross won t personality,Phoebe,5,negative,222,7
+1225,bad personality,Rachel,4,neutral,222,8
+1226,bonnie s best,Phoebe,3,positive,222,9
+1227,hey,Ross,3,positive,223,0
+1228,hey,Joey,4,neutral,223,1
+1229,minute i d something i m i m uncomfortable talking,Ross,2,negative,223,2
+1230,sure showering mom,Joey,6,negative,223,3
+1231,i actually topic mind i m i m kinda going dry spell sex wise,Ross,0,negative,223,4
+1232,whoa month,Joey,6,positive,223,5
+1233,excellent excellent finally weird stuff y sexually,Joey,3,positive,224,0
+1234,,Cliff,6,negative,224,1
+1235,oooh wrong answer,Joey,4,neutral,224,2
+1236,ow as okay okay shhh,Phoebe,0,negative,225,0
+1237,s s didn t noise,Phoebe,2,negative,225,1
+1238,break,Phoebe Sr,0,negative,225,2
+1239,yeah smokey joe got half way highway collapsed,Joey,0,negative,226,0
+1240,i lung capacity two year old,Chandler,4,neutral,226,1
+1241,i lung capacity two year old,Chandler,4,neutral,227,0
+1242,smoking,Monica,1,negative,227,1
+1243,s unsettling,Chandler,5,negative,227,2
+1244,honey i wondering,Rachel,4,neutral,228,0
+1245,hmm,Ross,4,neutral,228,1
+1246,navy uniform,Rachel,3,positive,228,2
+1247,nooo i return costume place,Ross,5,negative,228,3
+1248,hmm,Rachel,4,neutral,228,4
+1249,i i old band uniform high school,Ross,3,positive,228,5
+1250,sex high school right,Rachel,5,negative,228,6
+1251,yeah,Ross,5,negative,228,7
+1252,honey,Rachel,4,neutral,228,8
+1253,,Ross,4,neutral,228,9
+1254,i fun fantasy type thing,Rachel,4,neutral,228,10
+1255,,Ross,4,neutral,228,11
+1256,got ta one,Rachel,6,positive,228,12
+1257,ugh,Phoebe,1,negative,229,0
+1258,i if bed janice s s betraying chandler,Phoebe,0,negative,229,1
+1259,price,Monica,0,negative,229,2
+1260,hi england car would side store woo,Phoebe,3,positive,229,3
+1261,ohhhhh phoebe aw new bed got ta bad boy,Monica,3,positive,229,4
+1262,eh monica feel weird chandler s friend,Phoebe,6,positive,229,5
+1263,god,Phoebe,6,positive,229,6
+1264,aw right bed can friend,Phoebe,3,positive,229,7
+1265,since i little i able pick quarter toe,Lorraine,3,positive,230,0
+1266,good quarter roll quarter,Joey,3,positive,230,1
+1267,good quarter roll quarter,Joey,3,positive,231,0
+1268,way chandler i out picture if i bag head,Janice,0,negative,231,1
+1269,sure,Janice,6,positive,231,2
+1270,because could little puppet out could theater cruelty,Janice,0,negative,231,3
+1271,ca,Joey,4,neutral,231,4
+1272,way chandler i out picture if i bag head,Janice,0,negative,232,0
+1273,ok,Chandler,4,neutral,232,1
+1274,sure,Janice,6,positive,232,2
+1275,because could little puppet out could theater cruelty,Janice,0,negative,232,3
+1276,ca,Joey,4,neutral,233,0
+1277,ca,Chandler,6,negative,233,1
+1278,said,Joey,6,positive,234,0
+1279,i added part,Ross,4,neutral,234,1
+1280,said looking someone someone gon na tonight,Ross,4,neutral,234,2
+1281,tonight,Joey,6,positive,234,3
+1282,i perfect,Ross,3,positive,234,4
+1283,gon na two u spent day taking care monkey,Ross,4,neutral,234,5
+1284,i added part,Ross,4,neutral,235,0
+1285,said looking someone someone gon na tonight,Ross,4,neutral,235,1
+1286,i perfect,Ross,3,positive,235,2
+1287,gon na two u spent day taking care monkey,Ross,4,neutral,235,3
+1288,i ca last time i got girl care monkey,Chandler,5,negative,235,4
+1289,anyway i figured i pick bottle wine woo,Ross,3,positive,235,5
+1290,hey should should back phrase last used,Chandler,1,negative,235,6
+1291,car waiting downstairs i wanted drop off copy book friend anything lisbon,Mrs. Bing,4,neutral,236,0
+1292,knowing gon na enough,Chandler,4,neutral,236,1
+1293,alright good i,Mrs. Bing,3,positive,236,2
+1294,kissed best ross something effect,Chandler,0,negative,236,3
+1295,stupid,Mrs. Bing,5,negative,236,4
+1296,stupid,Chandler,0,negative,236,5
+1297,stupid,Mrs. Bing,5,negative,236,6
+1298,i happened,Mrs. Bing,5,negative,236,7
+1299,i sorry honey i promise will again,Mrs. Bing,5,negative,236,8
+1300,okay,Mrs. Bing,2,negative,236,9
+1301,yeah,Chandler,0,negative,236,10
+1302,yeah,Chandler,0,negative,237,0
+1303,forbidden man door,Ross,4,neutral,237,1
+1304,forbidden man door,Ross,4,neutral,238,0
+1305,shh told off kiss everything,Joey,4,neutral,238,1
+1306,kidding,Ross,6,negative,238,2
+1307,said gon na mom,Joey,4,neutral,238,3
+1308,,Phoebe,4,neutral,239,0
+1309,s regular dry cleaner,Monica,4,neutral,239,1
+1310,i creep i went date go i new one,Phoebe,1,negative,239,2
+1311,i new video store new bank new adult bookstore new grocery store,Phoebe,1,negative,239,3
+1312,,Monica,6,negative,239,4
+1313,new grocery store,Phoebe,4,neutral,239,5
+1314,universe said i going nice guy s gave,Phoebe,0,negative,239,6
+1315,i i m going kick as,Phoebe,0,negative,239,7
+1316,don t worry phoebe re gon na someone if i can great guy can,Monica,4,neutral,239,8
+1317,yeah can will,Phoebe,4,neutral,239,9
+1318,didn t,Phoebe,4,neutral,239,10
+1319,kidding out stain okay,Monica,3,positive,239,11
+1320,d friend,Phoebe,3,positive,239,12
+1321,ooh ink stain hey can i out,Monica,3,positive,239,13
+1322,must ve left,Phoebe,4,neutral,239,14
+1323,kidding out stain okay,Monica,3,positive,240,0
+1324,excuse i dropped wow,Guy,6,positive,240,1
+1325,i creep i went date go i new one,Phoebe,1,negative,241,0
+1326,i new video store new bank new adult bookstore new grocery store,Phoebe,1,negative,241,1
+1327,new grocery store,Phoebe,4,neutral,241,2
+1328,universe said i going nice guy s gave,Phoebe,0,negative,241,3
+1329,i i m going kick as,Phoebe,0,negative,241,4
+1330,yeah can will,Phoebe,4,neutral,241,5
+1331,didn t,Phoebe,4,neutral,241,6
+1332,excuse i dropped wow,Guy,6,positive,241,7
+1333,,Phoebe,6,positive,241,8
+1334,i m sorry s re incredibly beautiful,Guy,6,positive,241,9
+1335,yeah i m sorry going,Phoebe,4,neutral,241,10
+1336,i hope don t i m crazy i i meant pick kind thing,Guy,3,positive,241,11
+1337,little re talking,Phoebe,4,neutral,241,12
+1338,would out cup coffee,Guy,4,neutral,241,13
+1339,d friend,Phoebe,3,positive,241,14
+1340,monica throwing hard team,Ross,0,negative,242,0
+1341,four hour guy four hour,Chandler,6,negative,242,1
+1342,i dropper,Chandler,0,negative,242,2
+1343,three person game,Ross,4,neutral,242,3
+1344,throwing catching,Chandler,0,negative,242,4
+1345,right,Ross,4,neutral,242,5
+1346,hard,Chandler,6,positive,242,6
+1347,four hour guy four hour,Chandler,6,negative,243,0
+1348,right baby,Joey,3,positive,243,1
+1349,right,Chandler,4,neutral,243,2
+1350,yeah right,Joey,0,negative,243,3
+1351,i dropper,Chandler,0,negative,243,4
+1352,hard,Chandler,6,positive,243,5
+1353,guy cat,Joey,0,negative,243,6
+1354,right,Chandler,4,neutral,244,0
+1355,,Monica,2,negative,244,1
+1356,,Chandler,6,negative,244,2
+1357,dropper,Monica,0,negative,244,3
+1358,dropper,Monica,0,negative,245,0
+1359,yeah right,Joey,0,negative,245,1
+1360,guy cat,Joey,0,negative,245,2
+1361,good god,Monica,6,negative,245,3
+1362,good god,Monica,6,negative,246,0
+1363,i guy i i going thing,Rachel,0,negative,246,1
+1364,i guy i i going thing,Rachel,0,negative,247,0
+1365,baking huh,Ross,4,neutral,247,1
+1366,right place closed i ll copy later,Rachel,4,neutral,248,0
+1367,rach don t,Joey,4,neutral,248,1
+1368,s okay i rach i i scared off whole naked thursday s thing don t,Joey,4,neutral,248,2
+1369,would easier right hall wait minute unless re thinking naked wednesday s,Rachel,4,neutral,248,3
+1370,thursday s clearly good ya pick day,Joey,3,positive,248,4
+1371,rach don t,Joey,4,neutral,249,0
+1372,whoa whoa whoa joey,Ross,6,positive,249,1
+1373,s okay i rach i i scared off whole naked thursday s thing don t,Joey,4,neutral,249,2
+1374,s two box holiday macaroon behalf brown bird america i salute,Sarah,3,positive,250,0
+1375,admit chandler backhand,Ross,4,neutral,250,1
+1376,admit chandler backhand,Ross,4,neutral,251,0
+1377,excuse little one i solid backhand,Chandler,0,negative,251,1
+1378,shielding face shrieking girl backhand,Ross,1,negative,251,2
+1379,i shrieking marine,Chandler,4,neutral,251,3
+1380,right execute three p s championship power precision penache,Ross,4,neutral,251,4
+1381,phone person,Lydia,4,neutral,252,0
+1382,yeah deal father guy i if someone havin baby somewhere i wan na,Joey,4,neutral,252,1
+1383,hey knick fan i interested view fatherhood,Lydia,0,negative,252,2
+1384,ok maybe i should,Joey,4,neutral,252,3
+1385,maybe should,Lydia,0,negative,252,4
+1386,good luck care huh,Joey,5,negative,252,5
+1387,celtic problem player team,Joey,4,neutral,252,6
+1388,true,Lydia,4,neutral,252,7
+1389,,Joey,4,neutral,252,8
+1390,,Lydia,4,neutral,252,9
+1391,,Joey,4,neutral,252,10
+1392,,Lydia,0,negative,252,11
+1393,okay lady end today s class s s safe out,The Instructor,4,neutral,253,0
+1394,s great class,Ross,3,positive,253,1
+1395,thanks,The Instructor,4,neutral,253,2
+1396,yeah yeah i watching,Ross,4,neutral,253,3
+1397,umm hey couple question though,Ross,4,neutral,253,4
+1398,umm last woman tripped pinned floor would next,Ross,2,negative,253,5
+1399,would key jam,The Instructor,4,neutral,253,6
+1400,would,Ross,0,negative,253,7
+1401,who attacker,The Instructor,6,negative,253,8
+1402,i m sorry chandler y sweet guy i i don t hurt,Dana,5,negative,254,0
+1403,i wish something i can better,Dana,5,negative,254,1
+1404,,Chandler,6,positive,254,2
+1405,course,Dana,3,positive,254,3
+1406,hurt bad i,Chandler,5,negative,254,4
+1407,ohh i m sorry,Dana,5,negative,254,5
+1408,maybe one thing can,Chandler,4,neutral,254,6
+1409,anything anything,Dana,3,positive,254,7
+1410,i umm i off top head umm i friend,Chandler,4,neutral,254,8
+1411,actor friend would if thought i umm umm would possible audition movie say thursday,Chandler,2,negative,254,9
+1412,absolutely would better rejecting if actor friend can audition movie,Dana,6,positive,254,10
+1413,heart want want i ll later,Chandler,4,neutral,254,11
+1414,okay i got i ll escape i ll back right,Monica,4,neutral,255,0
+1415,hey guy listen i m sorry i hogging game god friend unfortunate initial,Phoebe,5,negative,255,1
+1416,re chandler,Monica,4,neutral,255,2
+1417,chandler suck couldn t gotten good,Phoebe,6,negative,255,3
+1418,chandler suck couldn t gotten good,Phoebe,6,negative,256,0
+1419,i came price,Chandler,4,neutral,256,1
+1420,i came price,Chandler,4,neutral,257,0
+1421,ben coming tonight can t,Monica,2,negative,257,1
+1422,age seven kid already seen orgy,Chandler,6,negative,257,2
+1423,sure,Chandler,3,positive,258,0
+1424,okay i thinking should beautiful guest room right,Monica,4,neutral,258,1
+1425,mahogany sleigh bed bedside table flower time,Monica,3,positive,258,2
+1426,could roll top desk comment card people could say loved staying,Monica,3,positive,258,3
+1427,okay whatever i haven t thought,Monica,4,neutral,258,4
+1428,i idea,Chandler,3,positive,258,5
+1429,obviously,Chandler,3,positive,258,6
+1430,i thinking could game room y,Chandler,4,neutral,258,7
+1431,i can old arcade game,Chandler,4,neutral,258,8
+1432,,Monica,1,negative,258,9
+1433,okay gee chandler interesting idea s discus reject completely,Chandler,3,positive,258,10
+1434,i m sorry course i interesting idea umm,Monica,1,negative,258,11
+1435,s,Chandler,6,negative,258,12
+1436,i don t arcade game beautiful guest room beautiful guest room gon na filled antique,Monica,4,neutral,258,13
+1437,,Chandler,4,neutral,258,14
+1438,beautiful guest room,Monica,0,negative,258,15
+1439,i don t anything beautiful guest room especially since everybody life second away,Chandler,0,negative,258,16
+1440,mocking,Monica,0,negative,258,17
+1441,i m mocking beautiful guest room,Chandler,4,neutral,258,18
+1442,i crossword puzzle honey,Monica,3,positive,259,0
+1443,aww finish bed,Joey,3,positive,259,1
+1444,okay one left three letter word dog,Monica,4,neutral,259,2
+1445,cat,Joey,4,neutral,259,3
+1446,yes smart i,Monica,3,positive,259,4
+1447,i,Joey,3,positive,259,5
+1448,i sucked i actually good i,Chandler,4,neutral,260,0
+1449,,Monica,6,negative,260,1
+1450,i,Chandler,4,neutral,260,2
+1451,great can enter double tournament,Monica,3,positive,260,3
+1452,,Chandler,4,neutral,260,4
+1453,hey okay i gave chance tim,Monica,4,neutral,261,0
+1454,,Phoebe,4,neutral,261,1
+1455,totally incompetent i called chef who recommended said gotcha,Monica,1,negative,261,2
+1456,okay okay can t fire today,Phoebe,4,neutral,261,3
+1457,,Monica,0,negative,261,4
+1458,because i m dumping today,Phoebe,4,neutral,261,5
+1459,said sweet,Monica,6,negative,261,6
+1460,,Phoebe,4,neutral,261,7
+1461,don t pick phone,Monica,4,neutral,261,8
+1462,come i m worried uck man,Phoebe,1,negative,261,9
+1463,i m allowed fire,Monica,6,negative,261,10
+1464,can t fire dump day ll,Phoebe,5,negative,261,11
+1465,okay i ll fire today out week,Monica,4,neutral,261,12
+1466,kidding week sip i ll,Phoebe,1,negative,261,13
+1467,okay ll today ll deal,Monica,4,neutral,261,14
+1468,okay question who s gon na first cause whoever go second bitch,Phoebe,5,negative,261,15
+1469,final boarding flight yemen,Ticket Counter Attendant,4,neutral,262,0
+1470,guess i got ta,Chandler,5,negative,262,1
+1471,janice,Chandler,6,positive,262,2
+1472,,Chandler,6,positive,262,3
+1473,,Chandler,6,positive,262,4
+1474,i one last kiss said going right i got plane,Chandler,5,negative,262,5
+1475,guess i got ta,Chandler,5,negative,263,0
+1476,i ll wait long re going gone,Janice,5,negative,263,1
+1477,energy source replace fuel,Chandler,4,neutral,263,2
+1478,i ll right everyday yemen road yemen,Janice,4,neutral,263,3
+1479,okay,Chandler,5,negative,263,4
+1480,chandler,Janice,4,neutral,263,5
+1481,,Chandler,0,negative,263,6
+1482,chandler,Janice,6,positive,263,7
+1483,janice,Chandler,6,positive,263,8
+1484,,Chandler,6,positive,263,9
+1485,,Chandler,6,positive,263,10
+1486,i one last kiss said going right i got plane,Chandler,5,negative,263,11
+1487,i wan na,Janice,4,neutral,263,12
+1488,i guess i m going yemen i m going yemen yemen can i,Chandler,3,positive,263,13
+1489,hi,Rachel,3,positive,264,0
+1490,hey,Joey,4,neutral,264,1
+1491,ohh new assistant working out yes,Rachel,4,neutral,264,2
+1492,happy gave job,Joey,4,neutral,264,3
+1493,new assistant happy i hired new assistant,Rachel,4,neutral,264,4
+1494,hello,Joey,4,neutral,264,5
+1495,hey,Joey,6,positive,264,6
+1496,can can hang second,Joey,4,neutral,264,7
+1497,s producer mac,Joey,4,neutral,264,8
+1498,can excuse minute,Joey,4,neutral,264,9
+1499,hey funny should,Joey,3,positive,264,10
+1500,i looking next week s script,Joey,4,neutral,264,11
+1501,canceled,Joey,6,negative,264,12
+1502,re taking off air,Joey,6,negative,264,13
+1503,ohh,Joey,4,neutral,264,14
+1504,right monday,Joey,4,neutral,264,15
+1505,re shootin anymore,Joey,6,negative,264,16
+1506,right bye,Joey,0,negative,264,17
+1507,canceled mac,Joey,0,negative,264,18
+1508,i m sorry joey,Rachel,5,negative,264,19
+1509,would good right,Joey,6,negative,264,20
+1510,hey,Joey,4,neutral,265,0
+1511,s hilda working out,Phoebe,4,neutral,265,1
+1512,hello,Joey,4,neutral,265,2
+1513,hey,Joey,6,positive,265,3
+1514,can can hang second,Joey,4,neutral,265,4
+1515,s producer mac,Joey,4,neutral,265,5
+1516,can excuse minute,Joey,4,neutral,265,6
+1517,hey funny should,Joey,3,positive,265,7
+1518,i looking next week s script,Joey,4,neutral,265,8
+1519,canceled,Joey,6,negative,265,9
+1520,re taking off air,Joey,6,negative,265,10
+1521,ohh,Joey,4,neutral,265,11
+1522,right monday,Joey,4,neutral,265,12
+1523,re shootin anymore,Joey,6,negative,265,13
+1524,right bye,Joey,0,negative,265,14
+1525,canceled mac,Joey,0,negative,265,15
+1526,sorry,Phoebe,5,negative,265,16
+1527,s hilda working out,Phoebe,4,neutral,266,0
+1528,ohh new assistant working out yes,Rachel,4,neutral,266,1
+1529,sorry,Phoebe,5,negative,266,2
+1530,i m sorry joey,Rachel,5,negative,266,3
+1531,s secluded,Rachel,4,neutral,267,0
+1532,i i,Paul,3,positive,267,1
+1533,i re two people world oops sorry,Rachel,3,positive,267,2
+1534,s matter honey little mouse,Paul,4,neutral,267,3
+1535,big bear big bear i would check,Rachel,2,negative,267,4
+1536,honey don t bear,Paul,4,neutral,267,5
+1537,okay,Rachel,4,neutral,267,6
+1538,okay i ll right back,Paul,4,neutral,267,7
+1539,okay,Rachel,6,negative,267,8
+1540,,Rachel,0,negative,267,9
+1541,honey,Paul,3,positive,267,10
+1542,ahh thank,Rachel,3,positive,267,11
+1543,diet coke,Paul,4,neutral,267,12
+1544,okay,Rachel,6,negative,268,0
+1545,,Ross,4,neutral,268,1
+1546,i came paul,Rachel,0,negative,268,2
+1547,yeah i recognize ankle,Ross,4,neutral,268,3
+1548,,Rachel,0,negative,268,4
+1549,hell,Rachel,0,negative,269,0
+1550,lesson importance unagi,Ross,4,neutral,269,1
+1551,perhaps i m curious point girlish scream would begun,Ross,4,neutral,269,2
+1552,right weren t,Rachel,4,neutral,269,3
+1553,i m sorry i drastic measure point i guy safe,Ross,4,neutral,269,4
+1554,lesson importance unagi,Ross,4,neutral,270,0
+1555,ohh,Phoebe,4,neutral,270,1
+1556,perhaps i m curious point girlish scream would begun,Ross,4,neutral,270,2
+1557,,Brenda,4,neutral,271,0
+1558,i m leaning i lean,Chandler,4,neutral,271,1
+1559,okay go fluff pillow couch,Brenda,4,neutral,271,2
+1560,brenda bee,Chandler,2,negative,271,3
+1561,,Brenda,6,negative,271,4
+1562,yes s flown blouse d better undo button lest sting,Chandler,0,negative,271,5
+1563,i i s going,Brenda,1,negative,271,6
+1564,,Chandler,4,neutral,271,7
+1565,i must hard wife lesbian s wrong re married,Brenda,1,negative,271,8
+1566,i totally can i,Chandler,4,neutral,271,9
+1567,right,Director,3,positive,272,0
+1568,,Director,6,negative,272,1
+1569,i best i could out,Joey,4,neutral,272,2
+1570,people,Director,5,negative,272,3
+1571,people people people,Joey,4,neutral,272,4
+1572,again time everybody joey,Director,4,neutral,272,5
+1573,done,Director,4,neutral,272,6
+1574,count off,Director,4,neutral,272,7
+1575,uncle nathan invite,Emily,4,neutral,273,0
+1576,ohh god nobody like s cheap d fly london million year,Ross,1,negative,273,1
+1577,yeah invite,Ross,4,neutral,273,2
+1578,hey i neat enough,Ross,4,neutral,273,3
+1579,yeah re fine,Emily,4,neutral,273,4
+1580,yeah,Ross,3,positive,273,5
+1581,if anyone asks ll say ben addressed invited rachel,Emily,6,positive,273,6
+1582,sure,Ross,4,neutral,273,7
+1583,,Emily,6,positive,273,8
+1584,yeah,Ross,4,neutral,273,9
+1585,i don t i d comfortable old lover,Emily,5,negative,273,10
+1586,maybe shouldn t invite,Ross,2,negative,273,11
+1587,y i absolutely adore rachel s might awkward,Emily,5,negative,273,12
+1588,s absolutely decision,Emily,4,neutral,273,13
+1589,tea,Emily,4,neutral,273,14
+1590,yeah sure,Ross,4,neutral,273,15
+1591,earl grey,Emily,4,neutral,273,16
+1592,huh yeah fine invite whoever,Ross,4,neutral,273,17
+1593,hi,Rachel,4,neutral,274,0
+1594,hey,Joey,3,positive,274,1
+1595,i don t baby,Joey,4,neutral,274,2
+1596,i i couldn t first s right ross i lost again,Rachel,3,positive,274,3
+1597,hey,Joey,3,positive,275,0
+1598,hey doctor,Phoebe,4,neutral,275,1
+1599,,Phoebe,3,positive,275,2
+1600,i don t baby,Joey,4,neutral,275,3
+1601,hey doctor,Phoebe,4,neutral,276,0
+1602,everything went great,Rachel,3,positive,276,1
+1603,good,Phoebe,4,neutral,276,2
+1604,good,Phoebe,4,neutral,277,0
+1605,hey picture uterus,Ross,4,neutral,277,1
+1606,,Phoebe,3,positive,277,2
+1607,could something,Phoebe,4,neutral,278,0
+1608,patient i m looking broken leg wheelchair,Phoebe,4,neutral,278,1
+1609,umm s early attractive,Phoebe,4,neutral,278,2
+1610,i i who re talking,Nurse,4,neutral,278,3
+1611,yay great okay room number,Phoebe,3,positive,278,4
+1612,i m sorry information restricted hospital staff,Nurse,4,neutral,278,5
+1613,i m sorry information restricted hospital staff,Nurse,4,neutral,279,0
+1614,s drake remoray,Joey,4,neutral,279,1
+1615,drake who,Nurse,4,neutral,279,2
+1616,remoray s portuguese information i m doctor,Joey,4,neutral,279,3
+1617,doctor hospital,Nurse,6,negative,279,4
+1618,damnit woman re losing precious time man s blood head,Joey,0,negative,279,5
+1619,hand,Joey,4,neutral,279,6
+1620,absolutely essential room man assistant described staying,Joey,4,neutral,279,7
+1621,s patient mine i ve treating year,Joey,4,neutral,279,8
+1622,s room,Nurse,4,neutral,279,9
+1623,thank,Joey,3,positive,279,10
+1624,could something,Phoebe,4,neutral,280,0
+1625,patient i m looking broken leg wheelchair,Phoebe,4,neutral,280,1
+1626,umm s early attractive,Phoebe,4,neutral,280,2
+1627,damnit woman re losing precious time man s blood head,Joey,0,negative,280,3
+1628,hand,Phoebe,4,neutral,280,4
+1629,hand,Joey,4,neutral,280,5
+1630,absolutely essential room man assistant described staying,Joey,4,neutral,280,6
+1631,s patient mine i ve treating year,Joey,4,neutral,280,7
+1632,thank,Joey,3,positive,280,8
+1633,thank,Phoebe,4,neutral,280,9
+1634,name,Joey,4,neutral,280,10
+1635,,Phoebe,6,negative,280,11
+1636,hi,Ross,3,positive,281,0
+1637,hi,Rachel and Bonnie,3,positive,281,1
+1638,i,Ross,4,neutral,281,2
+1639,okay i got ta,Ross,4,neutral,281,3
+1640,yeah,Ross,4,neutral,281,4
+1641,i can can t night if i s gon na wan na stuff,Ross,2,negative,281,5
+1642,hi,Rachel and Bonnie,3,positive,282,0
+1643,rachel helping out head got sunburned,Bonnie,4,neutral,282,1
+1644,rachel helping out head got sunburned,Bonnie,4,neutral,283,0
+1645,awww,Ross,3,positive,283,1
+1646,thanks million,Bonnie,3,positive,283,2
+1647,okay i ll room,Bonnie,4,neutral,283,3
+1648,yeah,Ross,4,neutral,283,4
+1649,i,Ross,4,neutral,283,5
+1650,okay i got ta,Ross,4,neutral,283,6
+1651,yeah,Ross,4,neutral,283,7
+1652,i can can t night if i s gon na wan na stuff,Ross,2,negative,283,8
+1653,thanks million,Bonnie,3,positive,284,0
+1654,re welcome million,Rachel,3,positive,284,1
+1655,okay i ll room,Bonnie,4,neutral,284,2
+1656,yeah,Ross,4,neutral,285,0
+1657,god,Rachel,6,positive,285,1
+1658,i,Ross,4,neutral,285,2
+1659,okay i got ta,Ross,4,neutral,285,3
+1660,whoa,Rachel,6,negative,285,4
+1661,got ta break bonnie,Ross,5,negative,285,5
+1662,,Rachel,6,negative,285,6
+1663,yeah,Ross,4,neutral,285,7
+1664,i can can t night if i s gon na wan na stuff,Ross,2,negative,285,8
+1665,happened,Ross,6,negative,286,0
+1666,s gon na s stuck chicago,Chandler,5,negative,286,1
+1667,ohh man chicago sooo lucky,Ross,3,positive,286,2
+1668,stupid useless canadian money,Chandler,0,negative,286,3
+1669,rachel one customer seems left billfold joshua bergen,Mr. Waltham,4,neutral,287,0
+1670,,Rachel,6,positive,287,1
+1671,will,Mr. Waltham,4,neutral,287,2
+1672,yes,Rachel,3,positive,287,3
+1673,i will,Rachel,3,positive,287,4
+1674,absolutely,Rachel,3,positive,287,5
+1675,i m full i if i eating i ll regret,Chandler,4,neutral,288,0
+1676,hey,Joey,4,neutral,288,1
+1677,tonight,Chandler,4,neutral,288,2
+1678,huh,Joey,4,neutral,288,3
+1679,dude dude,Chandler,6,negative,288,4
+1680,sorry i ve got plan phoebe,Joey,4,neutral,288,5
+1681,monica said date,Chandler,6,negative,288,6
+1682,tonight,Joey,6,negative,288,7
+1683,s monica said,Chandler,4,neutral,288,8
+1684,gave big speech,Joey,6,negative,288,9
+1685,go make date guy night plan,Joey,0,negative,288,10
+1686,i s trying fast one big daddy,Joey,0,negative,288,11
+1687,hey,Joey,4,neutral,289,0
+1688,hey,Rachel,4,neutral,289,1
+1689,got,Joey,4,neutral,289,2
+1690,s umm s tofu cake,Rachel,4,neutral,289,3
+1691,gave big speech,Joey,6,negative,289,4
+1692,go make date guy night plan,Joey,0,negative,289,5
+1693,i s trying fast one big daddy,Joey,0,negative,289,6
+1694,s umm s tofu cake,Rachel,4,neutral,290,0
+1695,tonight,Chandler,4,neutral,290,1
+1696,okay lamp place,Chandler,4,neutral,291,0
+1697,who care i repel woman,Ross,1,negative,291,1
+1698,ca naked,Chandler,6,negative,291,2
+1699,ca naked,Chandler,6,negative,292,0
+1700,,Monica,6,negative,292,1
+1701,s,Jill,4,neutral,293,0
+1702,yeah i m slut,Rachel,5,negative,293,1
+1703,,Jill,4,neutral,293,2
+1704,,Jill,4,neutral,294,0
+1705,hi jill,Ross,3,positive,294,1
+1706,hey,Jill,3,positive,294,2
+1707,hi,Ross,4,neutral,294,3
+1708,hi,Ross,4,neutral,295,0
+1709,rachel,Rachel,4,neutral,295,1
+1710,rachel re home re right,Ross,6,positive,295,2
+1711,yeah i i bet thought would weird s,Rachel,3,positive,295,3
+1712,okay i ll umm i ll home midnight,Ross,4,neutral,295,4
+1713,part perfect i ca i,Joey,0,negative,296,0
+1714,i sorry man,Ross,5,negative,296,1
+1715,hey should,Ross,4,neutral,296,2
+1716,should something,Ross,4,neutral,296,3
+1717,,Ross,4,neutral,296,4
+1718,movie,Ross,3,positive,296,5
+1719,huh,Ross,4,neutral,296,6
+1720,i,Ross,4,neutral,296,7
+1721,ross realistic if i something chance i could guy star,Joey,5,negative,296,8
+1722,wait second i could star,Joey,3,positive,296,9
+1723,,Ross,4,neutral,296,10
+1724,i ca,Joey,0,negative,296,11
+1725,i actor i discipline take,Joey,5,negative,296,12
+1726,i ca,Joey,5,negative,296,13
+1727,i,Ross,4,neutral,296,14
+1728,yeah i schedule sure stick,Ross,4,neutral,296,15
+1729,plus something,Ross,4,neutral,296,16
+1730,soo eric kind photography ya,Chandler,4,neutral,297,0
+1731,mostly fashion may model time time i hope s cool,Eric,4,neutral,297,1
+1732,yes cool because i model,Chandler,4,neutral,297,2
+1733,yeah summer i weekend sister s beach house welcome way,Eric,4,neutral,297,3
+1734,although i should probably s porn star,Eric,4,neutral,297,4
+1735,bad went i actually enjoyed i i m going apologize stupid thing i,Chandler,4,neutral,298,0
+1736,don t stupid thing wouldn t apologize,Monica,4,neutral,298,1
+1737,i would if i could,Chandler,4,neutral,298,2
+1738,right,Monica,5,negative,298,3
+1739,,Chandler,4,neutral,298,4
+1740,gon na break if i fat again,Monica,2,negative,298,5
+1741,,Chandler,6,negative,298,6
+1742,broke julie grath weight could gained,Monica,0,negative,298,7
+1743,hundred pound,Chandler,1,negative,298,8
+1744,yes yes s time lip lip,Ross,0,negative,299,0
+1745,s frannie hmm won t happy,Monica,3,positive,299,1
+1746,wait minute nice right i didn t can ambush,Ross,0,negative,299,2
+1747,frannie one who found,Monica,4,neutral,299,3
+1748,bitch,Ross,0,negative,299,4
+1749,i surprised ross brought,Monica,0,negative,299,5
+1750,hi frannie congratulation,Ross,4,neutral,299,6
+1751,invite brother invite whole family,Monica,0,negative,299,7
+1752,,Monica,6,negative,299,8
+1753,wouldn t wedding,Monica,0,negative,299,9
+1754,could i possibly done,Monica,0,negative,299,10
+1755,stuart,Monica,0,negative,299,11
+1756,bitch,Ross,0,negative,300,0
+1757,monica,Frannie,6,negative,300,1
+1758,i husband,Frannie,4,neutral,300,2
+1759,s question,Ross,4,neutral,300,3
+1760,monica,Frannie,6,negative,301,0
+1761,i surprised ross brought,Monica,0,negative,301,1
+1762,invite brother invite whole family,Monica,0,negative,301,2
+1763,,Monica,6,negative,301,3
+1764,wouldn t wedding,Monica,0,negative,301,4
+1765,could i possibly done,Monica,0,negative,301,5
+1766,stuart,Monica,0,negative,301,6
+1767,i husband,Frannie,4,neutral,301,7
+1768,hey lady,Chandler,4,neutral,302,0
+1769,hey chandler,Gary,6,positive,302,1
+1770,gary i crime,Chandler,4,neutral,302,2
+1771,yeah,Gary,6,positive,302,3
+1772,crime i time together,Chandler,4,neutral,302,4
+1773,,Gary,4,neutral,302,5
+1774,i heard thinking asking phoebe i thought maybe should,Chandler,4,neutral,302,6
+1775,man,Chandler,4,neutral,302,7
+1776,sure okay,Gary,4,neutral,302,8
+1777,crazy insane if phoebe two gon na together,Chandler,6,positive,302,9
+1778,yeah considered i would happy,Gary,4,neutral,302,10
+1779,scared,Chandler,4,neutral,302,11
+1780,i happy,Gary,4,neutral,302,12
+1781,hey listen i clearing space stuff,Ross,3,positive,303,0
+1782,thanks listen i monica s chandler big fight re moving,Rachel,5,negative,303,1
+1783,re moving re moving right,Ross,6,negative,303,2
+1784,big blowout room,Rachel,4,neutral,303,3
+1785,stupid room,Ross,6,negative,303,4
+1786,yeah i kinda bad i m psyched cause i don t,Rachel,3,positive,303,5
+1787,yeah part s great,Ross,3,positive,303,6
+1788,,Chandler,6,negative,304,0
+1789,guy going one game,Monica,6,negative,304,1
+1790,yeah out,Chandler,0,negative,304,2
+1791,guy hanging out apartment,Monica,0,negative,304,3
+1792,i left hand huh,Monica,0,negative,304,4
+1793,wussies,Monica,0,negative,304,5
+1794,right ok i got ta,Monica,4,neutral,304,6
+1795,i going i gone,Monica,4,neutral,304,7
+1796,one game,Chandler,4,neutral,304,8
+1797,guy going one game,Monica,6,negative,305,0
+1798,morning,Joey,5,negative,305,1
+1799,guy hanging out apartment,Monica,0,negative,305,2
+1800,i left hand huh,Monica,0,negative,305,3
+1801,wussies,Monica,0,negative,305,4
+1802,right ok i got ta,Monica,4,neutral,305,5
+1803,i going i gone,Monica,4,neutral,305,6
+1804,morning,Joey,5,negative,306,0
+1805,yeah out,Chandler,0,negative,306,1
+1806,one game,Chandler,4,neutral,306,2
+1807,yeah,Joey,3,positive,306,3
+1808,ohhh don t,Chandler,5,negative,307,0
+1809,got ta,Janice,5,negative,307,1
+1810,,Chandler,5,negative,307,2
+1811,honey honey people looking,Janice,5,negative,308,0
+1812,i don t care i don t care,Chandler,0,negative,308,1
+1813,yeah i m i m leaving,Janice,5,negative,308,2
+1814,can t i shoe,Chandler,5,negative,308,3
+1815,chandler bing,Janice,5,negative,308,4
+1816,chandler bing,Janice,5,negative,309,0
+1817,rachel burgendy,Gunther,4,neutral,309,1
+1818,ew,Phoebe,1,negative,310,0
+1819,,Frank,4,neutral,310,1
+1820,yeah i i wanted,Phoebe,4,neutral,310,2
+1821,can roll tongue,Phoebe,4,neutral,310,3
+1822,because i can mom couldn t i thought i figured something i got dad,Phoebe,4,neutral,311,0
+1823,wait,Frank,4,neutral,311,1
+1824,yeah yeah can,Phoebe,6,positive,311,2
+1825,,Frank,4,neutral,311,3
+1826,right yeah okay mom could i can t don t,Phoebe,4,neutral,311,4
+1827,fear commitment,Ross,4,neutral,312,0
+1828,thought,Chandler,4,neutral,312,1
+1829,thought,Chandler,4,neutral,313,0
+1830,i tunnel i allowed than one girl car right,Joey,4,neutral,313,1
+1831,seems pretty anything else face fear,Joey,4,neutral,313,2
+1832,fear height top building,Joey,2,negative,313,3
+1833,if afraid bug bug,Joey,4,neutral,313,4
+1834,right,Joey,4,neutral,313,5
+1835,case fear commitment i say committed guy,Joey,4,neutral,313,6
+1836,,Chandler,4,neutral,313,7
+1837,yeah man jump off high dive stare down barrel gun pee wind,Joey,3,positive,313,8
+1838,yeah joe i assure if i staring down barrel gun i pretty peeing way,Chandler,2,negative,313,9
+1839,i tunnel i allowed than one girl car right,Joey,4,neutral,314,0
+1840,seems pretty anything else face fear,Joey,4,neutral,314,1
+1841,fear height top building,Joey,2,negative,314,2
+1842,if afraid bug bug,Joey,4,neutral,314,3
+1843,right,Joey,4,neutral,314,4
+1844,case fear commitment i say committed guy,Joey,4,neutral,314,5
+1845,amazingly make sense,Rachel,3,positive,314,6
+1846,amazingly make sense,Rachel,3,positive,315,0
+1847,,Chandler,4,neutral,315,1
+1848,hey hey,Mona,3,positive,316,0
+1849,hi,Ross,3,positive,316,1
+1850,hi i got picture developed rockefeller center,Mona,3,positive,316,2
+1851,great joey check out picture mona ice skating,Ross,3,positive,316,3
+1852,hey picture creepy pretzel vendor took u together,Ross,4,neutral,316,4
+1853,yeah probably end god took picture breast,Mona,6,negative,316,5
+1854,okay okay s good one u,Mona,3,positive,316,6
+1855,wow,Ross,3,positive,316,7
+1856,good one,Ross,3,positive,316,8
+1857,wow look holiday card y tree middle skater snow,Ross,3,positive,316,9
+1858,y year i say i m gon na out holiday card i,Mona,4,neutral,316,10
+1859,wan na wan na one out together,Mona,4,neutral,316,11
+1860,together people,Ross,6,negative,316,12
+1861,yeah y happy holiday mona ross ll cute okay,Mona,3,positive,316,13
+1862,okay,Ross,3,positive,316,14
+1863,i got ta later,Mona,4,neutral,316,15
+1864,sure sure,Ross,4,neutral,316,16
+1865,bye guy,Mona,4,neutral,316,17
+1866,great joey check out picture mona ice skating,Ross,3,positive,317,0
+1867,ordinarily i would i swamped right,Joey,4,neutral,317,1
+1868,hey picture creepy pretzel vendor took u together,Ross,4,neutral,317,2
+1869,wow,Ross,3,positive,317,3
+1870,good one,Ross,3,positive,317,4
+1871,wow look holiday card y tree middle skater snow,Ross,3,positive,317,5
+1872,yeah probably end god took picture breast,Mona,6,negative,318,0
+1873,i m missin picture time,Joey,3,positive,318,1
+1874,y year i say i m gon na out holiday card i,Mona,4,neutral,318,2
+1875,wan na wan na one out together,Mona,4,neutral,318,3
+1876,i m missin picture time,Joey,3,positive,319,0
+1877,y face ross,Phoebe,0,negative,319,1
+1878,y face ross,Phoebe,0,negative,320,0
+1879,okay okay s good one u,Mona,3,positive,320,1
+1880,y year i say i m gon na out holiday card i,Mona,4,neutral,320,2
+1881,wan na wan na one out together,Mona,4,neutral,320,3
+1882,i i don t i girlfriend anymore,Ross,0,negative,321,0
+1883,quit job can ve got girlfriend,Rachel,0,negative,321,1
+1884,mark,Ross,4,neutral,321,2
+1885,god,Rachel,6,negative,321,3
+1886,okay s s,Ross,4,neutral,321,4
+1887,god i can fight ross urrgh maybe should break,Rachel,5,negative,321,5
+1888,fine re right,Ross,4,neutral,321,6
+1889,s s break s cool off okay s frozen yoghurt something,Ross,4,neutral,321,7
+1890,break u,Rachel,5,negative,321,8
+1891,bing re tonight o clock,Doug,3,positive,322,0
+1892,turn out can t monica,Chandler,3,positive,322,1
+1893,didn t unless turning mother fine tomorrow night,Doug,4,neutral,322,2
+1894,tomorrow s good,Chandler,4,neutral,322,3
+1895,,Doug,4,neutral,322,4
+1896,s ball tournament,Chandler,4,neutral,322,5
+1897,s going bing wife problem something,Doug,0,negative,322,6
+1898,re talking crazy,Chandler,3,positive,322,7
+1899,can t three u out together,Doug,4,neutral,322,8
+1900,because split monica i split,Chandler,5,negative,322,9
+1901,good god bing i can t say i m altogether surprised i saw way looked,Doug,5,negative,322,10
+1902,way looked pure lust,Doug,3,positive,322,11
+1903,y would tough time choking something can i choke ya,Chandler,0,negative,322,12
+1904,bing boy re gon na,Doug,4,neutral,322,13
+1905,s plan grab coat re going strip club,Doug,3,positive,322,14
+1906,monica would freak hell bitch,Chandler,0,negative,322,15
+1907,sweet innocent sleeping angel emma chubby little hand wrapped ya,Joey,4,neutral,323,0
+1908,okay emma asleep,Joey,4,neutral,323,1
+1909,step away crib i weapon,Rachel,0,negative,323,2
+1910,okay okay rach down scrunchy,Joey,4,neutral,323,3
+1911,,Rachel,4,neutral,323,4
+1912,i heard emma stirring i came sure could hugsy,Joey,4,neutral,323,5
+1913,thanks alright i i going bathroom,Rachel,4,neutral,323,6
+1914,sweetie,Joey,4,neutral,323,7
+1915,,Joanna,4,neutral,324,0
+1916,sorry,Rachel,5,negative,324,1
+1917,said d hasn t called,Joanna,5,negative,324,2
+1918,sophie would please climb out butt hasn t called rachel,Joanna,0,negative,324,3
+1919,okay okay umm maybe maybe feel awkward because bos,Rachel,4,neutral,324,4
+1920,awkward should awkward,Joanna,6,negative,324,5
+1921,said d hasn t called,Joanna,5,negative,325,0
+1922,maybe s intimated smart strong successful woman,Sophie,4,neutral,325,1
+1923,sophie would please climb out butt hasn t called rachel,Joanna,0,negative,325,2
+1924,re upset because didn t best friend cry,Chandler,5,negative,326,0
+1925,i i m asking little emotion,Monica,0,negative,326,1
+1926,six year,Monica,0,negative,326,2
+1927,i,Monica,0,negative,326,3
+1928,rachel i close guy,Monica,0,negative,326,4
+1929,i fun,Monica,0,negative,326,5
+1930,don t i deserve tear,Monica,5,negative,326,6
+1931,i told joey cried eye out,Monica,5,negative,326,7
+1932,i i m asking little emotion,Monica,0,negative,327,0
+1933,six year,Monica,0,negative,327,1
+1934,i,Monica,0,negative,327,2
+1935,rachel i close guy,Monica,0,negative,327,3
+1936,i fun,Monica,0,negative,327,4
+1937,don t i deserve tear,Monica,5,negative,327,5
+1938,i told joey cried eye out,Monica,5,negative,327,6
+1939,hey,Joey,0,negative,327,7
+1940,i cry eye out,Joey,0,negative,327,8
+1941,,Joey,5,negative,327,9
+1942,s end era,Joey,5,negative,327,10
+1943,channie s,Joey,5,negative,327,11
+1944,hey,Joey,0,negative,328,0
+1945,i cry eye out,Joey,0,negative,328,1
+1946,,Joey,5,negative,328,2
+1947,s end era,Joey,5,negative,328,3
+1948,channie s,Joey,5,negative,328,4
+1949,okay i got ta who call u,Chandler,0,negative,328,5
+1950,i re rushing,Chloe,4,neutral,329,0
+1951,yeah girlfriend i told last night,Ross,4,neutral,329,1
+1952,turn out want back together,Ross,4,neutral,329,2
+1953,i found,Ross,3,positive,329,3
+1954,s great guy,Chloe,3,positive,329,4
+1955,good luck girlfriend,Chloe,4,neutral,329,5
+1956,thank hey hey rachel,Ross,3,positive,329,6
+1957,yes can,Ross,3,positive,329,7
+1958,ahhhh,Ross,6,positive,329,8
+1959,yeah girlfriend i told last night,Ross,4,neutral,330,0
+1960,turn out want back together,Ross,4,neutral,330,1
+1961,i found,Ross,3,positive,330,2
+1962,thank hey hey rachel,Ross,3,positive,330,3
+1963,hi ohhh got message,Rachel,4,neutral,330,4
+1964,yeah hey right time,Ross,4,neutral,330,5
+1965,say can i girlfriend again,Rachel,4,neutral,330,6
+1966,yes can,Ross,3,positive,330,7
+1967,ahhhh,Ross,6,positive,330,8
+1968,ooh i sorry i i may missed table,Monica,3,positive,331,0
+1969,,Mike,4,neutral,331,1
+1970,,Monica,4,neutral,331,2
+1971,,Mike,4,neutral,331,3
+1972,,Monica,4,neutral,331,4
+1973,,Mike,0,negative,331,5
+1974,y i don t didn t cry beautiful speech,Ross,5,negative,332,0
+1975,,Monica,1,negative,332,1
+1976,hey,Ross,5,negative,332,2
+1977,stuff said true right i lot mom dad,Ross,3,positive,332,3
+1978,picture mischievous grin,Ross,4,neutral,332,4
+1979,said nana,Ross,4,neutral,332,5
+1980,ohh yeah would ve wanted,Ross,5,negative,332,6
+1981,,Ross,4,neutral,332,7
+1982,i,Ross,4,neutral,332,8
+1983,good god ross hell,Monica,6,negative,332,9
+1984,forget great song heart,Joey,4,neutral,333,0
+1985,yeah,Chandler,4,neutral,333,1
+1986,heard repeated must wrote,Chandler,4,neutral,333,2
+1987,guy joke i got ta say i i cracked i m sure i got,Joey,4,neutral,333,3
+1988,monkey can t out prescription,Chandler,4,neutral,333,4
+1989,allowed laugh joke,Chandler,0,negative,333,5
+1990,yeah,Chandler,4,neutral,334,0
+1991,barracuda first song i learned keyboard,Ross,4,neutral,334,1
+1992,heard repeated must wrote,Chandler,4,neutral,334,2
+1993,didn t doctor monkey,Ross,4,neutral,334,3
+1994,monkey can t out prescription,Chandler,4,neutral,334,4
+1995,allowed laugh joke,Chandler,0,negative,334,5
+1996,joke i hef would disagree sent check one hundred,Ross,4,neutral,334,6
+1997,guy joke i got ta say i i cracked i m sure i got,Joey,4,neutral,335,0
+1998,didn t doctor monkey,Ross,4,neutral,335,1
+1999,i can t garbage bag,Monica,0,negative,336,0
+2000,i i saw,Rachel,4,neutral,336,1
+2001,,Monica,6,negative,336,2
+2002,i don t maybe if drawer shut ll,Rachel,1,negative,336,3
+2003,i can t re living,Monica,5,negative,336,4
+2004,haven t told rachel weren t proposing,Chandler,6,negative,337,0
+2005,ring seemed excited took breast out,Joey,0,negative,337,1
+2006,joey s going,Chandler,6,negative,337,2
+2007,i didn t stupid baby s head blocking,Joey,0,negative,337,3
+2008,rachel right ross find out,Chandler,5,negative,337,4
+2009,s easy said wanted marry i don t hurt,Joey,5,negative,337,5
+2010,okay gently,Chandler,4,neutral,337,6
+2011,re right,Joey,4,neutral,337,7
+2012,re right,Joey,4,neutral,337,8
+2013,ll ross find out i ll gentle,Joey,4,neutral,337,9
+2014,i can,Joey,4,neutral,337,10
+2015,i gentle person,Joey,4,neutral,337,11
+2016,way,Joey,4,neutral,337,12
+2017,two people screwing if check out,Joey,4,neutral,337,13
+2018,okay umm tragic story cathy heathcliff umm take place creepy more england,Phoebe,5,negative,338,0
+2019,,Phoebe,4,neutral,338,1
+2020,would characterize theme book rachel green,The Teacher,4,neutral,338,2
+2021,excellent rachel shrewdly observed,The Teacher,3,positive,338,3
+2022,completely stole answer,Phoebe,0,negative,338,4
+2023,would,Phoebe,0,negative,338,5
+2024,blue shirt,The Teacher,4,neutral,338,6
+2025,i question answer,Phoebe,4,neutral,338,7
+2026,would ya care venture one,The Teacher,4,neutral,338,8
+2027,would,Phoebe,4,neutral,338,9
+2028,repeating i saying,The Teacher,0,negative,338,10
+2029,right,The Teacher,4,neutral,338,11
+2030,okay,Phoebe,4,neutral,338,12
+2031,would characterize theme book rachel green,The Teacher,4,neutral,339,0
+2032,umm i would say tragic story,Rachel,4,neutral,339,1
+2033,sort given yes anyone else,The Teacher,4,neutral,339,2
+2034,symbolism wildness more,Rachel,3,positive,339,3
+2035,excellent rachel shrewdly observed,The Teacher,3,positive,339,4
+2036,repeating i saying,The Teacher,0,negative,339,5
+2037,right,The Teacher,4,neutral,339,6
+2038,okay umm tragic story cathy heathcliff umm take place creepy more england,Phoebe,5,negative,340,0
+2039,,Phoebe,4,neutral,340,1
+2040,completely stole answer,Phoebe,0,negative,340,2
+2041,honey pretty obvious,Rachel,5,negative,340,3
+2042,would,Phoebe,0,negative,340,4
+2043,right okay great chandler desk,Joey,4,neutral,341,0
+2044,come hopefully won t recognise because would,Joey,4,neutral,341,1
+2045,okay buzz ross i,Joey,4,neutral,341,2
+2046,gonzalez i ll wong,Joey,4,neutral,341,3
+2047,diverse,Ross,4,neutral,341,4
+2048,diverse,Ross,4,neutral,342,0
+2049,anybody security,The Stripper,4,neutral,342,1
+2050,okay one guy gunther hey joey,The Stripper,4,neutral,342,2
+2051,s ring dead grandmother s wedding ring,Ross,2,negative,342,3
+2052,wait guy i stole ring,The Stripper,6,negative,342,4
+2053,took save time confess,Ross,0,negative,342,5
+2054,okay who,The Stripper,6,negative,342,6
+2055,hardy boy,The Stripper,0,negative,342,7
+2056,i don t steal stupid ring right,The Stripper,0,negative,342,8
+2057,i week i guy,The Stripper,0,negative,342,9
+2058,anybody security,The Stripper,4,neutral,343,0
+2059,cool,Chandler,4,neutral,343,1
+2060,okay one guy gunther hey joey,The Stripper,4,neutral,343,2
+2061,way cool man,Chandler,4,neutral,343,3
+2062,s talking,The Stripper,4,neutral,343,4
+2063,okay who,The Stripper,6,negative,343,5
+2064,hardy boy,The Stripper,0,negative,343,6
+2065,i don t steal stupid ring right,The Stripper,0,negative,343,7
+2066,i week i guy,The Stripper,0,negative,343,8
+2067,marry,Chandler,4,neutral,343,9
+2068,s ring dead grandmother s wedding ring,Ross,2,negative,344,0
+2069,way cool man,Chandler,4,neutral,344,1
+2070,right okay great chandler desk,Joey,4,neutral,345,0
+2071,come hopefully won t recognise because would,Joey,4,neutral,345,1
+2072,okay buzz ross i,Joey,4,neutral,345,2
+2073,gonzalez i ll wong,Joey,4,neutral,345,3
+2074,s talking,The Stripper,4,neutral,345,4
+2075,ring box nightstand left gone,Joey,0,negative,345,5
+2076,wait guy i stole ring,The Stripper,6,negative,345,6
+2077,okay who,The Stripper,6,negative,345,7
+2078,hardy boy,The Stripper,0,negative,345,8
+2079,i don t steal stupid ring right,The Stripper,0,negative,345,9
+2080,i week i guy,The Stripper,0,negative,345,10
+2081,god joey,Monica,6,negative,346,0
+2082,hell yeah i ll marry,Phoebe,3,positive,346,1
+2083,can t marry,Monica,0,negative,346,2
+2084,hey lady day s s,Phoebe,0,negative,346,3
+2085,phoebe,Monica,6,negative,346,4
+2086,i can i will,Phoebe,0,negative,346,5
+2087,s pregnant s rachel rachel s one who s pregnant,Monica,4,neutral,346,6
+2088,hey,Phoebe,0,negative,346,7
+2089,phoebe i would notice if didn t baby nine month,Monica,0,negative,346,8
+2090,s joey,Phoebe,6,negative,346,9
+2091,god i who father,Phoebe,6,negative,346,10
+2092,people got finish story,Monica,0,negative,346,11
+2093,phoebe,Monica,6,negative,347,0
+2094,can t marry,Joey,6,negative,347,1
+2095,s pregnant s rachel rachel s one who s pregnant,Monica,4,neutral,347,2
+2096,god,Joey,6,negative,347,3
+2097,i wonder if dude,Joey,4,neutral,347,4
+2098,s dude,Monica,6,negative,347,5
+2099,yeah,Joey,4,neutral,347,6
+2100,can t marry,Joey,6,negative,348,0
+2101,i can i will,Phoebe,0,negative,348,1
+2102,god,Joey,6,negative,348,2
+2103,hey,Phoebe,0,negative,348,3
+2104,s joey,Phoebe,6,negative,348,4
+2105,i can t rachel s pregnant who s father,Joey,6,positive,348,5
+2106,don t,Phoebe,4,neutral,348,6
+2107,i wonder if dude,Joey,4,neutral,348,7
+2108,yeah,Joey,4,neutral,348,8
+2109,who who,Phoebe,6,negative,348,9
+2110,month ago guy spent night rachel i didn t who,Joey,1,negative,348,10
+2111,story,Phoebe,4,neutral,348,11
+2112,guy left,Joey,4,neutral,348,12
+2113,god i who father,Phoebe,6,negative,348,13
+2114,god re back,Joey,6,positive,349,0
+2115,ohh hand,Phoebe,6,positive,349,1
+2116,i wan na s hand i wan na trash,Phoebe,1,negative,349,2
+2117,eww s dirty should throw out,Phoebe,1,negative,349,3
+2118,ohh hand,Phoebe,6,positive,350,0
+2119,hand,Monica,4,neutral,350,1
+2120,i wan na s hand i wan na trash,Phoebe,1,negative,350,2
+2121,eww s dirty should throw out,Phoebe,1,negative,350,3
+2122,,Ross,0,negative,351,0
+2123,,Monica,3,positive,351,1
+2124,hey music start again i thinking maybe goind robot y,Ross,4,neutral,351,2
+2125,ross i should stick routine don t wan na stupid,Monica,3,positive,351,3
+2126,ross i should stick routine don t wan na stupid,Monica,3,positive,352,0
+2127,alright re back ten second left ten nine eight seven,Director,3,positive,352,1
+2128,alright re back ten second left ten nine eight seven,Director,3,positive,353,0
+2129,three two one,All,4,neutral,353,1
+2130,,Director,4,neutral,353,2
+2131,,Director,4,neutral,354,0
+2132,year happy year,Joey,3,positive,354,1
+2133,okay s shot time square nice everyone s wrap,Director,3,positive,354,2
+2134,lizzie planning staying night,Paul,4,neutral,355,0
+2135,i m leaving soon possible,Elizabeth,4,neutral,355,1
+2136,good good don t obviously re homework,Paul,4,neutral,355,2
+2137,i y umm phoebe make sock bunny,Chandler,4,neutral,356,0
+2138,,Monica,6,negative,356,1
+2139,doesn t,Monica,4,neutral,356,2
+2140,phoebe s re sock rabbit,Monica,4,neutral,356,3
+2141,completely,Monica,0,negative,356,4
+2142,okay,Monica,6,negative,356,5
+2143,okay,Monica,6,negative,356,6
+2144,i didn t,Monica,5,negative,356,7
+2145,i m sorry,Monica,5,negative,356,8
+2146,i totally forgot tonight fact re supposed,Monica,4,neutral,356,9
+2147,s okay i don t,Chandler,4,neutral,356,10
+2148,s okay,Monica,5,negative,356,11
+2149,s,Monica,5,negative,356,12
+2150,i re incredible,Monica,5,negative,356,13
+2151,went time effort tape,Monica,5,negative,356,14
+2152,y i m gon na i gon na,Monica,3,positive,356,15
+2153,i will,Monica,5,negative,356,16
+2154,going,Monica,4,neutral,356,17
+2155,i lot thought tape,Chandler,4,neutral,356,18
+2156,i called wasn t,Rachel,4,neutral,357,0
+2157,s s probably out,Mark,4,neutral,357,1
+2158,thank s helpful i m glad came,Rachel,4,neutral,357,2
+2159,hello,Rachel,4,neutral,357,3
+2160,nobody,Rachel,4,neutral,357,4
+2161,okay if i finish apple juice,Mark,4,neutral,357,5
+2162,thank s helpful i m glad came,Rachel,4,neutral,358,0
+2163,hello,Rachel,4,neutral,358,1
+2164,hi s,Ross,5,negative,358,2
+2165,hi i m glad called,Rachel,3,positive,358,3
+2166,i ve thinking crazy i don t don t can,Ross,5,negative,358,4
+2167,who s,Ross,6,negative,358,5
+2168,nobody,Rachel,4,neutral,358,6
+2169,mark,Ross,4,neutral,358,7
+2170,umm honey came,Rachel,4,neutral,358,8
+2171,yeah got,Ross,0,negative,358,9
+2172,i ve thinking crazy i don t don t can,Ross,5,negative,359,0
+2173,hey drink,Mark,4,neutral,359,1
+2174,who s,Ross,6,negative,359,2
+2175,okay if i finish apple juice,Mark,4,neutral,359,3
+2176,mark,Ross,4,neutral,359,4
+2177,yeah got,Ross,0,negative,360,0
+2178,hey dinosaur guy sad dance,Chloe,4,neutral,360,1
+2179,s okay thanks,Ross,5,negative,360,2
+2180,hey don t smile dance,Chloe,4,neutral,360,3
+2181,i don t dancing i drink okay,Ross,5,negative,360,4
+2182,okay hey two beer,Chloe,4,neutral,360,5
+2183,wan na bedroom s little comfortable,Rachel,4,neutral,361,0
+2184,sure,Tag,4,neutral,361,1
+2185,okay wait umm contract milan,Rachel,6,positive,361,2
+2186,if idea sexy,Tag,6,positive,361,3
+2187,seriously y contract i gave overnight,Rachel,2,negative,361,4
+2188,contract,Tag,4,neutral,361,5
+2189,okay please one joke i don t,Rachel,3,positive,361,6
+2190,,Tag,4,neutral,361,7
+2191,y thing phone pant,Rachel,1,negative,361,8
+2192,tag,Rachel,0,negative,361,9
+2193,i m serious,Rachel,0,negative,361,10
+2194,isn t funny,Rachel,0,negative,361,11
+2195,contract absolutely out today,Rachel,0,negative,361,12
+2196,rach i m sorry didn t contract,Tag,6,negative,361,13
+2197,yes i i little,Rachel,0,negative,361,14
+2198,i m telling gave,Tag,4,neutral,361,15
+2199,y tag if went down office would contract sitting desk,Rachel,0,negative,361,16
+2200,i would looking embarrassed because,Tag,0,negative,361,17
+2201,maybe would looking embarrassed because talking phone crotch,Rachel,1,negative,361,18
+2202,wan na down office right,Tag,4,neutral,361,19
+2203,late re gon na down office,Rachel,0,negative,361,20
+2204,okay i i wouldn t proved wrong,Tag,4,neutral,361,21
+2205,okay coat unhook nice,Rachel,3,positive,361,22
+2206,hey ross one dirk dirk good friend ross,Joey,4,neutral,362,0
+2207,nice,Ross,4,neutral,362,1
+2208,i,Phoebe,4,neutral,363,0
+2209,,Monica,4,neutral,363,1
+2210,if guy talking,Phoebe,4,neutral,363,2
+2211,pheebs s going,Monica,4,neutral,364,0
+2212,i m okay i s going re fun i talking fast,Phoebe,4,neutral,364,1
+2213,nope sound pheebs s going great chandler little baby girl chandler,Monica,3,positive,364,2
+2214,nope sound pheebs s going great chandler little baby girl chandler,Monica,3,positive,365,0
+2215,little baby girl chandler i heard,Chandler,4,neutral,365,1
+2216,right coach ruben,Chandler,4,neutral,365,2
+2217,pheebs,Chandler,4,neutral,365,3
+2218,re done kinda situation,Chandler,2,negative,365,4
+2219,s i re wrong ve playing baby man man should playing zone defense,Chandler,4,neutral,365,5
+2220,,Monica,6,negative,365,6
+2221,little baby girl chandler i heard,Chandler,4,neutral,366,0
+2222,right coach ruben,Chandler,4,neutral,366,1
+2223,pheebs,Chandler,4,neutral,366,2
+2224,re done kinda situation,Chandler,2,negative,366,3
+2225,responsible baby,Phoebe,4,neutral,366,4
+2226,s i re wrong ve playing baby man man should playing zone defense,Chandler,4,neutral,366,5
+2227,forgive taking call week,Chandler,0,negative,367,0
+2228,i totally chandler friend forever out,Joey,0,negative,367,1
+2229,,Chandler,6,negative,367,2
+2230,,Joey,4,neutral,367,3
+2231,i i okay,Chandler,4,neutral,368,0
+2232,sound good i whatever,Chandler,4,neutral,368,1
+2233,okay,Chandler,4,neutral,368,2
+2234,bye,All,4,neutral,368,3
+2235,i dunno,Chandler,4,neutral,368,4
+2236,seems nice everything whole thing coming way down if i okay,Chandler,0,negative,368,5
+2237,i needy,Chandler,1,negative,368,6
+2238,bye,All,4,neutral,369,0
+2239,,Phoebe,3,positive,369,1
+2240,,Phoebe,3,positive,370,0
+2241,yeah,Monica,3,positive,370,1
+2242,yeah,Monica,3,positive,371,0
+2243,second date,Ross,3,positive,371,1
+2244,i i okay,Chandler,4,neutral,372,0
+2245,sound good i whatever,Chandler,4,neutral,372,1
+2246,okay,Chandler,4,neutral,372,2
+2247,second date,Ross,3,positive,372,3
+2248,i dunno,Chandler,4,neutral,372,4
+2249,seems nice everything whole thing coming way down if i okay,Chandler,0,negative,372,5
+2250,i needy,Chandler,1,negative,372,6
+2251,kid mom would drop off movie jar jam little spoon,Joey,4,neutral,373,0
+2252,pretty,Rachel,3,positive,373,1
+2253,pretty,Rachel,3,positive,374,0
+2254,hi,Phoebe,3,positive,374,1
+2255,hi,Phoebe,3,positive,375,0
+2256,hey phoebe,All,4,neutral,375,1
+2257,hey guy who following i talked today,Phoebe,4,neutral,375,2
+2258,hey guy who following i talked today,Phoebe,4,neutral,376,0
+2259,talked crazy,Joey,6,negative,376,1
+2260,can i,Female Clerk,4,neutral,377,0
+2261,yeah s guy who decides who s picture wall,Joey,4,neutral,377,1
+2262,s right,Female Clerk,4,neutral,377,2
+2263,re kidding,Joey,0,negative,377,3
+2264,right sure joey tribbiani stopped drop off clothes,Joey,4,neutral,377,4
+2265,okay,Joey,4,neutral,377,5
+2266,i m actor i m kinda getting picture wall,Joey,4,neutral,377,6
+2267,y two people who could picture,Female Clerk,4,neutral,377,7
+2268,maybe i out drink re one right,Joey,4,neutral,377,8
+2269,yeah freaked out while i tried hurt spurred,Phoebe,5,negative,378,0
+2270,re crazy s nothing sexual noise i,Monica,6,positive,378,1
+2271,s nothing sexual,Phoebe,0,negative,378,2
+2272,oo god,Phoebe,5,negative,378,3
+2273,looking,Phoebe,0,negative,378,4
+2274,i hi,Phoebe,4,neutral,378,5
+2275,embarrassing god i m gon na massaged again,Monica,2,negative,378,6
+2276,can t getting massage,Phoebe,5,negative,378,7
+2277,i i lot client noise,Phoebe,4,neutral,378,8
+2278,,Monica,6,negative,378,9
+2279,client lover s y again back ll,Phoebe,4,neutral,378,10
+2280,sure,Monica,6,positive,378,11
+2281,yes,Phoebe,4,neutral,378,12
+2282,i guess,Monica,4,neutral,378,13
+2283,great okay if ll excuse something liked,Phoebe,3,positive,378,14
+2284,thanks coffee bedankt voor de koffie gunter,Ross,4,neutral,379,0
+2285,yeah re done,Ross,4,neutral,379,1
+2286,ezel ezel ezel,Ross,6,negative,379,2
+2287,hey ross listen new imax movie tide pool,Joey,3,positive,379,3
+2288,,Ross,6,negative,379,4
+2289,i got knicks ticket chandler,Joey,4,neutral,379,5
+2290,sweet,Ross,3,positive,379,6
+2291,right finish coffee s,Joey,4,neutral,379,7
+2292,ross ross joey embarrassing enough,Chandler,1,negative,380,0
+2293,actually sorry i can t i m seeing mona again tonight,Ross,4,neutral,380,1
+2294,i who would cancel actual date fake bachelor party,Chandler,4,neutral,380,2
+2295,i who would cancel actual date fake bachelor party,Chandler,4,neutral,381,0
+2296,i m sorry i got ta cancel tonight baby,Joey,5,negative,381,1
+2297,down two nancy i one i i agree rachel,Kim,4,neutral,382,0
+2298,umm one pretty i i fabric sorry,Rachel,4,neutral,382,1
+2299,sorry part job opinion i credit i kidding,Kim,4,neutral,382,2
+2300,fun office,Rachel,3,positive,382,3
+2301,i one i i cigarette,Kim,4,neutral,382,4
+2302,say break figure out back,Kim,4,neutral,382,5
+2303,rachel smoke,Kim,4,neutral,382,6
+2304,dad doctor would horror ghost goblin who totally supported princess right smoke,Rachel,4,neutral,382,7
+2305,sorry part job opinion i credit i kidding,Kim,4,neutral,383,0
+2306,kidding disagree again okay i kidding,Nancy,3,positive,383,1
+2307,i one i i cigarette,Kim,4,neutral,383,2
+2308,say break figure out back,Kim,4,neutral,383,3
+2309,rachel smoke,Kim,4,neutral,383,4
+2310,kidding disagree again okay i kidding,Nancy,3,positive,384,0
+2311,fun office,Rachel,3,positive,384,1
+2312,,Joey,4,neutral,385,0
+2313,peach pit,Ross,4,neutral,385,1
+2314,peach pit night,Ross,4,neutral,385,2
+2315,,Joey,4,neutral,385,3
+2316,actually nectarine basically,Ross,4,neutral,385,4
+2317,got dressed i walked bus i fine,Ross,4,neutral,385,5
+2318,hey woman got as carol thought trying stuff,Joey,3,positive,385,6
+2319,peach pit,Ross,4,neutral,386,0
+2320,yes bunny,Chandler,4,neutral,386,1
+2321,peach pit night,Ross,4,neutral,386,2
+2322,actually nectarine basically,Ross,4,neutral,386,3
+2323,could peach,Chandler,4,neutral,386,4
+2324,got dressed i walked bus i fine,Ross,4,neutral,386,5
+2325,right,Joey,3,positive,387,0
+2326,westminster abbey,Joey,3,positive,387,1
+2327,hand down best abbey i ve seen,Joey,3,positive,387,2
+2328,hey,Joey,3,positive,387,3
+2329,okay,Joey,4,neutral,387,4
+2330,abbey chandler,Joey,4,neutral,387,5
+2331,i s great s great y re thinking changing name place,Chandler,4,neutral,387,6
+2332,,Joey,6,negative,387,7
+2333,camera away,Chandler,0,negative,387,8
+2334,man,Joey,4,neutral,387,9
+2335,i ca i getting nail done,Chandler,6,negative,388,0
+2336,chandler s guy right,Rachel,4,neutral,388,1
+2337,s mailman s,Chandler,6,negative,388,2
+2338,chandler don t worry doesn t le guy,Rachel,4,neutral,388,3
+2339,hey who used nail,Chandler,4,neutral,388,4
+2340,eh i don t i don t,Chandler,5,negative,389,0
+2341,,Rachel,4,neutral,389,1
+2342,old dog year snoopy should allowed fly thing,Chandler,5,negative,389,2
+2343,eh,Rachel,6,positive,389,3
+2344,yeah,Chandler,4,neutral,389,4
+2345,old dog year snoopy should allowed fly thing,Chandler,5,negative,390,0
+2346,rachel,Gunther,4,neutral,390,1
+2347,rachel,Gunther,4,neutral,391,0
+2348,yeah,Rachel,4,neutral,391,1
+2349,first came spent two week getting trained waitress,Gunther,4,neutral,391,2
+2350,sure train somebody new,Rachel,3,positive,391,3
+2351,good one actually terry want training again whenever,Gunther,4,neutral,391,4
+2352,eh,Rachel,6,positive,391,5
+2353,hey honey got kind little girl said gon na kind baby,Chandler,0,negative,392,0
+2354,said baby creep out,Monica,4,neutral,392,1
+2355,little girl creep out,Chandler,0,negative,392,2
+2356,said baby,Monica,4,neutral,392,3
+2357,would baby creep out,Chandler,0,negative,392,4
+2358,would little girl creep out,Monica,0,negative,392,5
+2359,would little girl creep out,Monica,0,negative,393,0
+2360,guy i m sorry could please little slower,Phoebe,4,neutral,393,1
+2361,yeah s relationship y trap pitfall going stuff great,Phoebe,3,positive,393,2
+2362,excuse,Monica,6,negative,393,3
+2363,none matter people,Phoebe,4,neutral,393,4
+2364,people will anything long s compliment,Phoebe,4,neutral,393,5
+2365,guy i m sorry could please little slower,Phoebe,4,neutral,394,0
+2366,going book,Chandler,6,negative,394,1
+2367,yeah s relationship y trap pitfall going stuff great,Phoebe,3,positive,394,2
+2368,none matter people,Phoebe,4,neutral,394,3
+2369,people will anything long s compliment,Phoebe,4,neutral,394,4
+2370,yeah right right walkin right,Rachel,0,negative,395,0
+2371,ross i sorry sir i i like,Rachel,4,neutral,395,1
+2372,hey teacher who baby student,Ross,4,neutral,395,2
+2373,,Ross,6,negative,395,3
+2374,hey teacher who baby student,Ross,4,neutral,396,0
+2375,,Ross,6,negative,396,1
+2376,miss may i,Flight Attendant,4,neutral,396,2
+2377,okay mad okay,Chandler,2,negative,397,0
+2378,i unpacked box i wanted something nice cleaned apartment,Chandler,4,neutral,397,1
+2379,i moved everything i forgot went back i sorry i sorry i sorry i sorry,Chandler,5,negative,397,2
+2380,okay chandler afraid something,Monica,4,neutral,397,3
+2381,afraid,Chandler,4,neutral,397,4
+2382,course,Monica,4,neutral,397,5
+2383,i gosh chandler wonderful thing i appreciate,Monica,3,positive,397,6
+2384,i i weird thing i everything perfect place i worry,Monica,3,positive,397,7
+2385,,Chandler,6,positive,397,8
+2386,course,Monica,4,neutral,397,9
+2387,best,Chandler,3,positive,397,10
+2388,right okay first thing first okay ross,Monica,4,neutral,397,11
+2389,okay i can decision,Ross,0,negative,398,0
+2390,magic eight ball ca serious ca decision toy,Monica,1,negative,398,1
+2391,i else,Ross,5,negative,398,2
+2392,i i wife one best friend i friend divorced second time i,Ross,0,negative,398,3
+2393,if anyone better suggestion,Ross,0,negative,398,4
+2394,got nothing,Ross,0,negative,398,5
+2395,right shy suggestion will,Ross,0,negative,398,6
+2396,okay,Ross,4,neutral,398,7
+2397,,Ross,4,neutral,398,8
+2398,magic ball should i rachel again,Ross,4,neutral,398,9
+2399,again later,Ross,4,neutral,398,10
+2400,later good enough,Ross,0,negative,398,11
+2401,again later,Ross,4,neutral,398,12
+2402,hell,Ross,0,negative,398,13
+2403,broken,Ross,0,negative,398,14
+2404,broken,Ross,0,negative,398,15
+2405,right will chandler sex tonight count seems work,Monica,4,neutral,398,16
+2406,magic eight ball ca serious ca decision toy,Monica,1,negative,399,0
+2407,ooh toy,Phoebe,0,negative,399,1
+2408,ooh toy,Phoebe,0,negative,400,0
+2409,i else,Ross,5,negative,400,1
+2410,i i wife one best friend i friend divorced second time i,Ross,0,negative,400,2
+2411,if anyone better suggestion,Ross,0,negative,400,3
+2412,got nothing,Ross,0,negative,400,4
+2413,right shy suggestion will,Ross,0,negative,400,5
+2414,okay,Ross,4,neutral,400,6
+2415,,Ross,4,neutral,400,7
+2416,magic ball should i rachel again,Ross,4,neutral,400,8
+2417,again later,Ross,4,neutral,400,9
+2418,later good enough,Ross,0,negative,400,10
+2419,again later,Ross,4,neutral,400,11
+2420,hell,Ross,0,negative,400,12
+2421,broken,Ross,0,negative,400,13
+2422,broken,Ross,0,negative,400,14
+2423,excuse,The Fan,4,neutral,401,0
+2424,yeah,Phoebe,4,neutral,401,1
+2425,phoebe buffay,The Fan,4,neutral,401,2
+2426,yeah,Phoebe,4,neutral,401,3
+2427,i autograph i m biggest fan,The Fan,3,positive,401,4
+2428,i took pretty paolo right,Phoebe,4,neutral,402,0
+2429,ooh look kicked butt,Ross,3,positive,402,1
+2430,ooh look kicked butt,Ross,3,positive,403,0
+2431,kicked butt could olympic team,Joey,0,negative,403,1
+2432,two one,Ross,4,neutral,403,2
+2433,,Ross,6,negative,403,3
+2434,yes swoop,Joey,3,positive,403,4
+2435,got ta sure paolo walk out first guy rachel see got ta everything,Joey,3,positive,403,5
+2436,,Joey,0,negative,403,6
+2437,two one,Ross,4,neutral,404,0
+2438,broke guy time swoop,Chandler,6,negative,404,1
+2439,,Ross,6,negative,404,2
+2440,catholic friend right,Chandler,4,neutral,404,3
+2441,distraught,Chandler,4,neutral,404,4
+2442,,Chandler,4,neutral,404,5
+2443,pick piece usher age ross,Chandler,3,positive,404,6
+2444,yes swoop,Joey,3,positive,405,0
+2445,got ta sure paolo walk out first guy rachel see got ta everything,Joey,3,positive,405,1
+2446,,Joey,0,negative,405,2
+2447,catholic friend right,Chandler,4,neutral,405,3
+2448,distraught,Chandler,4,neutral,405,4
+2449,,Chandler,4,neutral,405,5
+2450,pick piece usher age ross,Chandler,3,positive,405,6
+2451,i called joshua,Rachel,4,neutral,406,0
+2452,,Phoebe,5,negative,406,1
+2453,i best convince i m crazy girl who dying m going hard time,Rachel,4,neutral,406,2
+2454,say,Phoebe,4,neutral,406,3
+2455,answering machine,Rachel,5,negative,406,4
+2456,yeah maybe i don t i care,Rachel,5,negative,406,5
+2457,i don t s one i m sad,Rachel,5,negative,406,6
+2458,y i i said i totally okay ross getting married turn out i don t i m handling,Rachel,5,negative,406,7
+2459,yeah maybe,Phoebe,5,negative,406,8
+2460,trying figure out,Rachel,5,negative,406,9
+2461,luck,Phoebe,5,negative,406,10
+2462,yeah y ross i again off again again off again,Rachel,5,negative,406,11
+2463,i guess i figured somewhere down road would again,Rachel,5,negative,406,12
+2464,answering machine,Rachel,5,negative,407,0
+2465,ohh sweetie hey i bet anything s gon na again,Monica,5,negative,407,1
+2466,yeah maybe i don t i care,Rachel,5,negative,407,2
+2467,i don t s one i m sad,Rachel,5,negative,407,3
+2468,y i i said i totally okay ross getting married turn out i don t i m handling,Rachel,5,negative,407,4
+2469,yeah y ross i again off again again off again,Rachel,5,negative,407,5
+2470,i guess i figured somewhere down road would again,Rachel,5,negative,407,6
+2471,again y i,Monica,5,negative,407,7
+2472,again y i,Monica,5,negative,408,0
+2473,hey,Ross,3,positive,408,1
+2474,unit friend sturdy construction ton storage compartment big enough fit grown man,Joey,4,neutral,409,0
+2475,,Guy,6,negative,409,1
+2476,yeah,Joey,3,positive,409,2
+2477,i got,Joey,4,neutral,409,3
+2478,roommate bet five buck i couldn t stuck board handle locked,Joey,4,neutral,409,4
+2479,yeah,Joey,4,neutral,409,5
+2480,funny til i started feeling i coffin,Joey,4,neutral,409,6
+2481,can t fit thing s deep enough,Guy,4,neutral,409,7
+2482,yeah if i can t i ll knock five buck off price off unit,Joey,0,negative,409,8
+2483,right deal,Guy,4,neutral,409,9
+2484,okay i told ya,Joey,6,positive,409,10
+2485,i away hey nickel,Joey,0,negative,409,11
+2486,hey s,Joey,4,neutral,410,0
+2487,hey,Rachel,3,positive,410,1
+2488,who s friend hey,Joey,3,positive,410,2
+2489,erin,Joey,3,positive,410,3
+2490,yeah ended spending day together great time,Rachel,3,positive,410,4
+2491,wouldn t ya erin great s guy,Joey,3,positive,410,5
+2492,who s friend hey,Joey,3,positive,411,0
+2493,hey joey,Erin,3,positive,411,1
+2494,erin,Joey,3,positive,411,2
+2495,wouldn t ya erin great s guy,Joey,3,positive,411,3
+2496,ohh listen i ve got going today great thanks,Erin,3,positive,411,4
+2497,i i brought back half beach hair easier i used shave head,Bonnie,0,negative,412,0
+2498,i got ta ya i,Rachel,4,neutral,412,1
+2499,,Bonnie,6,positive,412,2
+2500,ohh,Rachel,6,positive,412,3
+2501,because i shaving off again sometime,Bonnie,4,neutral,412,4
+2502,,Rachel,6,positive,412,5
+2503,yeah,Bonnie,3,positive,412,6
+2504,i definitely should,Rachel,4,neutral,412,7
+2505,i should,Bonnie,3,positive,412,8
+2506,yeah,Rachel,3,positive,412,9
+2507,yeah thank rachel soo cool,Bonnie,3,positive,412,10
+2508,awww shave head,Rachel,4,neutral,412,11
+2509,right,Bonnie,4,neutral,412,12
+2510,monica going thing,Rachel,5,negative,413,0
+2511,woman living life,Monica,0,negative,413,1
+2512,,Rachel,6,negative,413,2
+2513,living life better than,Monica,0,negative,413,3
+2514,,Monica,0,negative,413,4
+2515,buy ticket play i wan na,Monica,0,negative,413,5
+2516,buy clothes store i intimidated sale people,Monica,0,negative,413,6
+2517,spent three hundred dollar art supply,Monica,0,negative,413,7
+2518,artist,Rachel,4,neutral,413,8
+2519,yeah i might if i supply i i could stuff i,Monica,0,negative,413,9
+2520,i ca would actually say i would rather than,Chandler,6,negative,414,0
+2521,way sailor right got thetoughest snack,Joey,0,negative,414,1
+2522,way sailor right got thetoughest snack,Joey,0,negative,415,0
+2523,i wan na mess corn nut craaazy,Ross,4,neutral,415,1
+2524,i wan na mess corn nut craaazy,Ross,4,neutral,416,0
+2525,god guy got ta creep out telescope,Monica,2,negative,416,1
+2526,i ca looking right u,Ross,6,negative,416,2
+2527,i ca looking right u,Ross,6,negative,417,0
+2528,sick,Rachel,1,negative,417,1
+2529,sick,Rachel,1,negative,418,0
+2530,i violated good way,Chandler,1,negative,418,1
+2531,i violated good way,Chandler,1,negative,419,0
+2532,can people guy ugly naked guy got gravity boot,Phoebe,6,negative,419,1
+2533,man great huh can long threw ball,Joey,3,positive,420,0
+2534,yeah amazing lasted long,Rachel,4,neutral,420,1
+2535,yeah amazing lasted long,Rachel,4,neutral,421,0
+2536,i arm killing,Ross,4,neutral,421,1
+2537,i meant dropper,Rachel,4,neutral,421,2
+2538,i meant dropper,Rachel,4,neutral,422,0
+2539,i reputation dropper okay i,Chandler,0,negative,422,1
+2540,god honey ok,Rachel,5,negative,423,0
+2541,rolled juice box,Ross,5,negative,423,1
+2542,hey,Joey,4,neutral,424,0
+2543,i saw woman breast feeding twin time freak,Joey,4,neutral,424,1
+2544,s matter,Joey,4,neutral,424,2
+2545,nothing,Rachel,4,neutral,424,3
+2546,hey,Joey,5,negative,424,4
+2547,s nothing i m,Rachel,5,negative,424,5
+2548,rach,Joey,4,neutral,424,6
+2549,i ve thinking baby i gon na alone,Rachel,5,negative,424,7
+2550,talking alone ross,Joey,6,negative,424,8
+2551,please ll real family twin little miss new boob,Rachel,5,negative,424,9
+2552,okay long i watching woman,Joey,4,neutral,424,10
+2553,i m saying y someday ross gon na somebody s gon na life right,Rachel,5,negative,424,11
+2554,yeah i guess,Joey,4,neutral,424,12
+2555,i thought i would baby pretty dumb huh,Rachel,5,negative,424,13
+2556,bob bob bob hell,Chandler,6,negative,425,0
+2557,i found out chandler s office toby hand,Bob,3,positive,425,1
+2558,chandler said would coffeehouse six,Monica,0,negative,426,0
+2559,said seven,Chandler,0,negative,426,1
+2560,said six,Monica,0,negative,426,2
+2561,way i said six would if seven s seven six,Chandler,4,neutral,426,3
+2562,yeah if i seven maybe i would ve said something wow boyfriend s wise,Monica,0,negative,426,4
+2563,yeah if i seven maybe i would ve said something wow boyfriend s wise,Monica,0,negative,427,0
+2564,hi,Phoebe,3,positive,427,1
+2565,hi,Phoebe,3,positive,428,0
+2566,good god,Chandler,1,negative,428,1
+2567,i time said,Phoebe,3,positive,428,2
+2568,,Chandler,6,negative,428,3
+2569,actually i time chester marcia said,Phoebe,4,neutral,428,4
+2570,out shop,The Dry Cleaner,0,negative,429,0
+2571,,Phoebe,6,negative,429,1
+2572,went out wife,The Dry Cleaner,0,negative,429,2
+2573,joey,Phoebe,6,negative,429,3
+2574,s wife out,The Dry Cleaner,0,negative,429,4
+2575,should,Phoebe,4,neutral,429,5
+2576,joey,Phoebe,6,negative,430,0
+2577,i,Joey,0,negative,430,1
+2578,should,Phoebe,4,neutral,430,2
+2579,yeah,Joey,4,neutral,430,3
+2580,i,Joey,0,negative,431,0
+2581,s wife out,The Dry Cleaner,0,negative,431,1
+2582,y didn t airport,Chandler,4,neutral,432,0
+2583,please,Janice,4,neutral,432,1
+2584,moment precious,Janice,5,negative,432,2
+2585,y,Janice,4,neutral,432,3
+2586,besides somebody ride taxi rest luggage friend don t care re leaving,Janice,5,negative,432,4
+2587,re close okay i guess,Chandler,4,neutral,432,5
+2588,s i m leaving plane,Janice,5,negative,432,6
+2589,i m afraid i won t able,Chandler,0,negative,433,0
+2590,yeah i going metaphor,Ross,4,neutral,433,1
+2591,yes i saying actual word,Chandler,4,neutral,433,2
+2592,yes i saying actual word,Chandler,4,neutral,434,0
+2593,big deal joey s lot girlfriend doesn t s great bed,Monica,4,neutral,434,1
+2594,share wall s great bed like agree lot,Chandler,4,neutral,434,2
+2595,sweetie s gon na different sex gon na great cause guy,Monica,3,positive,434,3
+2596,yeah,Chandler,6,positive,434,4
+2597,yeah,Chandler,6,positive,435,0
+2598,yeah,Rachel,3,positive,435,1
+2599,yeah should,Rachel,4,neutral,435,2
+2600,right right i ll sleep girlfriend i m guy,Chandler,4,neutral,435,3
+2601,yeah,Rachel,3,positive,436,0
+2602,chandler,Ross,4,neutral,436,1
+2603,chandler,Ross,4,neutral,437,0
+2604,yeah should,Monica,4,neutral,437,1
+2605,yeah should,Monica,4,neutral,438,0
+2606,yeah should,Rachel,4,neutral,438,1
+2607,i m sure hell dancer s marge will,Mr. Treeger,5,negative,439,0
+2608,treeger don t say,Joey,5,negative,439,1
+2609,ahh practice,Joey,4,neutral,439,2
+2610,s ahh s again,Joey,4,neutral,439,3
+2611,plus probably mostly fault anyway,Joey,5,negative,439,4
+2612,i y i m comfortable dancing,Joey,3,positive,439,5
+2613,hey,Joey,3,positive,439,6
+2614,yeah,Mr. Treeger,3,positive,439,7
+2615,sure i ll bet s flight minsk,Phoebe,4,neutral,440,0
+2616,july umm,David,4,neutral,440,1
+2617,s beautiful,Phoebe,3,positive,440,2
+2618,please clean beaker i don t out lab,David,4,neutral,440,3
+2619,s good i got admit i thought something else,Phoebe,3,positive,440,4
+2620,yeah i actually wanted say umm i figured i probably shouldn t because y,David,4,neutral,440,5
+2621,re right re right don t say,Phoebe,5,negative,440,6
+2622,though,David,5,negative,440,7
+2623,i,Phoebe,5,negative,440,8
+2624,bye phoebe,David,4,neutral,440,9
+2625,okay s time joey right can yell tomorrow,Phoebe,5,negative,440,10
+2626,yeah heard i s great ohh i m happy,Rachel,3,positive,441,0
+2627,i can t re getting married,Monica,3,positive,441,1
+2628,i can t re getting married,Monica,3,positive,442,0
+2629,yeah,Ross,4,neutral,442,1
+2630,yeah,Ross,4,neutral,443,0
+2631,monica rachel made out,Joey,4,neutral,443,1
+2632,ohhh,Rachel,6,negative,444,0
+2633,bed together,Ross,6,negative,444,1
+2634,i don t clothes,Rachel,4,neutral,444,2
+2635,yeah,Ross,4,neutral,444,3
+2636,,Rachel,6,negative,444,4
+2637,,Ross,4,neutral,444,5
+2638,didn t,Ross,2,negative,444,6
+2639,i i don t last night blur,Ross,4,neutral,444,7
+2640,i laughing i laughed lot,Rachel,3,positive,444,8
+2641,didn t sex,Ross,4,neutral,444,9
+2642,ohh i drunk i m glad didn t anything stupid,Rachel,4,neutral,444,10
+2643,,Ross,4,neutral,444,11
+2644,gon na,Monica,4,neutral,445,0
+2645,i say,Chandler,4,neutral,445,1
+2646,i say,Chandler,4,neutral,446,0
+2647,chandler,Janice,4,neutral,446,1
+2648,u u,Chandler,4,neutral,447,0
+2649,janice umm,Monica,5,negative,447,1
+2650,s smell,Phoebe,1,negative,448,0
+2651,i,Joey,0,negative,448,1
+2652,hi u,Rachel,4,neutral,449,0
+2653,okay called little while ago needing signature admission form turn out,Monica,4,neutral,449,1
+2654,i i,Monica,4,neutral,449,2
+2655,yeah i gon na check,Rachel,4,neutral,449,3
+2656,yeah i i i bright,Rachel,5,negative,449,4
+2657,hey mon if hoping sleep joshua first time tonight one would wearing,Rachel,4,neutral,450,0
+2658,y,Monica,4,neutral,450,1
+2659,sorry,Rachel,4,neutral,450,2
+2660,i m exited,Rachel,3,positive,450,3
+2661,i ve waiting month,Rachel,3,positive,450,4
+2662,i got hair coloured,Rachel,3,positive,450,5
+2663,i got new sheet,Rachel,3,positive,450,6
+2664,i m making,Rachel,3,positive,450,7
+2665,i making way,Rachel,4,neutral,450,8
+2666,re making frieze salad goat cheese pine nut wild nut wild rice roast asparagus salmon au croup,Monica,4,neutral,450,9
+2667,i thought i making filet mignon,Rachel,6,negative,450,10
+2668,yeah decided salmon because left restaurant,Monica,4,neutral,450,11
+2669,realised if bitched would cooking would famous baked potato diet coke,Monica,0,negative,450,12
+2670,wow i crabby i cook,Rachel,6,positive,450,13
+2671,chandler happens lot guy probably tired lot champagne don t worry,Monica,5,negative,451,0
+2672,i m worried i m i m fascinated,Chandler,2,negative,451,1
+2673,y s biology,Chandler,4,neutral,451,2
+2674,funny because high school i failed biology tonight biology failed,Chandler,2,negative,451,3
+2675,i m worried i m i m fascinated,Chandler,2,negative,452,0
+2676,y s biology,Chandler,4,neutral,452,1
+2677,funny because high school i failed biology tonight biology failed,Chandler,2,negative,452,2
+2678,check out okay i can guest coming okay,Phoebe,4,neutral,452,3
+2679,check out okay i can guest coming okay,Phoebe,4,neutral,453,0
+2680,phoebe,Monica,3,positive,453,1
+2681,if would ve finish go say s probably gay,Phoebe,4,neutral,453,2
+2682,thank patience re next caller,Hold Voice,4,neutral,454,0
+2683,yes yes i m next caller gon na hang,Phoebe,3,positive,454,1
+2684,yes yes i m next caller gon na hang,Phoebe,3,positive,455,0
+2685,hey can duck chick theatre,Chandler,4,neutral,455,1
+2686,,Phoebe,4,neutral,455,2
+2687,okay i wanted somebody else,Chandler,4,neutral,455,3
+2688,hey can duck chick theatre,Chandler,4,neutral,456,0
+2689,course,Monica,5,negative,456,1
+2690,course,Monica,5,negative,457,0
+2691,,Phoebe,4,neutral,457,1
+2692,thing going paul,Phoebe,4,neutral,458,0
+2693,good,Rachel,3,positive,458,1
+2694,although y s private guy,Rachel,4,neutral,458,2
+2695,y i wish i could little bit share feeling,Rachel,5,negative,458,3
+2696,s easy jar pickle won t,Phoebe,4,neutral,458,4
+2697,saying i should hot water bang head table,Rachel,6,negative,458,5
+2698,s truth out someone,Phoebe,4,neutral,458,6
+2699,s truth out someone,Phoebe,4,neutral,459,0
+2700,hi honey,Paul,4,neutral,459,1
+2701,good,Rachel,3,positive,460,0
+2702,although y s private guy,Rachel,4,neutral,460,1
+2703,y i wish i could little bit share feeling,Rachel,5,negative,460,2
+2704,hi honey,Paul,4,neutral,460,3
+2705,hi,Rachel,3,positive,460,4
+2706,okay ben i won t daddy ice cream dinner if don t little bonking incident,Monica,2,negative,461,0
+2707,monica number one i don t ben understands concept bribery number two i,Rachel,6,negative,461,1
+2708,monica number one i don t ben understands concept bribery number two i,Rachel,6,negative,462,0
+2709,said number two,Joey,4,neutral,462,1
+2710,i said number one,Rachel,4,neutral,462,2
+2711,remind review pot decaf regular,Gunther,4,neutral,463,0
+2712,can t i handle,Rachel,4,neutral,463,1
+2713,would,Gunther,4,neutral,463,2
+2714,okay fine,Rachel,4,neutral,463,3
+2715,gunther i terrible waitress i m terrible waitress,Rachel,0,negative,463,4
+2716,because i don t care,Rachel,4,neutral,463,5
+2717,i don t care,Rachel,4,neutral,463,6
+2718,i don t care pot regular pot decaf i don t care tray spot i don t care i,Rachel,0,negative,463,7
+2719,i don t i should anymore,Rachel,5,negative,463,8
+2720,i m gon na week notice,Rachel,5,negative,463,9
+2721,,Gunther,6,negative,463,10
+2722,gunther i quit,Rachel,5,negative,463,11
+2723,okay fine,Rachel,4,neutral,464,0
+2724,gunther i terrible waitress i m terrible waitress,Rachel,0,negative,464,1
+2725,because i don t care,Rachel,4,neutral,464,2
+2726,i don t care,Rachel,4,neutral,464,3
+2727,i don t care pot regular pot decaf i don t care tray spot i don t care i,Rachel,0,negative,464,4
+2728,i don t i should anymore,Rachel,5,negative,464,5
+2729,i m gon na week notice,Rachel,5,negative,464,6
+2730,gunther i quit,Rachel,5,negative,464,7
+2731,re gon na paying coffee,Chandler,6,negative,464,8
+2732,ohh i s realistic,Rachel,3,positive,465,0
+2733,i yeah name pat,Joey,4,neutral,465,1
+2734,pat dog i,Rachel,3,positive,465,2
+2735,refill,Joey,4,neutral,465,3
+2736,i probably shouldn i will wow s s raining,Rachel,6,positive,465,4
+2737,pretty cool huh,Joey,3,positive,465,5
+2738,if re thinking can fish wouldn t sucked mechanism d wrong,Joey,4,neutral,465,6
+2739,umm can i bathroom,Rachel,4,neutral,465,7
+2740,s right,Joey,4,neutral,465,8
+2741,okay god y if someone told week ago i would peeing joey tribbiani s apartment,Rachel,3,positive,465,9
+2742,yeah life s pretty great isn t,Joey,3,positive,465,10
+2743,i i sixteen,Joey,4,neutral,466,0
+2744,please little bit off back,Monica,4,neutral,466,1
+2745,please little bit off back,Monica,4,neutral,467,0
+2746,i,Phoebe,4,neutral,467,1
+2747,i,Phoebe,4,neutral,468,0
+2748,morning guy could close eye sec,Rachel,4,neutral,468,1
+2749,goin,Phoebe,4,neutral,468,2
+2750,i sorta stupid thing last night,Rachel,4,neutral,468,3
+2751,morning guy could close eye sec,Rachel,4,neutral,469,0
+2752,i fallin again,Joey,0,negative,469,1
+2753,i fallin again,Joey,0,negative,470,0
+2754,goin,Phoebe,4,neutral,470,1
+2755,i sorta stupid thing last night,Rachel,4,neutral,471,0
+2756,stupid thing,Chandler,4,neutral,471,1
+2757,stupid thing,Chandler,4,neutral,472,0
+2758,ewww,Phoebe,1,negative,472,1
+2759,i,Chandler,4,neutral,473,0
+2760,yes,Chandler,4,neutral,473,1
+2761,s yasmine bleeth s completely different kind chick,Chandler,4,neutral,473,2
+2762,i,Chandler,4,neutral,473,3
+2763,different way,Chandler,4,neutral,473,4
+2764,hey,Joey,6,positive,473,5
+2765,hey,Chandler,6,positive,473,6
+2766,i store wouldn t back i took shelter i found out,Chandler,0,negative,473,7
+2767,if can t home i m gon na little yasmine,Chandler,0,negative,473,8
+2768,okay good good good cause good cause i kinda second thought,Joey,2,negative,473,9
+2769,okay s chick s kind animal,Chandler,1,negative,473,10
+2770,s horrible right thing man,Joey,1,negative,473,11
+2771,thanks i m glad way,Chandler,3,positive,473,12
+2772,funny story,Chandler,3,positive,473,13
+2773,chandler heard monica secret boyfriend,Rachel,4,neutral,474,0
+2774,uhh yeah might mentioned,Chandler,4,neutral,474,1
+2775,mon gon na new secret waiter man,Rachel,4,neutral,474,2
+2776,yeah i meeting everyone,Chandler,4,neutral,474,3
+2777,i don t care i wan na guy who best sex,Rachel,3,positive,474,4
+2778,heard said,Chandler,6,positive,474,5
+2779,mon gon na new secret waiter man,Rachel,4,neutral,475,0
+2780,ohh shy don t meeting everyone,Monica,4,neutral,475,1
+2781,ohh shy don t meeting everyone,Monica,4,neutral,476,0
+2782,yeah i meeting everyone,Chandler,4,neutral,476,1
+2783,heard said,Chandler,6,positive,476,2
+2784,i might said funny,Monica,4,neutral,476,3
+2785,because i happy,Chandler,3,positive,476,4
+2786,because i happy,Chandler,3,positive,477,0
+2787,hi,Ross,5,negative,477,1
+2788,stuff joey drive out apartment,Rachel,0,negative,478,0
+2789,honey if wanted might gotten fish fish freaked out,Rachel,1,negative,478,1
+2790,fish,Phoebe,6,negative,478,2
+2791,would mattered anyway phoebe i gon na together roommate deal,Rachel,4,neutral,478,3
+2792,yes i wanted okay if fun,Phoebe,5,negative,478,4
+2793,fun,Rachel,3,positive,478,5
+2794,fun,Phoebe,3,positive,478,6
+2795,,Rachel,3,positive,478,7
+2796,anyway say if can tonight,Phoebe,4,neutral,478,8
+2797,i would,Rachel,3,positive,478,9
+2798,yay okay,Phoebe,3,positive,478,10
+2799,good good good good good,Rachel,3,positive,478,11
+2800,great right okay monica drumming,Phoebe,4,neutral,478,12
+2801,done,Rachel,4,neutral,478,13
+2802,okay s coffee,Ross,4,neutral,479,0
+2803,ice coffee s ice coffee,Tommy,6,negative,479,1
+2804,s hot,Ross,4,neutral,479,2
+2805,hot coffee,Tommy,6,negative,479,3
+2806,idiot,Tommy,0,negative,479,4
+2807,gon na spill hot coffee huh,Tommy,0,negative,479,5
+2808,big dumb stupid doofy idiot doofy idiot hairdo huh,Tommy,0,negative,479,6
+2809,huh,Tommy,0,negative,479,7
+2810,hot coffee,Tommy,6,negative,480,0
+2811,idiot,Tommy,0,negative,480,1
+2812,gon na spill hot coffee huh,Tommy,0,negative,480,2
+2813,big dumb stupid doofy idiot doofy idiot hairdo huh,Tommy,0,negative,480,3
+2814,huh,Tommy,0,negative,480,4
+2815,s favourite thing summertime,Rachel,4,neutral,480,5
+2816,yeah,Rachel,4,neutral,480,6
+2817,hey,Tommy,6,positive,480,7
+2818,tommyyyy say s favourite thing summer,Rachel,3,positive,480,8
+2819,ooh i don t probably smell freshly grass,Tommy,4,neutral,480,9
+2820,s favourite thing summertime,Rachel,4,neutral,481,0
+2821,umm going beach stay light real late,Monica,4,neutral,481,1
+2822,yeah,Rachel,4,neutral,481,2
+2823,hot coffee,Tommy,6,negative,482,0
+2824,idiot,Tommy,0,negative,482,1
+2825,gon na spill hot coffee huh,Tommy,0,negative,482,2
+2826,big dumb stupid doofy idiot doofy idiot hairdo huh,Tommy,0,negative,482,3
+2827,huh,Tommy,0,negative,482,4
+2828,ooh i don t probably smell freshly grass,Tommy,4,neutral,482,5
+2829,ohh s good one,Chandler,3,positive,482,6
+2830,better than salmon mousse,Monica,4,neutral,483,0
+2831,creamier,Joey,4,neutral,483,1
+2832,yeah,Monica,4,neutral,483,2
+2833,i talking whipped fish monica i happy i keeping down,Joey,1,negative,483,3
+2834,i talking whipped fish monica i happy i keeping down,Joey,1,negative,484,0
+2835,god happened,Rachel,6,negative,484,1
+2836,god happened,Rachel,6,negative,485,0
+2837,eight half hour aptitude test intelligence test personality test i,Chandler,1,negative,485,1
+2838,ideally suited career data processing large multinational corporation,Chandler,0,negative,485,2
+2839,can i i somebody who should something,Chandler,0,negative,485,3
+2840,chandler i i hey can nipple shirt,Rachel,5,negative,485,4
+2841,eight half hour aptitude test intelligence test personality test i,Chandler,1,negative,486,0
+2842,ideally suited career data processing large multinational corporation,Chandler,0,negative,486,1
+2843,great already,Phoebe,3,positive,486,2
+2844,can i i somebody who should something,Chandler,0,negative,486,3
+2845,chandler i i hey can nipple shirt,Rachel,5,negative,487,0
+2846,maybe cheer,Monica,3,positive,487,1
+2847,eight half hour aptitude test intelligence test personality test i,Chandler,1,negative,488,0
+2848,ideally suited career data processing large multinational corporation,Chandler,0,negative,488,1
+2849,maybe cheer,Monica,3,positive,488,2
+2850,ooh i grape five hour ago i better split,Chandler,4,neutral,488,3
+2851,i thought gon na closed casket,Ross,4,neutral,489,0
+2852,ca nice,Mrs. Geller,5,negative,489,1
+2853,sweetie can,Mrs. Geller,4,neutral,489,2
+2854,i,Ross,4,neutral,489,3
+2855,retainer,Ross,4,neutral,489,4
+2856,someone,Gunther,4,neutral,490,0
+2857,part dare devil game i called wait last moment i burst,Chandler,0,negative,490,1
+2858,jeez man hi ya ya high,Chandler,6,positive,490,2
+2859,nope nope i d i d rather,Chandler,4,neutral,490,3
+2860,yes i,Chandler,4,neutral,490,4
+2861,yes i bathroom,Chandler,4,neutral,490,5
+2862,someone,Gunther,4,neutral,490,6
+2863,part dare devil game i called wait last moment i burst,Chandler,0,negative,491,0
+2864,jeez man hi ya ya high,Chandler,6,positive,491,1
+2865,someone lady room i couldn t wait i left lid ya though,Woman,4,neutral,491,2
+2866,gunther ahead i m talking part say name,Chandler,4,neutral,491,3
+2867,ginger,Woman,4,neutral,491,4
+2868,ginger i m talking ginger,Chandler,4,neutral,491,5
+2869,nope nope i d i d rather,Chandler,4,neutral,491,6
+2870,yes i,Chandler,4,neutral,491,7
+2871,yes i bathroom,Chandler,4,neutral,491,8
+2872,part dare devil game i called wait last moment i burst,Chandler,0,negative,492,0
+2873,jeez man hi ya ya high,Chandler,6,positive,492,1
+2874,ginger i m talking ginger,Chandler,4,neutral,492,2
+2875,don t bathroom,Ginger,4,neutral,492,3
+2876,nope nope i d i d rather,Chandler,4,neutral,492,4
+2877,yes i,Chandler,4,neutral,492,5
+2878,yes i bathroom,Chandler,4,neutral,492,6
+2879,i m going dating mother s nothing can,Dina,0,negative,493,0
+2880,yes,Jessica Lockhart,0,negative,493,1
+2881,going charles,Dina,0,negative,493,2
+2882,baby,Jessica Lockhart,5,negative,493,3
+2883,baby,Jessica Lockhart,5,negative,494,0
+2884,great scene slap look real,Joey,6,positive,494,1
+2885,great scene slap look real,Joey,6,positive,495,0
+2886,year experience,Cecilia,4,neutral,495,1
+2887,anyway i wanted say wonderful i,Joey,3,positive,495,2
+2888,re fan who s dying,Cecilia,4,neutral,495,3
+2889,i m joey tribbiani scene together yesterday m guy coma,Joey,3,positive,495,4
+2890,real person,Cecilia,6,positive,495,5
+2891,wanted say since i m getting brain i wondering if tip can,Joey,4,neutral,495,6
+2892,m leaving,Cecilia,6,negative,495,7
+2893,i don t something,Joey,4,neutral,495,8
+2894,who told,Cecilia,6,negative,495,9
+2895,one writer,Joey,5,negative,495,10
+2896,one bald tall,Cecilia,6,negative,495,11
+2897,year experience,Cecilia,4,neutral,496,0
+2898,can i ice,Dina,5,negative,496,1
+2899,can i ice,Dina,5,negative,497,0
+2900,anyway i wanted say wonderful i,Joey,3,positive,497,1
+2901,better,Phoebe,4,neutral,498,0
+2902,yeah,Joey,3,positive,498,1
+2903,,Joey,3,positive,498,2
+2904,listen i m y insecure manhood anything y i i hook woman right,Joey,4,neutral,498,3
+2905,yeah i,Phoebe,4,neutral,498,4
+2906,yeah okay hey hi,Joey,3,positive,498,5
+2907,yeah,Joey,3,positive,499,0
+2908,,Joey,3,positive,499,1
+2909,listen i m y insecure manhood anything y i i hook woman right,Joey,4,neutral,499,2
+2910,yeah okay hey hi,Joey,3,positive,499,3
+2911,hi,Woman,3,positive,499,4
+2912,y familiar i somewhere,Joey,6,positive,499,5
+2913,i don t,Woman,4,neutral,499,6
+2914,maybe s because i m television i m actor,Joey,3,positive,499,7
+2915,wow,Woman,6,positive,499,8
+2916,yeah,Joey,4,neutral,499,9
+2917,,Woman,6,positive,499,10
+2918,,Woman,6,positive,500,0
+2919,please,Waitress,4,neutral,500,1
+2920,yeah,Joey,3,positive,501,0
+2921,,Joey,3,positive,501,1
+2922,listen i m y insecure manhood anything y i i hook woman right,Joey,4,neutral,501,2
+2923,please,Waitress,4,neutral,501,3
+2924,,Joey,4,neutral,501,4
+2925,alright alright alright,Chandler,4,neutral,502,0
+2926,fourteen half minute said one word,Chandler,0,negative,502,1
+2927,god something,Chandler,0,negative,502,2
+2928,contact smile,Chandler,0,negative,502,3
+2929,,Chandler,3,positive,502,4
+2930,definitely scaring,Chandler,4,neutral,502,5
+2931,would somebody,Jill,4,neutral,502,6
+2932,yeah guy i went high school,Chandler,4,neutral,502,7
+2933,okay free i m telling contract desk,Tag,0,negative,503,0
+2934,,Rachel,4,neutral,503,1
+2935,s sister,Tag,4,neutral,503,2
+2936,okay cute brace anyway y,Rachel,4,neutral,503,3
+2937,imagine gave morning afternoon,Tag,0,negative,503,4
+2938,afternoon zelner came office lunch desk i,Rachel,4,neutral,503,5
+2939,phoebe doesn t sneak out night doesn t sneak back morning doesn t ve living grandmother s week,Ross,4,neutral,504,0
+2940,okay maybe level,Phoebe,4,neutral,504,1
+2941,better actually i finally figured out trouble lately,Ross,4,neutral,504,2
+2942,,Phoebe,6,positive,504,3
+2943,yeah i guy doesn t close friend last week woman gym susan something hit off s gon na difference,Ross,3,positive,504,4
+2944,okay maybe level,Phoebe,4,neutral,505,0
+2945,hey,Chandler,4,neutral,505,1
+2946,i m gon na roommate,Chandler,5,negative,505,2
+2947,nobody good,Phoebe,4,neutral,505,3
+2948,s guy ferret s plural,Chandler,1,negative,505,4
+2949,spitter,Chandler,1,negative,505,5
+2950,yes guy enjoyed name felt little noise time said,Chandler,0,negative,505,6
+2951,nice chandler bing,Chandler,4,neutral,505,7
+2952,two,Chandler,4,neutral,505,8
+2953,photographer who seemed dull,Chandler,4,neutral,505,9
+2954,actor guy who i m sure because called i answered phone chandler bing said short message,Chandler,4,neutral,505,10
+2955,hey,Chandler,4,neutral,506,0
+2956,hey,Ross,4,neutral,506,1
+2957,i m gon na roommate,Chandler,5,negative,506,2
+2958,s guy ferret s plural,Chandler,1,negative,506,3
+2959,spitter,Chandler,1,negative,506,4
+2960,yes guy enjoyed name felt little noise time said,Chandler,0,negative,506,5
+2961,nice chandler bing,Chandler,4,neutral,506,6
+2962,tomorrow,Ross,4,neutral,506,7
+2963,two,Chandler,4,neutral,506,8
+2964,photographer who seemed dull,Chandler,4,neutral,506,9
+2965,actor guy who i m sure because called i answered phone chandler bing said short message,Chandler,4,neutral,506,10
+2966,i yeah carol should home soo,Ross,4,neutral,506,11
+2967,umm s going guy,Chandler,4,neutral,506,12
+2968,better actually i finally figured out trouble lately,Ross,4,neutral,506,13
+2969,s guy ferret s plural,Chandler,1,negative,507,0
+2970,spitter,Chandler,1,negative,507,1
+2971,yes guy enjoyed name felt little noise time said,Chandler,0,negative,507,2
+2972,nice chandler bing,Chandler,4,neutral,507,3
+2973,two,Chandler,4,neutral,507,4
+2974,photographer who seemed dull,Chandler,4,neutral,507,5
+2975,actor guy who i m sure because called i answered phone chandler bing said short message,Chandler,4,neutral,507,6
+2976,ross foot floor,Monica,4,neutral,507,7
+2977,ross foot floor,Monica,4,neutral,508,0
+2978,sure dresser missing notice,Ross,0,negative,508,1
+2979,,Monica,4,neutral,508,2
+2980,i yeah carol should home soo,Ross,4,neutral,508,3
+2981,hey,Rachel,4,neutral,509,0
+2982,hi,Monica,4,neutral,509,1
+2983,,Rachel,6,negative,509,2
+2984,picture i made hung i thought d brighten place don t,Monica,3,positive,509,3
+2985,,Monica,2,negative,509,4
+2986,,Joey,4,neutral,510,0
+2987,s way,Tour Guide,4,neutral,510,1
+2988,s crazy,Joey,6,negative,510,2
+2989,maybe s crazy perfect world world lab coat blazer perfect world museum,Tour Guide,4,neutral,510,3
+2990,scientist class i used together time grade school peter,Tour Guide,4,neutral,510,4
+2991,hey peter,Tour Guide,4,neutral,510,5
+2992,s rhonda,Tour Guide,4,neutral,510,6
+2993,,Tour Guide,4,neutral,510,7
+2994,i shared puddin man,Tour Guide,0,negative,510,8
+2995,i gave,Tour Guide,4,neutral,510,9
+2996,everybody s pretending don t,Joey,4,neutral,510,10
+2997,anyway i don t jacket separate table ross one best friend if i save seat i m telling,Joey,4,neutral,510,11
+2998,everybody s pretending don t,Joey,4,neutral,511,0
+2999,anyway i don t jacket separate table ross one best friend if i save seat i m telling,Joey,4,neutral,511,1
+3000,s okay i m cool i ll catch later joey,Ross,4,neutral,511,2
+3001,maybe s crazy perfect world world lab coat blazer perfect world museum,Tour Guide,4,neutral,512,0
+3002,scientist class i used together time grade school peter,Tour Guide,4,neutral,512,1
+3003,hey peter,Tour Guide,4,neutral,512,2
+3004,s rhonda,Tour Guide,4,neutral,512,3
+3005,,Tour Guide,4,neutral,512,4
+3006,i shared puddin man,Tour Guide,0,negative,512,5
+3007,i gave,Tour Guide,4,neutral,512,6
+3008,s okay i m cool i ll catch later joey,Ross,4,neutral,512,7
+3009,op saved gift shop,Tour Guide,4,neutral,512,8
+3010,s coffee comin dear,Mr. Kaplan,4,neutral,513,0
+3011,yeah right away kaplan,Rachel,4,neutral,513,1
+3012,i m supposed drink coffee make gassy,Mr. Kaplan,4,neutral,513,2
+3013,i,Rachel,3,positive,513,3
+3014,i ll bet thinking s intelligent girl who want fashion making coffee eh,Mr. Kaplan,6,positive,513,4
+3015,eh,Mr. Kaplan,3,positive,514,0
+3016,got,Rachel,4,neutral,514,1
+3017,don t i haven t noticed potential,Mr. Kaplan,4,neutral,514,2
+3018,i ve got project s lot related fashion,Mr. Kaplan,4,neutral,514,3
+3019,sound,Mr. Kaplan,4,neutral,514,4
+3020,sound great,Rachel,3,positive,514,5
+3021,sweetheart,Mr. Kaplan,4,neutral,514,6
+3022,thank kaplan thank,Rachel,3,positive,514,7
+3023,i i umm i thinking hoping umm maybe d back together,Leslie,2,negative,515,0
+3024,thanks,Phoebe,4,neutral,515,1
+3025,aw phoebe would,Leslie,5,negative,515,2
+3026,okay thanks,Phoebe,4,neutral,515,3
+3027,okay ya pheebs,Leslie,4,neutral,515,4
+3028,okay lesson right,Phoebe,4,neutral,515,5
+3029,betray i ice woman y,Phoebe,4,neutral,515,6
+3030,cold hard unyielding nothing,Phoebe,4,neutral,515,7
+3031,okay ya pheebs,Leslie,4,neutral,516,0
+3032,wow kinda brutal,Joey,6,negative,516,1
+3033,wow kinda brutal,Joey,6,negative,517,0
+3034,okay lesson right,Phoebe,4,neutral,517,1
+3035,betray i ice woman y,Phoebe,4,neutral,517,2
+3036,cold hard unyielding nothing,Phoebe,4,neutral,517,3
+3037,wow,Alan,6,positive,518,0
+3038,i i sorry,Monica,4,neutral,518,1
+3039,yeah i sorry i got ta i little relieved,Alan,4,neutral,518,2
+3040,relieved,Monica,6,positive,518,3
+3041,yeah i great time i ca friend,Alan,4,neutral,518,4
+3042,god if say one time,Chandler,0,negative,519,0
+3043,fine,Ross,0,negative,519,1
+3044,fine,Ross,0,negative,519,2
+3045,fault say if accept full responsibility full responsibility,Ross,0,negative,519,3
+3046,i can trust again,Ross,0,negative,519,4
+3047,something can,Ross,0,negative,519,5
+3048,,Ross,0,negative,519,6
+3049,ross re back rachel,Chandler,4,neutral,519,7
+3050,if re gon na wreck best thing happened,Chandler,4,neutral,519,8
+3051,yeah i,Ross,5,negative,519,9
+3052,i re right,Ross,5,negative,519,10
+3053,yeah i guess i ll,Ross,4,neutral,519,11
+3054,hard forget,Ross,5,negative,519,12
+3055,fine,Ross,0,negative,520,0
+3056,fine,Ross,0,negative,520,1
+3057,fault say if accept full responsibility full responsibility,Ross,0,negative,520,2
+3058,i can trust again,Ross,0,negative,520,3
+3059,something can,Ross,0,negative,520,4
+3060,,Ross,0,negative,520,5
+3061,,Joey,6,negative,520,6
+3062,yeah i,Ross,5,negative,520,7
+3063,i re right,Ross,5,negative,520,8
+3064,yeah i guess i ll,Ross,4,neutral,520,9
+3065,hard forget,Ross,5,negative,520,10
+3066,sure s hard forget,Joey,4,neutral,520,11
+3067,doesn t,Joey,4,neutral,520,12
+3068,lot thing happened trip should,Joey,4,neutral,520,13
+3069,hell happened beach,Ross,6,negative,520,14
+3070,s u sea ross,Joey,4,neutral,520,15
+3071,,Joey,6,negative,521,0
+3072,ross re back rachel,Chandler,4,neutral,521,1
+3073,if re gon na wreck best thing happened,Chandler,4,neutral,521,2
+3074,sure s hard forget,Joey,4,neutral,521,3
+3075,doesn t,Joey,4,neutral,521,4
+3076,lot thing happened trip should,Joey,4,neutral,521,5
+3077,i didn t gay i,Drew,3,positive,522,0
+3078,friend rachel want,Chandler,4,neutral,522,1
+3079,ahh i got out big relationship i m looking thing serious,Drew,5,negative,522,2
+3080,y might okay if kind fling might right rachel,Chandler,4,neutral,522,3
+3081,y i,Drew,4,neutral,522,4
+3082,s little later than i generally care sure,Chandler,3,positive,522,5
+3083,y might okay if kind fling might right rachel,Chandler,4,neutral,523,0
+3084,hot rachel took christmas party rachel,Mike,6,positive,523,1
+3085,way full name,Chandler,4,neutral,523,2
+3086,wow i m free,Mike,3,positive,523,3
+3087,s little later than i generally care sure,Chandler,3,positive,523,4
+3088,maybe game could enjoy eight year old small batch basel hadens,Mike,4,neutral,523,5
+3089,i don t,Chandler,4,neutral,523,6
+3090,wow i m free,Mike,3,positive,524,0
+3091,wait second i didn t say i wasn t free,Drew,6,positive,524,1
+3092,hey chandler don t ranger game tomorrow,Mike,4,neutral,524,2
+3093,y i,Drew,4,neutral,524,3
+3094,monica people woman labor,Ross,4,neutral,525,0
+3095,hey ross i got going,Chandler,4,neutral,525,1
+3096,yeah save cab okay,Ross,1,negative,525,2
+3097,going hospital,Ross,6,negative,525,3
+3098,yeah cab,Chandler,4,neutral,525,4
+3099,save,Ross,4,neutral,525,5
+3100,okay hating,Chandler,1,negative,525,6
+3101,monica baby coming,Ross,4,neutral,525,7
+3102,yeah save cab okay,Ross,1,negative,526,0
+3103,going hospital,Ross,6,negative,526,1
+3104,i ca lokk nice might doctor,Rachel,4,neutral,526,2
+3105,joey out fridge,Ross,0,negative,526,3
+3106,yeah save cab okay,Ross,1,negative,527,0
+3107,going hospital,Ross,6,negative,527,1
+3108,joey out fridge,Ross,0,negative,527,2
+3109,right right,Joey,0,negative,527,3
+3110,,Ross,6,negative,527,4
+3111,ride,Joey,4,neutral,527,5
+3112,nice out,Ross,1,negative,527,6
+3113,right i going i going,Joey,0,negative,527,7
+3114,ride,Joey,4,neutral,528,0
+3115,yeah cab,Chandler,4,neutral,528,1
+3116,right i going i going,Joey,0,negative,528,2
+3117,,Chandler,4,neutral,528,3
+3118,yeah save cab okay,Ross,1,negative,529,0
+3119,going hospital,Ross,6,negative,529,1
+3120,monica baby coming,Ross,4,neutral,529,2
+3121,i ca belive i gon na aunt i gon na nephew,Monica,3,positive,529,3
+3122,nice out,Ross,1,negative,529,4
+3123,,Chandler,4,neutral,530,0
+3124,rossy rossy,Rachel,4,neutral,530,1
+3125,,Chandler,0,negative,531,0
+3126,okay quality,Monica,3,positive,531,1
+3127,quality good because i worried guy gon na vague,Chandler,4,neutral,531,2
+3128,hello hello rachel paolo calling rome,Monica,3,positive,531,3
+3129,okay quality,Monica,3,positive,532,0
+3130,yes absolutely quality,All,4,neutral,532,1
+3131,yes absolutely quality,All,4,neutral,533,0
+3132,quality good because i worried guy gon na vague,Chandler,4,neutral,533,1
+3133,hello hello rachel paolo calling rome,Monica,3,positive,534,0
+3134,god calling rome,Rachel,6,positive,534,1
+3135,monica dad beeped can quick talking rome i talking rome,Rachel,3,positive,534,2
+3136,hey dad god ross nana,Monica,5,negative,534,3
+3137,god calling rome,Rachel,6,positive,535,0
+3138,calling rome i could got ta rome,Ross,4,neutral,535,1
+3139,monica dad beeped can quick talking rome i talking rome,Rachel,3,positive,535,2
+3140,came yesterday,Phoebe,3,positive,536,0
+3141,yeah alright i kinda divorce,Duncan,4,neutral,536,1
+3142,yeah yeah sure building sidewalk,Joey,4,neutral,537,0
+3143,,Chandler,6,negative,537,1
+3144,hey since neighbor say together drink,Joey,4,neutral,537,2
+3145,sure u,Chandler,4,neutral,537,3
+3146,ben ben ben,Joey,3,positive,537,4
+3147,joey pepponi,Chandler,4,neutral,538,0
+3148,ethnic agent think i should name neutral,Joey,4,neutral,538,1
+3149,joey switzerland,Chandler,4,neutral,538,2
+3150,plus i should joe,Joey,4,neutral,538,3
+3151,joey make sound i i dunno big,Joey,4,neutral,538,4
+3152,i,Joey,4,neutral,538,5
+3153,joe joe joe stalin,Chandler,4,neutral,538,6
+3154,stalin stalin i name sound familiar,Joey,4,neutral,538,7
+3155,ring bell,Chandler,4,neutral,538,8
+3156,joe stalin pretty good,Joey,3,positive,538,9
+3157,might wan na joseph,Chandler,4,neutral,538,10
+3158,joseph stalin i,Joey,3,positive,538,11
+3159,yes bye bye birdie starring joseph stalin joseph stalin fiddler roof,Chandler,3,positive,538,12
+3160,kidding,Ross,6,negative,539,0
+3161,okay,Ross,4,neutral,539,1
+3162,studied evolution,Ross,3,positive,539,2
+3163,evolution,Ross,3,positive,539,3
+3164,monkey man,Ross,0,negative,539,4
+3165,plus i m doctor i monkey,Ross,4,neutral,539,5
+3166,i m doctor monkey,Ross,0,negative,539,6
+3167,i m arguing,Chandler,4,neutral,539,7
+3168,s joke,Ross,4,neutral,539,8
+3169,,Chandler,0,negative,539,9
+3170,i m arguing,Chandler,4,neutral,540,0
+3171,right i ve heard enough i ve made decision,Monica,4,neutral,540,1
+3172,idiot,Monica,1,negative,540,2
+3173,joke funny s offensive woman doctor monkey,Monica,1,negative,540,3
+3174,shouldn t arguing who get credit should arguing who get blamed inflicting horrible joke world,Monica,0,negative,540,4
+3175,,Monica,0,negative,540,5
+3176,joke suck,Monica,0,negative,540,6
+3177,kidding,Ross,6,negative,541,0
+3178,okay,Ross,4,neutral,541,1
+3179,studied evolution,Ross,3,positive,541,2
+3180,evolution,Ross,3,positive,541,3
+3181,monkey man,Ross,0,negative,541,4
+3182,plus i m doctor i monkey,Ross,4,neutral,541,5
+3183,i m doctor monkey,Ross,0,negative,541,6
+3184,right i ve heard enough i ve made decision,Monica,4,neutral,541,7
+3185,idiot,Monica,1,negative,541,8
+3186,joke funny s offensive woman doctor monkey,Monica,1,negative,541,9
+3187,shouldn t arguing who get credit should arguing who get blamed inflicting horrible joke world,Monica,0,negative,541,10
+3188,,Monica,0,negative,541,11
+3189,joke suck,Monica,0,negative,541,12
+3190,s joke,Ross,4,neutral,541,13
+3191,hey everybody rachel good today gossip,Phoebe,3,positive,542,0
+3192,i didn t,Rachel,3,positive,542,1
+3193,i found right say i found something out something someone say gon na,Rachel,4,neutral,542,2
+3194,i didn t,Rachel,3,positive,543,0
+3195,i found right say i found something out something someone say gon na,Rachel,4,neutral,543,1
+3196,hey pheebs out,Joey,3,positive,543,2
+3197,hey pheebs out,Joey,3,positive,544,0
+3198,ooh nailed old lady,Phoebe,6,positive,544,1
+3199,yeah listen i thought i getting better way home today i stopped guitar store,Joey,4,neutral,544,2
+3200,,Phoebe,0,negative,544,3
+3201,,Joey,4,neutral,544,4
+3202,hand string gim pick guitar,Phoebe,0,negative,544,5
+3203,yes,Joey,3,positive,544,6
+3204,touch one,Phoebe,0,negative,544,7
+3205,,Joey,6,positive,545,0
+3206,yeah,Ross,3,positive,545,1
+3207,thanks,Joey,3,positive,545,2
+3208,right off slow thing tonight name main character,Ross,4,neutral,545,3
+3209,done,Joey,3,positive,545,4
+3210,ca joey,Ross,4,neutral,545,5
+3211,,Joey,4,neutral,545,6
+3212,joseph,Ross,4,neutral,545,7
+3213,,Joey,4,neutral,545,8
+3214,hi,Pete,4,neutral,546,0
+3215,hi hey pete re back hey check out,Monica,3,positive,546,1
+3216,wow skate,Pete,3,positive,546,2
+3217,wow re lot sturdier chandler crumpled piece paper re trip,Monica,6,positive,546,3
+3218,,Pete,4,neutral,546,4
+3219,d ya,Monica,3,positive,546,5
+3220,awww hotel toiletry japan,Monica,3,positive,546,6
+3221,gon na permanent collection,Monica,3,positive,546,7
+3222,coffee,Monica,4,neutral,546,8
+3223,yeah sure d great,Pete,4,neutral,546,9
+3224,regular decaf,Monica,4,neutral,546,10
+3225,closest,Pete,4,neutral,546,11
+3226,okay,Monica,4,neutral,546,12
+3227,i today,Pete,4,neutral,546,13
+3228,today pete,Monica,4,neutral,546,14
+3229,i bought restaurant i would head chef,Pete,3,positive,546,15
+3230,,Monica,6,negative,546,16
+3231,hi,Ross,4,neutral,547,0
+3232,hey,Joey,4,neutral,547,1
+3233,,Joey,4,neutral,547,2
+3234,vet,Ross,4,neutral,547,3
+3235,say marcel humping thing phase apparently reached sexual maturity,Ross,5,negative,547,4
+3236,hey beat ya,Joey,3,positive,547,5
+3237,say time go gon na getting agressive violent,Ross,5,negative,547,6
+3238,vet,Ross,4,neutral,548,0
+3239,gon na wear one big plastic cone,Chandler,2,negative,548,1
+3240,say marcel humping thing phase apparently reached sexual maturity,Ross,5,negative,548,2
+3241,say time go gon na getting agressive violent,Ross,5,negative,548,3
+3242,,Chandler,4,neutral,548,4
+3243,i gon na,Ross,5,negative,548,5
+3244,aww man i can t i locked out again,Joey,0,negative,549,0
+3245,hang buddy,Chandler,0,negative,549,1
+3246,god happened,Joey,6,positive,549,2
+3247,i sure,Chandler,4,neutral,549,3
+3248,seen since i land china guess who charge dig,Ross,6,positive,550,0
+3249,julie julie great i fantastic,Rachel,3,positive,550,1
+3250,may i,Ross,4,neutral,551,0
+3251,yeah if,Rachel,4,neutral,551,1
+3252,,Ross,4,neutral,551,2
+3253,yeah sure,Rachel,4,neutral,551,3
+3254,i,Ross,4,neutral,551,4
+3255,okay rach anything happens i lay down couple ground rule,Ross,4,neutral,551,5
+3256,tonight,Ross,4,neutral,551,6
+3257,i if going question u,Ross,4,neutral,551,7
+3258,i,Ross,3,positive,551,8
+3259,ross,Rachel,4,neutral,551,9
+3260,physical act,Ross,3,positive,551,10
+3261,crazy,Rachel,6,negative,551,11
+3262,trying entice nakedness,Ross,6,positive,551,12
+3263,god saw,Rachel,6,negative,551,13
+3264,trying entice nakedness,Ross,3,positive,551,14
+3265,noo thought actually thought i wanted sex,Rachel,0,negative,551,15
+3266,,Ross,3,positive,551,16
+3267,joey,Director,4,neutral,552,0
+3268,joey tribbiani,Director,4,neutral,552,1
+3269,listen joey i got problem i got dance captain relationship crisis ca out long island,Director,4,neutral,552,2
+3270,audition off,Joey,5,negative,552,3
+3271,listen joey seeing got experience i dancer combination,Director,4,neutral,552,4
+3272,,Joey,6,negative,552,5
+3273,aw joey easy,Director,4,neutral,552,6
+3274,hand hand head head pa de bouree pa de bouree big grand sissone sissone sissone slide back step step step jazz hand,Director,4,neutral,552,7
+3275,step jazz hand,Joey,5,negative,552,8
+3276,fun,Director,4,neutral,552,9
+3277,bye,Joey,4,neutral,552,10
+3278,wow fortunately,Chandler,6,negative,553,0
+3279,i ca uterus inhospitable environment i trying hard good hostess,Monica,6,negative,553,1
+3280,i ca sperm low motility because i growing sure hurry place,Chandler,6,negative,553,2
+3281,hi,Chandler,4,neutral,553,3
+3282,hi,Monica,4,neutral,553,4
+3283,damn,Chandler,0,negative,553,5
+3284,worry while tune out,Monica,4,neutral,553,6
+3285,i ca sperm low motility because i growing sure hurry place,Chandler,6,negative,554,0
+3286,hi,Doctor Connelly,4,neutral,554,1
+3287,hi,Chandler,4,neutral,554,2
+3288,though chance conceiving natural mean great,Doctor Connelly,4,neutral,554,3
+3289,sex regular basis,Doctor Connelly,4,neutral,554,4
+3290,damn,Chandler,0,negative,554,5
+3291,hi,Monica,4,neutral,555,0
+3292,i sorry better news test last week i wanted option,Doctor Connelly,4,neutral,555,1
+3293,ok,Monica,4,neutral,555,2
+3294,though chance conceiving natural mean great,Doctor Connelly,4,neutral,555,3
+3295,sex regular basis,Doctor Connelly,4,neutral,555,4
+3296,worry while tune out,Monica,4,neutral,555,5
+3297,ok given situation option greatest chance success would surrogacy insemination using sperm donor,Doctor Connelly,4,neutral,555,6
+3298,ok,Monica,4,neutral,555,7
+3299,monogamy can tricky concept i anthropologically,Ross,4,neutral,556,0
+3300,fine fine alright,Ross,0,negative,556,1
+3301,kidding u,Monica,3,positive,556,2
+3302,kidding u,Monica,3,positive,557,0
+3303,yeah,All,3,positive,557,1
+3304,monogamy can tricky concept i anthropologically,Ross,4,neutral,558,0
+3305,fine fine alright,Ross,0,negative,558,1
+3306,yeah,All,3,positive,558,2
+3307,alright theory forth richard,Ross,4,neutral,558,3
+3308,hi carol,Ross,4,neutral,559,0
+3309,faculty meeting,Susan,4,neutral,559,1
+3310,i came pick skull mine,Ross,4,neutral,559,2
+3311,,Susan,4,neutral,559,3
+3312,thanks yeah carol borrowed class i back museum,Ross,4,neutral,559,4
+3313,,Susan,4,neutral,559,5
+3314,kinda big face skin,Ross,4,neutral,559,6
+3315,yes i familiar concept can,Susan,4,neutral,559,7
+3316,wow guy sure lot book bein lesbian,Ross,6,positive,559,8
+3317,course otherwise,Susan,4,neutral,559,9
+3318,hey hey yertle turtle classic,Ross,3,positive,559,10
+3319,actually i reading baby,Susan,4,neutral,559,11
+3320,baby born would crazy,Ross,6,positive,559,12
+3321,can sound,Susan,3,positive,559,13
+3322,serious i,Ross,6,negative,559,14
+3323,i idea said,Monica,4,neutral,560,0
+3324,joey phone,Chandler,4,neutral,560,1
+3325,joey phone,Chandler,4,neutral,561,0
+3326,man,Joey,4,neutral,561,1
+3327,i trppd atm vstbl wth,Chandler,2,negative,561,2
+3328,god trapped atm vestibule jill goodacre chandler listen,Joey,6,positive,561,3
+3329,yeah thought entered mind,Chandler,4,neutral,561,4
+3330,o clock,Emily,4,neutral,562,0
+3331,caterer rang said going chicken kiev instead chicken tarragon,Emily,4,neutral,562,1
+3332,florist phoned say aren t tulip,Emily,4,neutral,562,2
+3333,chilliest syndrome,Emily,4,neutral,562,3
+3334,emily honey okay,Ross,6,negative,562,4
+3335,,Emily,0,negative,562,5
+3336,s chandler,Phoebe,4,neutral,563,0
+3337,can t said,Joey,6,negative,563,1
+3338,can t said,Joey,6,negative,564,0
+3339,joey joey tribbiani,Ginger,4,neutral,564,1
+3340,joey i can okay re hiding coat,Ginger,4,neutral,564,2
+3341,okay listen anything i can two,Chandler,4,neutral,565,0
+3342,if don t anything copy going down,Monica,4,neutral,565,1
+3343,if don t anything copy going down,Monica,4,neutral,566,0
+3344,yeah going down gawk hot girl belly button ring again,Joey,0,negative,566,1
+3345,yeah going down gawk hot girl belly button ring again,Joey,0,negative,567,0
+3346,yeah wan na,Chandler,3,positive,567,1
+3347,yeah,Joey,3,positive,567,2
+3348,fine,Ross,4,neutral,568,0
+3349,fine,Joey,4,neutral,568,1
+3350,fine,Joey,4,neutral,569,0
+3351,fine,Rachel,4,neutral,569,1
+3352,fine,Rachel,4,neutral,570,0
+3353,right gon na six hour gon na,Monica,4,neutral,570,1
+3354,someone subway licked neck licked neck,Chandler,1,negative,571,0
+3355,willie s alive,Phoebe,6,positive,571,1
+3356,guy,Chandler,4,neutral,571,2
+3357,great picture standing next guy who s going,Chandler,4,neutral,571,3
+3358,god s creep re,Phoebe,6,negative,571,4
+3359,i don t i can t good picture,Chandler,5,negative,571,5
+3360,guy,Chandler,4,neutral,572,0
+3361,mom called re gon na engagement announcement local paper re looking good picture u,Monica,3,positive,572,1
+3362,oooh i m afraid exist,Chandler,4,neutral,572,2
+3363,s true great picture u,Monica,6,positive,572,3
+3364,great picture standing next guy who s going,Chandler,4,neutral,572,4
+3365,i don t i can t good picture,Chandler,5,negative,572,5
+3366,s great one,Monica,3,positive,572,6
+3367,yeah i m,Chandler,4,neutral,572,7
+3368,i tan,Monica,3,positive,572,8
+3369,chandler say,Monica,4,neutral,572,9
+3370,right i should warn i m going i m going,Chandler,4,neutral,572,10
+3371,i tan,Monica,3,positive,573,0
+3372,hey don t guy portrait done professional photographer,Phoebe,4,neutral,573,1
+3373,s good idea i bet one wind machine y,Monica,3,positive,573,2
+3374,yeah s great next chandler won t stupid,Phoebe,4,neutral,573,3
+3375,chandler say,Monica,4,neutral,573,4
+3376,gim,Monica,0,negative,574,0
+3377,mine,Rachel,0,negative,574,1
+3378,stole,Monica,0,negative,574,2
+3379,stole,Rachel,0,negative,574,3
+3380,gim,Monica,0,negative,574,4
+3381,wan na one,Monica,4,neutral,574,5
+3382,yeah seems fair,Rachel,4,neutral,574,6
+3383,,Rachel,4,neutral,574,7
+3384,don t phase out,Monica,4,neutral,574,8
+3385,yeah fade accent out people will re y re adjusting life america,Monica,0,negative,574,9
+3386,yeah i ross one will notice i re probably listening,Rachel,4,neutral,574,10
+3387,yeah seems fair,Rachel,4,neutral,575,0
+3388,i okay i british accent i,Ross,0,negative,575,1
+3389,,Rachel,4,neutral,575,2
+3390,yeah i ross one will notice i re probably listening,Rachel,4,neutral,575,3
+3391,re listening,Ross,6,negative,575,4
+3392,course re listening everybody listens,Rachel,4,neutral,575,5
+3393,monica i should phasing out thing,Ross,4,neutral,575,6
+3394,gim,Monica,0,negative,576,0
+3395,wan na one,Monica,4,neutral,576,1
+3396,don t phase out,Monica,4,neutral,576,2
+3397,yeah fade accent out people will re y re adjusting life america,Monica,0,negative,576,3
+3398,monica i should phasing out thing,Ross,4,neutral,576,4
+3399,i fine,Monica,4,neutral,576,5
