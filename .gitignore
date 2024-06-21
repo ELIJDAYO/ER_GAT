@@ -8,3 +8,4 @@ emotion_classifier.py
 trainList.pkl
 testList.pkl
 valList.pkl
+*.pkl
