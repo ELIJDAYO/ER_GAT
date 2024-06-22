@@ -1083,6 +1083,6 @@ def getDataLoaderAndLabels(file_path, ranges):
     dataLoader = DataLoader(dataset, batch_size=1, shuffle=False, num_workers=4)
     return dataLoader, labels
     
-DATASET_PATH = "dataset_original"
-# DATASET_PATH = "dataset_drop_noise"
+# DATASET_PATH = "dataset_original"
+DATASET_PATH = "dataset_drop_noise"
 # DATASET_PATH = "dataset_smote"    
