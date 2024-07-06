@@ -3,7 +3,9 @@ import torch.nn as nn
 import torch.nn.functional as F
 from torch.autograd import Variable
 from torch.nn.utils.rnn import pad_sequence
-from torch_geometric.nn import RGCNConv, GraphConv, GATConv, GATv2Conv, RGATConv, GCNConv
+from torch_geometric.nn import RGCNConv, GraphConv, GATConv, GATv2Conv, RGATConv, GCNConv, JumpingKnowledge,\
+global_mean_pool, BatchNorm
+from torch_geometric.data import Data, DataLoader as GDataLoader, Batch
 import numpy as np, itertools, random, copy, math
 from torch_geometric.utils import add_self_loops
 from tensorflow.keras.layers import Dense, Dropout
@@ -732,17 +734,33 @@ class GCNWithSkipConnections(torch.nn.Module):
         self.conv1 = GCNConv(num_features, 64)
         self.conv2 = GCNConv(64, 64)
         self.fc = torch.nn.Linear(64, num_classes)
-        self.skip_transform = torch.nn.Linear(num_features, 64)  # Transform skip connection
+        self.skip_transform = torch.nn.Linear(num_features, 64)
 
     def forward(self, x, edge_index):
-        x_skip = self.skip_transform(x)  # Transform input for skip connection
+        x_skip = self.skip_transform(x)
         x = self.conv1(x, edge_index)
         x = F.relu(x)
         x = self.conv2(x, edge_index)
-        x += x_skip  # Add skip connection
+        x += x_skip
         x = self.fc(x)
         return F.log_softmax(x, dim=1)
+    
+class GCNWithConcatenation(torch.nn.Module):
+    def __init__(self, num_features, num_classes):
+        super(GCNWithConcatenation, self).__init__()
+        self.conv1 = GCNConv(num_features, 64)
+        self.conv2 = GCNConv(64, 64)
+        self.fc = torch.nn.Linear(64 + num_features, num_classes)  # Adjust input size to account for concatenation
 
+    def forward(self, x, edge_index):
+        x_orig = x  # Keep original BERT embeddings
+        x = self.conv1(x, edge_index)
+        x = F.relu(x)
+        x = self.conv2(x, edge_index)
+        x = torch.cat([x, x_orig], dim=1)  # Concatenate original embeddings with GCN output
+        x = self.fc(x)
+        return F.log_softmax(x, dim=1)
+    
 class RGCNWithGAT(torch.nn.Module):
     def __init__(self, num_features, num_classes, num_relations):
         super(RGCNWithGAT, self).__init__()
@@ -909,31 +927,22 @@ class EGATConv(nn.Module):
 class EdgeGATWithSkipConnection(nn.Module):
     def __init__(self, in_node_feats, in_edge_feats=3, out_node_feats=64, out_edge_feats=3, num_heads=4, num_classes=7):
         super(EdgeGATWithSkipConnection, self).__init__()
-        self.egat = EGATConv(in_node_feats, in_edge_feats, out_node_feats, out_edge_feats, num_heads)
-        self.gcn = GCNConv(out_node_feats, out_node_feats)  # GCN layer
+        self.egat1 = EGATConv(in_node_feats, in_edge_feats, out_node_feats, out_edge_feats, num_heads)
+        self.egat2 = EGATConv(out_node_feats, out_edge_feats, out_node_feats, out_edge_feats, num_heads)
         self.skip_transformation = nn.Linear(in_node_feats, out_node_feats)
         self.fc = nn.Linear(out_node_feats, num_classes)
 
     def forward(self, graph, nfeats, efeats):
-        # EGAT layer
-        x, e = self.egat(graph, nfeats, efeats)
+        # Add self-loops to edge_index and adjust edge_attr accordingly if needed
+#         print(f"nfeats shape: {nfeats.shape}")
+        x_skip = self.skip_transformation(nfeats)  # Transform the input for the skip connection
+        x, e = self.egat1(graph, nfeats, efeats)
         x = x.max(dim=1).values  # Aggregate over heads
         x = F.relu(x)
-
-        # Skip connection
-        x_skip = self.skip_transformation(nfeats)  # Transform the input for the skip connection
-        print(graph)
-        # GCN layer
-        x = self.gcn(graph, x)
-        x = F.relu(x)
-
-        # Combine with skip connection
-        x += x_skip
-
-        # Global pooling
-        x = global_max_pool(x, graph.batch)  # Assuming graph.batch is provided
-
-        # Final classification layer
+        x, e = self.egat2(graph, x, efeats)  # Ensure x is reshaped properly
+        x = x.max(dim=1).values  # Aggregate over heads
+        
+        x += x_skip  # Add skip connection
         x = self.fc(x)
         return F.log_softmax(x, dim=1)
     
@@ -947,10 +956,9 @@ class EdgeGATWithGCN(nn.Module):
         self.fc = nn.Linear(out_node_feats, num_classes)
 
     def forward(self, graph, nfeats, efeats):
-        # Convert DGLGraph to PyTorch Geometric Data object
         data = self.convert_to_pyg_data(graph, nfeats, efeats)
 
-        # EGAT layer 1
+        x_skip = self.skip_transformation(nfeats)  # Transform the input for the skip connection
         x, e = self.egat1(graph, nfeats, efeats)
         x = x.max(dim=1).values  # Aggregate over heads
         x = F.relu(x)
@@ -960,15 +968,56 @@ class EdgeGATWithGCN(nn.Module):
 #         x = F.relu(x)
 
         # Skip connection
-        x_skip = self.skip_transformation(data.x)  # Transform the input for the skip connection
 
         # GCN layer
         x = self.gcn(x, data.edge_index)
-
-        # Combine with skip connection
         x += x_skip
+        x = self.fc(x)
+        return F.log_softmax(x, dim=1)
 
-        # Final classification layer
+    def convert_to_pyg_data(self, graph, nfeats, efeats):
+        # Extract features from DGL graph
+        x = nfeats  # Node features
+
+        # Extract edge indices
+        src, dst = graph.edges()
+        edge_index = torch.stack([src, dst], dim=0).long()
+
+        # Assuming edge features are in the form suitable for PyTorch Geometric
+        edge_attr = efeats
+
+        # Create PyTorch Geometric Data object
+        data = Data(x=x, edge_index=edge_index, edge_attr=edge_attr)
+        data.num_nodes = graph.number_of_nodes()  # Set number of nodes
+        data.batch = torch.zeros(x.size(0), dtype=torch.long)  # Dummy batch attribute
+
+        return data
+    
+class Edge2GATWithGCN(nn.Module):
+    def __init__(self, in_node_feats, in_edge_feats=3, out_node_feats=64, out_edge_feats=3, num_heads=4, num_classes=7):
+        super(Edge2GATWithGCN, self).__init__()
+        self.egat1 = EGATConv(in_node_feats, in_edge_feats, out_node_feats, out_edge_feats, num_heads)
+        self.egat2 = EGATConv(out_node_feats, out_edge_feats, out_node_feats, out_edge_feats, num_heads)
+        self.gcn = GCNConv(out_node_feats, out_node_feats)  # GCN layer
+        self.skip_transformation = nn.Linear(in_node_feats, out_node_feats)
+        self.fc = nn.Linear(out_node_feats, num_classes)
+
+    def forward(self, graph, nfeats, efeats):
+        data = self.convert_to_pyg_data(graph, nfeats, efeats)
+
+        x_skip = self.skip_transformation(nfeats)  # Transform the input for the skip connection
+        x, e = self.egat1(graph, nfeats, efeats)
+        x = x.max(dim=1).values  # Aggregate over heads
+        x = F.relu(x)
+        x, e = self.egat2(graph, x, efeats)  # Ensure x is reshaped properly
+        x = x.max(dim=1).values  # Aggregate over heads
+        x = F.relu(x)
+
+        # Skip connection
+
+        # GCN layer
+        x = self.gcn(x, data.edge_index)
+        x += x_skip
         x = self.fc(x)
         return F.log_softmax(x, dim=1)
 
@@ -1350,3 +1399,5 @@ def getDataLoaderAndLabels(file_path, ranges):
 DATASET_PATH = "dataset_original"
 # DATASET_PATH = "dataset_drop_noise"
 # DATASET_PATH = "dataset_smote"    
+# DATASET_PATH = "dataset_drop_short_graphs"
+# DATASET_PATH = "dataset_drop_long_graphs"
