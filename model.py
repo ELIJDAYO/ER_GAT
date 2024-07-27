@@ -761,6 +761,23 @@ class GCNWithConcatenation(torch.nn.Module):
         x = self.fc(x)
         return F.log_softmax(x, dim=1)
     
+class GCNWithConcatenationAndGetTP(torch.nn.Module):
+    def __init__(self, num_features, num_classes):
+        super(GCNWithConcatenationAndGetTP, self).__init__()
+        self.conv1 = GCNConv(num_features, 64)
+        self.conv2 = GCNConv(64, 64)
+        self.fc = torch.nn.Linear(64 + num_features, num_classes)  # Adjust input size to account for concatenation
+
+    def forward(self, x, edge_index):
+        x_orig = x  # Keep original BERT embeddings
+        x = self.conv1(x, edge_index)
+        x = F.relu(x)
+        x = self.conv2(x, edge_index)
+        x = torch.cat([x, x_orig], dim=1)
+        x_copy = x
+        x = self.fc(x)
+        return F.log_softmax(x, dim=1), x_copy
+    
 class RGCNWithGAT(torch.nn.Module):
     def __init__(self, num_features, num_classes, num_relations):
         super(RGCNWithGAT, self).__init__()
@@ -945,6 +962,29 @@ class EdgeGATWithSkipConnection(nn.Module):
         x += x_skip  # Add skip connection
         x = self.fc(x)
         return F.log_softmax(x, dim=1)
+    
+class EdgeGATWithSkipConnectionAndGetTP(nn.Module):
+    def __init__(self, in_node_feats, in_edge_feats=3, out_node_feats=64, out_edge_feats=3, num_heads=4, num_classes=7):
+        super(EdgeGATWithSkipConnectionAndGetTP, self).__init__()
+        self.egat1 = EGATConv(in_node_feats, in_edge_feats, out_node_feats, out_edge_feats, num_heads)
+        self.egat2 = EGATConv(out_node_feats, out_edge_feats, out_node_feats, out_edge_feats, num_heads)
+        self.skip_transformation = nn.Linear(in_node_feats, out_node_feats)
+        self.fc = nn.Linear(out_node_feats, num_classes)
+
+    def forward(self, graph, nfeats, efeats):
+        # Add self-loops to edge_index and adjust edge_attr accordingly if needed
+#         print(f"nfeats shape: {nfeats.shape}")
+        x_skip = self.skip_transformation(nfeats)  # Transform the input for the skip connection
+        x, e = self.egat1(graph, nfeats, efeats)
+        x = x.max(dim=1).values  # Aggregate over heads
+        x = F.relu(x)
+        x, e = self.egat2(graph, x, efeats)  # Ensure x is reshaped properly
+        x = x.max(dim=1).values  # Aggregate over heads
+        
+        x += x_skip  # Add skip connection
+        x_copy = x
+        x = self.fc(x)
+        return F.log_softmax(x, dim=1), x_copy
     
 class EdgeGATWithGCN(nn.Module):
     def __init__(self, in_node_feats, in_edge_feats=3, out_node_feats=64, out_edge_feats=3, num_heads=4, num_classes=7):
